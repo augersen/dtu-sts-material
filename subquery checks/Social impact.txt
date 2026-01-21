@@ -5,6 +5,7 @@ MATCHING STATEMENTS: 4
 YEAR RANGE: 2015 - 2025
 RELEVANT CLUSTERS: 1
 CLUSTER DISTRIBUTION: {'(None)': 4}
+SOCIAL MEDIA USERS EXCLUDED: Yes
 SORTED BY: Year (chronological order)
 ================================================================================
 

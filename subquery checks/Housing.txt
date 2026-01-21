@@ -1,10 +1,11 @@
 ================================================================================
 TOPIC: Housing
 ISSUE: 11 - How will energy islands impact local communities?
-MATCHING STATEMENTS: 30
+MATCHING STATEMENTS: 22
 YEAR RANGE: 2002 - 2025
-RELEVANT CLUSTERS: 7
-CLUSTER DISTRIBUTION: {'(None)': 19, 'Job creation and innovation': 5, 'The nuclear alternative': 1, 'Development & innovation opportunities on Bornholm': 2, 'Green growth in Esbjerg': 1, 'Denmark as a green energy pioneer': 1, 'Energy hubs towards P2X': 1}
+RELEVANT CLUSTERS: 5
+CLUSTER DISTRIBUTION: {'(None)': 14, 'Job creation and innovation': 4, 'Development & innovation opportunities on Bornholm': 2, 'Green growth in Esbjerg': 1, 'Energy hubs towards P2X': 1}
+SOCIAL MEDIA USERS EXCLUDED: Yes
 SORTED BY: Year (chronological order)
 ================================================================================
 
@@ -24,15 +25,7 @@ The Energy Island uses many diverse renewable energy sources, bringing their con
 
 --------------------------------------------------------------------------------
 
-2. ID: 1772
-   Year: 2019
-   Cluster: (None)
-   Actor: Facebook user
-   Statement: The Danish Energy Island projects should not involve building solar panels and wind turbines on Lindholm Island due to the island's unique history, nature, and biodiversity. Instead, Lindholm's isolated housing and workshops should be used to establish a national treatment and detoxification center for substance abusers. This alternative would not only preserve the island's natural and historical significance but also create much-needed jobs in the local area.
-
---------------------------------------------------------------------------------
-
-3. ID: 7315
+2. ID: 7315
    Year: 2020
    Cluster: (None)
    Actor: Director Bjarne Pedersen
@@ -40,49 +33,7 @@ The Energy Island uses many diverse renewable energy sources, bringing their con
 
 --------------------------------------------------------------------------------
 
-4. ID: 58
-   Year: 2021
-   Cluster: (None)
-   Actor: LinkedIn user
-   Statement: I think Denmark should proceed with building the world’s first true energy island, as this is a unique and groundbreaking project. The energy island has the potential to become the most significant public-private partnership in Danish history. 
-
-Private actors such as PFA, PensionDanmark, Andel, and Copenhagen Infrastructure Partners are ready to invest both capital and effort to turn this vision into reality. The energy island will serve as a hub for 10 GW of offshore wind power while providing harbor and housing facilities for maintenance ships and personnel. Additionally, it will foster large-scale innovation in energy storage and power-to-x technologies.
-
-I think the comparison to a traditional steel platform is best summarized by Tommy Ahlers, who explains that when the costs of constructing 3 GW of offshore wind power are the same, the energy island provides far more flexibility and opportunities for future development. Therefore, it makes sense to prioritize the island, which is more innovative and could position Denmark to lead in creating an entirely new industry, gaining valuable experience as the first nation to build such an island.
-
---------------------------------------------------------------------------------
-
-5. ID: 1777
-   Year: 2021
-   Cluster: The nuclear alternative
-   Actor: Facebook user
-   Statement: It's foolish to spend 210 billion kroner on an island and wind turbines if Denmark wants to be a pioneer in green energy. Denmark should keep its gas and instead use those 210 billion kroner as subsidies for solar roofs that could supply homes, housing associations, businesses and others with heat, light, and power for electric cars, bicycles, and more... now that would be true green energy.
-
---------------------------------------------------------------------------------
-
-6. ID: 5540
-   Year: 2021
-   Cluster: Denmark as a green energy pioneer
-   Actor: LinkedIn user
-   Statement: I strongly support Denmark's initiative to build the world's first true energy island. This unique project has the potential to become the most significant public-private partnership in Danish history. Major investors including PFA, PensionDanmark, Andel, and Copenhagen Infrastructure Partners are ready to invest capital and resources to make the energy island a reality.
-
-The energy island will serve as a hub for 10 GW of offshore wind power while providing port and housing facilities for maintenance vessels and personnel. The island ensures optimal conditions for innovation in large-scale energy storage and power-to-x technology. When comparing costs with a traditional steel platform for 3 GW capacity, the island concept offers much more flexibility and future opportunities at a similar cost. The island's innovative construction will give Denmark a first-mover advantage in creating a Danish business success story, as Denmark will be the first to gain experience in building such a facility.
-
---------------------------------------------------------------------------------
-
-7. ID: 6864
-   Year: 2022
-   Cluster: (None)
-   Actor: Reddit user
-   Statement: In this case, the wind turbines are located far offshore. Normally, a substation collects the cables from all the turbines, consolidating the power into a single cable that runs to land. 
-
-Substations are typically placed on a steel platform supported by piles. However, a substation can become very large and complex if it needs to handle electricity from three or more wind farms and export power to multiple countries. 
-
-If there is also a need for Power-to-X facilities and housing for service personnel and materials, an artificial island might start to make more sense.
-
---------------------------------------------------------------------------------
-
-8. ID: 6049
+3. ID: 6049
    Year: 2022
    Cluster: Development & innovation opportunities on Bornholm
    Actor: Hanne Storm Edlefsen
@@ -94,7 +45,7 @@ Even transporting the cables to their designated locations will be a major logis
 
 --------------------------------------------------------------------------------
 
-9. ID: 3075
+4. ID: 3075
    Year: 2022
    Cluster: Green growth in Esbjerg
    Actor: Jesper Frost Rasmussen
@@ -102,23 +53,7 @@ Even transporting the cables to their designated locations will be a major logis
 
 --------------------------------------------------------------------------------
 
-10. ID: 38
-   Year: 2023
-   Cluster: (None)
-   Actor: Energinet
-   Statement: Energinet is currently identifying the best locations for new high-voltage stations required for the Danish Energy Islands, including Energy Island Bornholm and Energy Island North Sea. This process considers factors such as soil conditions, the presence of dikes and historical landmarks, as well as proximity to housing, roads, cables, and pipelines. The Energy Islands represent a significant step in Denmark's green transition, though establishing high-voltage stations has a visual impact on the landscape. Energinet has identified potential areas on Bornholm, Zealand, and Jutland for these facilities. Further details about the site selection process are available in the Energy Islands newsletter.
-
---------------------------------------------------------------------------------
-
-11. ID: 6929
-   Year: 2023
-   Cluster: (None)
-   Actor: Facebook user
-   Statement: That must surely be bordering on a violation of the Equal Treatment Act. At the very least, it’s hard to see how being an "energy island employee" could be considered an objective social criterion. It reminds me of SF’s proposal to give police officers and nurses priority access to public housing. That was branded as an incredibly antisocial proposal that would undermine the principles of equality in our society. Thankfully, that proposal was also rejected.
-
---------------------------------------------------------------------------------
-
-12. ID: 6234
+5. ID: 6234
    Year: 2023
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -126,7 +61,7 @@ Even transporting the cables to their designated locations will be a major logis
 
 --------------------------------------------------------------------------------
 
-13. ID: 6208
+6. ID: 6208
    Year: 2023
    Cluster: (None)
    Actor: Claus Larsen-Jensen
@@ -140,7 +75,7 @@ The Energy Island project is expected to bring a significant influx of new labor
 
 --------------------------------------------------------------------------------
 
-14. ID: 5984
+7. ID: 5984
    Year: 2023
    Cluster: Energy hubs towards P2X
    Actor: Jacob Østergaard
@@ -173,7 +108,7 @@ would be impossible without energy islands.
 
 --------------------------------------------------------------------------------
 
-15. ID: 5770
+8. ID: 5770
    Year: 2023
    Cluster: (None)
    Actor: Linda Kofoed Persson
@@ -181,7 +116,7 @@ would be impossible without energy islands.
 
 --------------------------------------------------------------------------------
 
-16. ID: 4547
+9. ID: 4547
    Year: 2023
    Cluster: (None)
    Actor: Danish Energy Agency
@@ -197,7 +132,7 @@ This potential significant impact could, however, be mitigated, for example, by 
 
 --------------------------------------------------------------------------------
 
-17. ID: 2874
+10. ID: 2874
    Year: 2023
    Cluster: (None)
    Actor: Annsofie Gundlach
@@ -205,15 +140,15 @@ This potential significant impact could, however, be mitigated, for example, by 
 
 --------------------------------------------------------------------------------
 
-18. ID: 2852
+11. ID: 38
    Year: 2023
-   Cluster: Development & innovation opportunities on Bornholm
-   Actor: Jacob Trøst
-   Statement: I strongly believe that the energy island will help us grow our local businesses, attract new residents and visitors, create new educational programs and apprenticeships, and ensure the construction of sustainable facilities with minimal environmental impact. I also see opportunities for our harbors to serve as service hubs and for the construction of new permanent housing.
+   Cluster: (None)
+   Actor: Energinet
+   Statement: Energinet is currently identifying the best locations for new high-voltage stations required for the Danish Energy Islands, including Energy Island Bornholm and Energy Island North Sea. This process considers factors such as soil conditions, the presence of dikes and historical landmarks, as well as proximity to housing, roads, cables, and pipelines. The Energy Islands represent a significant step in Denmark's green transition, though establishing high-voltage stations has a visual impact on the landscape. Energinet has identified potential areas on Bornholm, Zealand, and Jutland for these facilities. Further details about the site selection process are available in the Energy Islands newsletter.
 
 --------------------------------------------------------------------------------
 
-19. ID: 2484
+12. ID: 2484
    Year: 2023
    Cluster: (None)
    Actor: Ebbe Frank
@@ -221,7 +156,7 @@ This potential significant impact could, however, be mitigated, for example, by 
 
 --------------------------------------------------------------------------------
 
-20. ID: 2480
+13. ID: 2480
    Year: 2023
    Cluster: (None)
    Actor: Claus Larsen-Jensen
@@ -229,7 +164,7 @@ This potential significant impact could, however, be mitigated, for example, by 
 
 --------------------------------------------------------------------------------
 
-21. ID: 1871
+14. ID: 1871
    Year: 2023
    Cluster: Job creation and innovation
    Actor: Stig Westermann
@@ -245,7 +180,7 @@ In the current municipal council, more than a year after we took office - for se
 
 --------------------------------------------------------------------------------
 
-22. ID: 1786
+15. ID: 1786
    Year: 2023
    Cluster: (None)
    Actor: Bornholms RegionsMunicipality
@@ -258,31 +193,29 @@ In return, the municipality demands that six of the 18 homes be offered to emplo
 
 --------------------------------------------------------------------------------
 
-23. ID: 4834
-   Year: 2024
-   Cluster: Job creation and innovation
-   Actor: LinkedIn user
-   Statement: Sunshine Island, Energy Island, Island of the Future – Communities at the Heart of the Baltic Sea ❤️
-
-Two overwhelming and inspiring days on a study trip with Stevns Municipality on Bornholm are coming to an end. The impressions were so numerous that it feels almost impossible to pick the most exciting part to describe. We heard about ambitious, grand visions and the small, local initiatives within communities. 😃
-
-We heard about everything from something as large as Energy Island Bornholm serving as a lever for development, Bornholm as a test laboratory for green energy, The Green Wave, and the High Lyng Trail, to the renovation of the Old Power Plant, a village cluster, a rescue operation for Dagli’Brugsen in Pedersker, new community spaces in villages, and the Apprentice House in Sandkås. We even learned a bit about district heating solutions, PtX, and took a walk through a rift valley. 🙌
-
-Of course, we also stopped by Hammer Harbour for lunch in the sea mist and stayed overnight at a hotel in the old station building in Rønne – Rønne H. 🚂
-
-One of the strongest impressions is what can be achieved when there is a strong sense of community, love, and belief in one's local area. 🙏
-
-I could easily make 10–15 posts about the trip and already have many concrete ideas bubbling in my mind on the way home in the Kombardo bus. For example, the Apprentice House, which directly ties into our thoughts in the Committee for Sustainable Housing about creating a demonstration house for energy-efficient and sustainable renovation while preserving architecture, traditions, and craftsmanship. Imagine if we could launch a project where apprentices could restore old houses, and the sales financed the purchase of the next house.
-
-We must be able to find partners for this. 😍
-
-... and what about the High Lyng Trail, which aligns perfectly with my vision of being able to walk from Klint to Ådal through the heart of #Stevns without stepping on a road? 💚
-
-Thank you, #Bornholm – you never disappoint! 🥰
+16. ID: 2852
+   Year: 2023
+   Cluster: Development & innovation opportunities on Bornholm
+   Actor: Jacob Trøst
+   Statement: I strongly believe that the energy island will help us grow our local businesses, attract new residents and visitors, create new educational programs and apprenticeships, and ensure the construction of sustainable facilities with minimal environmental impact. I also see opportunities for our harbors to serve as service hubs and for the construction of new permanent housing.
 
 --------------------------------------------------------------------------------
 
-24. ID: 2163
+17. ID: 4380
+   Year: 2024
+   Cluster: (None)
+   Actor: Andreas Skriver Hansen
+   Statement: The wind farm proposed as part of the Danish "Energy Island" projects will significantly impact Bornholm. The turbines, though distant, will be visible from the coast and even from central and elevated areas, altering the island’s seascape and southern landscape. This change is particularly concerning due to the increased size and area coverage of the towers compared to earlier installations. While the southwest part of the island has low population density, it includes numerous summer house areas near popular sandy beaches and open sea access, where visibility of the turbines is especially concerning.
+
+Additionally, the installation will affect coastal and marine-based recreational activities. The landing of cables from the offshore wind farm near popular beaches could deter beachgoers and kayakers due to the proximity of high-voltage cables. Recreational fishing, a significant industry for Bornholm with annual competitions, may also suffer due to disruptions in the coastal and offshore areas.
+
+From a marketing perspective, integrating the energy island into Bornholm’s tourism identity poses a challenge. The island’s brand emphasizes an idyllic, natural, and unspoiled image with coastal activities, historic townscapes, and sea-themed experiences. The industrial presence of the energy island conflicts with this branding and has created division among residents and tourists, especially second homeowners.
+
+Another unresolved issue is housing the temporary workforce, expected to exceed 1,000 workers, during the installation phases. These workers typically stay in hotels and summerhouses during off-peak seasons. However, local hospitality services oppose this solution, as it could displace regular tourists and hurt long-term tourism revenue. Alternative, costlier accommodation solutions are needed, but local authorities have yet to address this challenge effectively.
+
+--------------------------------------------------------------------------------
+
+18. ID: 2163
    Year: 2024
    Cluster: (None)
    Actor: Lars Aagaard
@@ -297,17 +230,7 @@ The assessment was based on the applicable analysis assumptions, specifically AF
 
 --------------------------------------------------------------------------------
 
-25. ID: 6685
-   Year: 2024
-   Cluster: (None)
-   Actor: Mette Jeppesen
-   Statement: We want the citizens who live near these projects to have as much influence as possible. What makes these energy projects special is that there is an ongoing negotiation between the stakeholders and the municipality. We believe these projects should give something back to the local areas. This could involve significant funding for community development, opportunities for local residents to buy into the projects, or access to affordable, if not free, electricity.
-
-What is most important to the Planning and Housing Committee is that the neighbors of these projects must also benefit from them.
-
---------------------------------------------------------------------------------
-
-26. ID: 541
+19. ID: 541
    Year: 2024
    Cluster: Job creation and innovation
    Actor: Business Center Bornholm
@@ -315,7 +238,7 @@ What is most important to the Planning and Housing Committee is that the neighbo
 
 --------------------------------------------------------------------------------
 
-27. ID: 62
+20. ID: 62
    Year: 2024
    Cluster: (None)
    Actor: Energinet
@@ -327,21 +250,17 @@ We have identified suitable areas on Bornholm, Zealand, and Jutland for these ne
 
 --------------------------------------------------------------------------------
 
-28. ID: 4380
+21. ID: 6685
    Year: 2024
    Cluster: (None)
-   Actor: Andreas Skriver Hansen
-   Statement: The wind farm proposed as part of the Danish "Energy Island" projects will significantly impact Bornholm. The turbines, though distant, will be visible from the coast and even from central and elevated areas, altering the island’s seascape and southern landscape. This change is particularly concerning due to the increased size and area coverage of the towers compared to earlier installations. While the southwest part of the island has low population density, it includes numerous summer house areas near popular sandy beaches and open sea access, where visibility of the turbines is especially concerning.
+   Actor: Mette Jeppesen
+   Statement: We want the citizens who live near these projects to have as much influence as possible. What makes these energy projects special is that there is an ongoing negotiation between the stakeholders and the municipality. We believe these projects should give something back to the local areas. This could involve significant funding for community development, opportunities for local residents to buy into the projects, or access to affordable, if not free, electricity.
 
-Additionally, the installation will affect coastal and marine-based recreational activities. The landing of cables from the offshore wind farm near popular beaches could deter beachgoers and kayakers due to the proximity of high-voltage cables. Recreational fishing, a significant industry for Bornholm with annual competitions, may also suffer due to disruptions in the coastal and offshore areas.
-
-From a marketing perspective, integrating the energy island into Bornholm’s tourism identity poses a challenge. The island’s brand emphasizes an idyllic, natural, and unspoiled image with coastal activities, historic townscapes, and sea-themed experiences. The industrial presence of the energy island conflicts with this branding and has created division among residents and tourists, especially second homeowners.
-
-Another unresolved issue is housing the temporary workforce, expected to exceed 1,000 workers, during the installation phases. These workers typically stay in hotels and summerhouses during off-peak seasons. However, local hospitality services oppose this solution, as it could displace regular tourists and hurt long-term tourism revenue. Alternative, costlier accommodation solutions are needed, but local authorities have yet to address this challenge effectively.
+What is most important to the Planning and Housing Committee is that the neighbors of these projects must also benefit from them.
 
 --------------------------------------------------------------------------------
 
-29. ID: 2833
+22. ID: 2833
    Year: 2025
    Cluster: Job creation and innovation
    Actor: Private person
@@ -350,14 +269,6 @@ Another unresolved issue is housing the temporary workforce, expected to exceed 
 We must push for investments that address the island's housing shortage—both to accommodate the incoming workforce related to the Energy Island and to create long-term improvements for the local population. Immediate action is required, such as establishing student housing, as current shortages are already preventing nursing students from studying here. Ensuring the survival of Campus Bornholm is also essential for retaining and attracting new residents.
 
 Some partners involved may consider such demands minor in the grand scheme of things, but we need decisive politicians who insist on housing developments in return for hosting large-scale infrastructure. Our message should be clear: if Bornholm provides land for major industrial installations, we deserve tangible support to strengthen our community.
-
---------------------------------------------------------------------------------
-
-30. ID: 7431
-   Year: 2025
-   Cluster: (None)
-   Actor: Facebook user
-   Statement: Don't you think it's time to start considering the neighbors of the facility? I received a letter from our mayor Jacob Trøst last summer asking if we would be informed in the fall of 2024 regarding our housing situation, but we have heard nothing! We simply don't think this is acceptable. 😒
 
 --------------------------------------------------------------------------------
 

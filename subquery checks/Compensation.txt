@@ -1,10 +1,11 @@
 ================================================================================
 TOPIC: Compensation
 ISSUE: 11 - How will energy islands impact local communities?
-MATCHING STATEMENTS: 51
+MATCHING STATEMENTS: 47
 YEAR RANGE: 2019 - 2025
 RELEVANT CLUSTERS: 8
-CLUSTER DISTRIBUTION: {'Job creation and innovation': 12, 'Local opposition and citizen concerns about Bornholm project': 6, '(None)': 25, 'German collaboration': 1, 'Financial uncertainty around Bornholm project': 1, 'Waste of tax payer’s money': 4, 'Strategy and planning': 1, 'Development & innovation opportunities on Bornholm': 1}
+CLUSTER DISTRIBUTION: {'Job creation and innovation': 12, 'Local opposition and citizen concerns about Bornholm project': 5, '(None)': 22, 'German collaboration': 1, 'Financial uncertainty around Bornholm project': 1, 'Waste of tax payer’s money': 4, 'Strategy and planning': 1, 'Development & innovation opportunities on Bornholm': 1}
+SOCIAL MEDIA USERS EXCLUDED: Yes
 SORTED BY: Year (chronological order)
 ================================================================================
 
@@ -115,15 +116,7 @@ If all citizens in Denmark had their property value halved due to the green tran
 
 --------------------------------------------------------------------------------
 
-7. ID: 4626
-   Year: 2022
-   Cluster: Local opposition and citizen concerns about Bornholm project
-   Actor: Facebook user
-   Statement: We, as citizens, were completely blindsided by the Energy Island plans. The public meeting was poorly conducted, with Energinet unable—or unwilling—to answer key questions. Concerns about noise, the extent of environmental damage both on land and at sea, ruined views on land and across the water, property values, and compensation were all met with silence. Around 150 frustrated and disappointed neighbors attended, all opposing the planned 90-hectare construction in Bornholm's natural landscape. The ugly concrete area will be the size of 130 football fields. Energinet needs to send representatives next time who actually know the direction of the project and its goals. Right now, Energinet is running an unrestrained mega-project that threatens Bornholm’s delicate natural areas on land and along the coast.
-
---------------------------------------------------------------------------------
-
-8. ID: 156
+7. ID: 156
    Year: 2022
    Cluster: German collaboration
    Actor: Climate, Energy and Utilities Committee
@@ -131,41 +124,19 @@ If all citizens in Denmark had their property value halved due to the green tran
 
 --------------------------------------------------------------------------------
 
-9. ID: 3398
-   Year: 2023
-   Cluster: Job creation and innovation
-   Actor: Claus Larsen-Jensen
-   Statement: The Danish government’s decision means Bornholm must prepare for the potential establishment of a power-to-X facility. Companies interested in power-to-X projects are now accelerating their plans, identifying locations for these facilities. Ørsted and Copenhagen Infrastructure Partners have already announced plans to build two additional offshore wind farms near Bornholm, complementing Energy Island Bornholm. This momentum must translate into ensuring a power-to-X facility is established on Bornholm.
-
-A power-to-X facility is critical for Bornholm's future. CRT's research shows that such a facility could significantly boost the island’s population and economy, addressing pressing needs. To support this, Energinet's unused land allocated for onshore facilities should be prioritized for a green business park, which could include a power-to-X facility. Additional land may also be required for this initiative.
-
-I acknowledge that this will significantly impact South Bornholm, more so than the onshore infrastructure for Energy Island. However, it will centralize green businesses geographically, providing clarity and stability for Bornholm residents rather than making ad-hoc decisions about land use, which creates uncertainty.
-
-I recognize that this process will involve property and land acquisitions, requiring compensation for affected owners. The Energinet land facility case highlighted the need for legislative changes to ensure adequate compensation for neighbors. We are awaiting these legislative updates, which I expect to be enacted. Additionally, a development company could ensure that issues faced by neighbors of the land facility are not repeated in the context of the green business park and power-to-X development.
-
---------------------------------------------------------------------------------
-
-10. ID: 2871
+8. ID: 2870
    Year: 2023
    Cluster: (None)
-   Actor: Jacob Trøst
-   Statement: I understand the frustrations and challenges faced by residents like Flemming Pihl, who are directly impacted by the construction of the Energy Island land facility. The current law does not allow Energinet to purchase properties or provide compensation to those affected by projects like this, unlike the provisions available for infrastructure projects such as railways or highways.  
+   Actor: Private person
+   Statement: My wife and I have lived at Søndre Landevej 43 for 39 years, building our lives and saving in our home to secure a stable future for our retirement. Now, with the construction of the Energy Island land facility, we are being forced to face the reality that our home's value has been drastically reduced. Our savings, which we intended to use for a comfortable retirement, have effectively disappeared. I estimate that 750,000 kroner is gone, and it feels like outright theft.  
 
-I am working to address this issue by advocating for a legal amendment that would allow for fair compensation. This could involve changes to the VE law, which is currently used to compensate neighbors of renewable energy projects for property value losses. Given the scale of the land facility, I believe it is necessary to update the law to ensure that those affected are supported appropriately.  
+Energinet has informed us that we will not receive any compensation, despite the fact that we will be directly affected by the project. Our home will be adjacent to a massive industrial facility, surrounded by years of construction noise, making it impossible to sell or even rent out. This has destroyed our financial plans, and we feel utterly abandoned.  
 
-While I cannot predict how Parliament will respond to this proposal, I am committed to pushing for a solution that balances the need for renewable energy development with fairness and support for those impacted by these large-scale projects.
-
---------------------------------------------------------------------------------
-
-11. ID: 6067
-   Year: 2023
-   Cluster: (None)
-   Actor: private person
-   Statement: If the local plan area expands and new laws allow compensation for neighbors near transformer stations, residents up to 1.5-2 km away should be compensated. Legislation must ensure fair treatment, extending as far as possible.
+We are demanding fair compensation for the losses we are forced to endure. It is deeply unfair that we, as residents, are left with nothing while this enormous project moves forward without considering the real, personal consequences it imposes on people like us.
 
 --------------------------------------------------------------------------------
 
-12. ID: 2860
+9. ID: 2860
    Year: 2023
    Cluster: Waste of tax payer’s money
    Actor: Private person
@@ -179,7 +150,55 @@ Bornholm deserves compensation for this attack on its heritage and values. At a 
 
 --------------------------------------------------------------------------------
 
-13. ID: 4001
+10. ID: 2591
+   Year: 2023
+   Cluster: (None)
+   Actor: Yanan Li
+   Statement: Energy islands integrating renewable energy like wind and solar offer a comprehensive system for energy generation, consumption, and storage. They reduce land and sea transmission costs by serving as centers for energy storage, conversion, and hydrogen production. Energy islands can also support marine development by combining offshore wind power with fisheries and tourism, enhancing economic potential. Though initial construction costs are high, long-term benefits include better wind resources, reduced compensation for fisheries, lower transportation costs for equipment, and centralized maintenance hubs. Future efforts will focus on optimizing construction feasibility, efficiency, and environmental sustainability through mathematical modeling and simulations.
+
+--------------------------------------------------------------------------------
+
+11. ID: 2834
+   Year: 2023
+   Cluster: (None)
+   Actor: Torben Østergaard Møller
+   Statement: The establishment of the land facility related to the Energy Island project will severely impact the financial security of Flemming Pihl and his wife. The couple's home at Søndre Landevej 43 will be directly adjacent to the massive converter station, making their house virtually unsellable. Flemming Pihl passionately emphasizes that their life savings, invested in the property over 39 years, have essentially disappeared, estimating a loss of at least 750,000 kroner. He demands compensation, calling the situation 'pure robbery.'
+
+Pihl describes a recent meeting with an Energinet representative who confirmed that there would be no compensation for the disruption they face. He highlights that their home, previously valued at 1.5 million kroner, may not even fetch half of that now due to the prolonged noise and disruption during the five years of construction. The house’s proximity to the site, marked by a boundary drawn just 100 meters behind their property, has made it both unsellable and unfit for rental.
+
+Although the couple originally planned to sell their home in about five years to move into town and enjoy retirement, Pihl asserts that this plan is now impossible. Their financial future has been jeopardized as their primary asset has lost significant value.
+
+Mayor Jacob Trøst suggests there may be hope if a law change is enacted to address these issues. Trøst has advocated for new legislation that would allow Energinet to purchase properties negatively affected by infrastructure projects, similar to what is done for railroad or highway developments. He also notes that current renewable energy regulations, such as the VE Act, could potentially be expanded to provide financial compensation to affected neighbors of large-scale energy projects.
+
+--------------------------------------------------------------------------------
+
+12. ID: 2871
+   Year: 2023
+   Cluster: (None)
+   Actor: Jacob Trøst
+   Statement: I understand the frustrations and challenges faced by residents like Flemming Pihl, who are directly impacted by the construction of the Energy Island land facility. The current law does not allow Energinet to purchase properties or provide compensation to those affected by projects like this, unlike the provisions available for infrastructure projects such as railways or highways.  
+
+I am working to address this issue by advocating for a legal amendment that would allow for fair compensation. This could involve changes to the VE law, which is currently used to compensate neighbors of renewable energy projects for property value losses. Given the scale of the land facility, I believe it is necessary to update the law to ensure that those affected are supported appropriately.  
+
+While I cannot predict how Parliament will respond to this proposal, I am committed to pushing for a solution that balances the need for renewable energy development with fairness and support for those impacted by these large-scale projects.
+
+--------------------------------------------------------------------------------
+
+13. ID: 3398
+   Year: 2023
+   Cluster: Job creation and innovation
+   Actor: Claus Larsen-Jensen
+   Statement: The Danish government’s decision means Bornholm must prepare for the potential establishment of a power-to-X facility. Companies interested in power-to-X projects are now accelerating their plans, identifying locations for these facilities. Ørsted and Copenhagen Infrastructure Partners have already announced plans to build two additional offshore wind farms near Bornholm, complementing Energy Island Bornholm. This momentum must translate into ensuring a power-to-X facility is established on Bornholm.
+
+A power-to-X facility is critical for Bornholm's future. CRT's research shows that such a facility could significantly boost the island’s population and economy, addressing pressing needs. To support this, Energinet's unused land allocated for onshore facilities should be prioritized for a green business park, which could include a power-to-X facility. Additional land may also be required for this initiative.
+
+I acknowledge that this will significantly impact South Bornholm, more so than the onshore infrastructure for Energy Island. However, it will centralize green businesses geographically, providing clarity and stability for Bornholm residents rather than making ad-hoc decisions about land use, which creates uncertainty.
+
+I recognize that this process will involve property and land acquisitions, requiring compensation for affected owners. The Energinet land facility case highlighted the need for legislative changes to ensure adequate compensation for neighbors. We are awaiting these legislative updates, which I expect to be enacted. Additionally, a development company could ensure that issues faced by neighbors of the land facility are not repeated in the context of the green business park and power-to-X development.
+
+--------------------------------------------------------------------------------
+
+14. ID: 4001
    Year: 2023
    Cluster: (None)
    Actor: Associate Professor Kristian Borch
@@ -187,15 +206,23 @@ Bornholm deserves compensation for this attack on its heritage and values. At a 
 
 --------------------------------------------------------------------------------
 
-14. ID: 4061
+15. ID: 4849
    Year: 2023
-   Cluster: (None)
-   Actor: Reddit user
-   Statement: There is plenty of compensation for people affected by a noise zone from wind turbines.
+   Cluster: Local opposition and citizen concerns about Bornholm project
+   Actor: Stine Rosenquist
+   Statement: I am a strong supporter of the "Energy Island" project in Bornholm. At the public meeting on the environmental assessment of the Energy Island Bornholm onshore and offshore installations, several concerns were raised. These included the fact that the installation was not offered in an architectural competition and whether the cables should pass through protected coastal slopes. One concerned farmer, likely to provide land for the project, questioned what benefits the Bornholm residents would receive from it. It is understandable that having one's land expropriated would be very distressing, and compensation is a reasonable expectation. However, this Energy Island project has put Bornholm on the world map, creating jobs, education opportunities, and exciting new research.
 
 --------------------------------------------------------------------------------
 
-15. ID: 2836
+16. ID: 6067
+   Year: 2023
+   Cluster: (None)
+   Actor: private person
+   Statement: If the local plan area expands and new laws allow compensation for neighbors near transformer stations, residents up to 1.5-2 km away should be compensated. Legislation must ensure fair treatment, extending as far as possible.
+
+--------------------------------------------------------------------------------
+
+17. ID: 2836
    Year: 2023
    Cluster: Waste of tax payer’s money
    Actor: Private person
@@ -211,49 +238,7 @@ Bornholm’s unique heritage—its cliffs, agricultural lands, and uninterrupted
 
 --------------------------------------------------------------------------------
 
-16. ID: 2834
-   Year: 2023
-   Cluster: (None)
-   Actor: Torben Østergaard Møller
-   Statement: The establishment of the land facility related to the Energy Island project will severely impact the financial security of Flemming Pihl and his wife. The couple's home at Søndre Landevej 43 will be directly adjacent to the massive converter station, making their house virtually unsellable. Flemming Pihl passionately emphasizes that their life savings, invested in the property over 39 years, have essentially disappeared, estimating a loss of at least 750,000 kroner. He demands compensation, calling the situation 'pure robbery.'
-
-Pihl describes a recent meeting with an Energinet representative who confirmed that there would be no compensation for the disruption they face. He highlights that their home, previously valued at 1.5 million kroner, may not even fetch half of that now due to the prolonged noise and disruption during the five years of construction. The house’s proximity to the site, marked by a boundary drawn just 100 meters behind their property, has made it both unsellable and unfit for rental.
-
-Although the couple originally planned to sell their home in about five years to move into town and enjoy retirement, Pihl asserts that this plan is now impossible. Their financial future has been jeopardized as their primary asset has lost significant value.
-
-Mayor Jacob Trøst suggests there may be hope if a law change is enacted to address these issues. Trøst has advocated for new legislation that would allow Energinet to purchase properties negatively affected by infrastructure projects, similar to what is done for railroad or highway developments. He also notes that current renewable energy regulations, such as the VE Act, could potentially be expanded to provide financial compensation to affected neighbors of large-scale energy projects.
-
---------------------------------------------------------------------------------
-
-17. ID: 4849
-   Year: 2023
-   Cluster: Local opposition and citizen concerns about Bornholm project
-   Actor: Stine Rosenquist
-   Statement: I am a strong supporter of the "Energy Island" project in Bornholm. At the public meeting on the environmental assessment of the Energy Island Bornholm onshore and offshore installations, several concerns were raised. These included the fact that the installation was not offered in an architectural competition and whether the cables should pass through protected coastal slopes. One concerned farmer, likely to provide land for the project, questioned what benefits the Bornholm residents would receive from it. It is understandable that having one's land expropriated would be very distressing, and compensation is a reasonable expectation. However, this Energy Island project has put Bornholm on the world map, creating jobs, education opportunities, and exciting new research.
-
---------------------------------------------------------------------------------
-
-18. ID: 2870
-   Year: 2023
-   Cluster: (None)
-   Actor: Private person
-   Statement: My wife and I have lived at Søndre Landevej 43 for 39 years, building our lives and saving in our home to secure a stable future for our retirement. Now, with the construction of the Energy Island land facility, we are being forced to face the reality that our home's value has been drastically reduced. Our savings, which we intended to use for a comfortable retirement, have effectively disappeared. I estimate that 750,000 kroner is gone, and it feels like outright theft.  
-
-Energinet has informed us that we will not receive any compensation, despite the fact that we will be directly affected by the project. Our home will be adjacent to a massive industrial facility, surrounded by years of construction noise, making it impossible to sell or even rent out. This has destroyed our financial plans, and we feel utterly abandoned.  
-
-We are demanding fair compensation for the losses we are forced to endure. It is deeply unfair that we, as residents, are left with nothing while this enormous project moves forward without considering the real, personal consequences it imposes on people like us.
-
---------------------------------------------------------------------------------
-
-19. ID: 2591
-   Year: 2023
-   Cluster: (None)
-   Actor: Yanan Li
-   Statement: Energy islands integrating renewable energy like wind and solar offer a comprehensive system for energy generation, consumption, and storage. They reduce land and sea transmission costs by serving as centers for energy storage, conversion, and hydrogen production. Energy islands can also support marine development by combining offshore wind power with fisheries and tourism, enhancing economic potential. Though initial construction costs are high, long-term benefits include better wind resources, reduced compensation for fisheries, lower transportation costs for equipment, and centralized maintenance hubs. Future efforts will focus on optimizing construction feasibility, efficiency, and environmental sustainability through mathematical modeling and simulations.
-
---------------------------------------------------------------------------------
-
-20. ID: 5585
+18. ID: 5585
    Year: 2023
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -263,17 +248,7 @@ It is encouraging that the government’s proposal includes plans to analyze pot
 
 --------------------------------------------------------------------------------
 
-21. ID: 6230
-   Year: 2023
-   Cluster: Job creation and innovation
-   Actor: Jacob Trøst
-   Statement: I have directly contacted all political representatives to express our community's concerns and demands regarding the Energy Island Bornholm project. Our recent meeting focused on the crucial issue of compensation for local communities affected by the project. 
-
-I have proposed three potential solutions. First, we can amend the Renewable Energy Act to ensure that communities hosting wind turbines and related infrastructure, such as the land-based facilities for the Energy Island, receive fair compensation. Second, we could establish a dedicated fund specifically for the Energy Island Bornholm project, similar to models used in other countries. Finally, we could incorporate specific provisions into the project's tender process to benefit the local community. It is imperative that the concerns and needs of the local residents are addressed in a tangible way as this project moves forward.
-
---------------------------------------------------------------------------------
-
-22. ID: 2230
+19. ID: 2230
    Year: 2023
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -287,19 +262,17 @@ Bornholm needs more jobs, an improved tax base, and a growing population to sust
 
 --------------------------------------------------------------------------------
 
-23. ID: 6954
+20. ID: 6230
    Year: 2023
-   Cluster: Waste of tax payer’s money
-   Actor: Lave K. Broch
-   Statement: I have concerns about the terms of the agreement between Denmark and Germany regarding the Energy Island project. Bornholm is providing the sea area for the offshore wind farms within Denmark's economic zone (EEZ), but I question whether Germany is contributing adequately. Is Germany paying "rent" for access to the Danish EEZ, or is this being offered for free? Additionally, I see no mention of compensation for Bornholm residents living near the land facility. Will Denmark and Germany jointly provide compensation for these affected individuals? They should, as it is only fair.  
+   Cluster: Job creation and innovation
+   Actor: Jacob Trøst
+   Statement: I have directly contacted all political representatives to express our community's concerns and demands regarding the Energy Island Bornholm project. Our recent meeting focused on the crucial issue of compensation for local communities affected by the project. 
 
-If the Danish government has failed to secure a fair deal—ensuring Germany pays its share and that affected Bornholmers are compensated—I believe the Energy Island should instead be located in Germany’s EEZ, with the land facility on Rügen.  
-
-I have always been supportive of the Energy Island concept and its potential benefits. However, I had hoped Bornholm would receive compensation for hosting the project in its economic zone. For instance, providing cheaper electricity for Bornholm’s residents and businesses would have been a tangible benefit. I now hope someone can reassure me that the Danish government has not mishandled this agreement and that Bornholm’s interests have been protected.
+I have proposed three potential solutions. First, we can amend the Renewable Energy Act to ensure that communities hosting wind turbines and related infrastructure, such as the land-based facilities for the Energy Island, receive fair compensation. Second, we could establish a dedicated fund specifically for the Energy Island Bornholm project, similar to models used in other countries. Finally, we could incorporate specific provisions into the project's tender process to benefit the local community. It is imperative that the concerns and needs of the local residents are addressed in a tangible way as this project moves forward.
 
 --------------------------------------------------------------------------------
 
-24. ID: 1888
+21. ID: 1888
    Year: 2023
    Cluster: (None)
    Actor: Søren Møller Christensen
@@ -314,7 +287,7 @@ If the project economy in the energy island had not been challenged, there would
 
 --------------------------------------------------------------------------------
 
-25. ID: 1335
+22. ID: 1335
    Year: 2023
    Cluster: Job creation and innovation
    Actor: Stine Rosenquist
@@ -322,7 +295,7 @@ If the project economy in the energy island had not been challenged, there would
 
 --------------------------------------------------------------------------------
 
-26. ID: 1229
+23. ID: 1229
    Year: 2023
    Cluster: (None)
    Actor: Brian Vad Mathiesen
@@ -330,7 +303,7 @@ If the project economy in the energy island had not been challenged, there would
 
 --------------------------------------------------------------------------------
 
-27. ID: 1091
+24. ID: 1091
    Year: 2023
    Cluster: Financial uncertainty around Bornholm project
    Actor: Jacob Trøst
@@ -338,7 +311,43 @@ If the project economy in the energy island had not been challenged, there would
 
 --------------------------------------------------------------------------------
 
-28. ID: 5226
+25. ID: 6947
+   Year: 2023
+   Cluster: (None)
+   Actor: Private person
+   Statement: The construction of the Energy Island land facility has devastated our financial situation. My wife and I have lived in the same home for 39 years, saving for our future, but now 750,000 kroner of that value has vanished. We feel robbed and demand fair compensation for the loss inflicted by this project.
+
+--------------------------------------------------------------------------------
+
+26. ID: 116
+   Year: 2023
+   Cluster: (None)
+   Actor: Jacob Tørst
+   Statement: I have repeatedly advocated for Bornholm’s case to Christiansborg. I have highlighted the challenges of placing such a massive facility on a small island, where compensation and incentives have been difficult to identify.
+
+--------------------------------------------------------------------------------
+
+27. ID: 6949
+   Year: 2023
+   Cluster: (None)
+   Actor: Jacob Trøst
+   Statement: Under current law, Energinet cannot purchase land beyond what is strictly needed for the Energy Island facility. I believe this should change, and I am actively advocating for updates to the legislation to ensure fair compensation or land purchases for those impacted by large-scale energy projects.
+
+--------------------------------------------------------------------------------
+
+28. ID: 6954
+   Year: 2023
+   Cluster: Waste of tax payer’s money
+   Actor: Lave K. Broch
+   Statement: I have concerns about the terms of the agreement between Denmark and Germany regarding the Energy Island project. Bornholm is providing the sea area for the offshore wind farms within Denmark's economic zone (EEZ), but I question whether Germany is contributing adequately. Is Germany paying "rent" for access to the Danish EEZ, or is this being offered for free? Additionally, I see no mention of compensation for Bornholm residents living near the land facility. Will Denmark and Germany jointly provide compensation for these affected individuals? They should, as it is only fair.  
+
+If the Danish government has failed to secure a fair deal—ensuring Germany pays its share and that affected Bornholmers are compensated—I believe the Energy Island should instead be located in Germany’s EEZ, with the land facility on Rügen.  
+
+I have always been supportive of the Energy Island concept and its potential benefits. However, I had hoped Bornholm would receive compensation for hosting the project in its economic zone. For instance, providing cheaper electricity for Bornholm’s residents and businesses would have been a tangible benefit. I now hope someone can reassure me that the Danish government has not mishandled this agreement and that Bornholm’s interests have been protected.
+
+--------------------------------------------------------------------------------
+
+29. ID: 5226
    Year: 2023
    Cluster: Job creation and innovation
    Actor: Søren Møller Christensen
@@ -350,47 +359,23 @@ Through our partnership between companies and educational institutions working o
 
 --------------------------------------------------------------------------------
 
-29. ID: 6840
-   Year: 2023
-   Cluster: (None)
-   Actor: Reddit user
-   Statement: There is more than enough compensation for people affected by a noise zone from wind turbines.
-
---------------------------------------------------------------------------------
-
-30. ID: 6949
-   Year: 2023
-   Cluster: (None)
-   Actor: Jacob Trøst
-   Statement: Under current law, Energinet cannot purchase land beyond what is strictly needed for the Energy Island facility. I believe this should change, and I am actively advocating for updates to the legislation to ensure fair compensation or land purchases for those impacted by large-scale energy projects.
-
---------------------------------------------------------------------------------
-
-31. ID: 6947
-   Year: 2023
-   Cluster: (None)
-   Actor: Private person
-   Statement: The construction of the Energy Island land facility has devastated our financial situation. My wife and I have lived in the same home for 39 years, saving for our future, but now 750,000 kroner of that value has vanished. We feel robbed and demand fair compensation for the loss inflicted by this project.
-
---------------------------------------------------------------------------------
-
-32. ID: 116
-   Year: 2023
-   Cluster: (None)
-   Actor: Jacob Tørst
-   Statement: I have repeatedly advocated for Bornholm’s case to Christiansborg. I have highlighted the challenges of placing such a massive facility on a small island, where compensation and incentives have been difficult to identify.
-
---------------------------------------------------------------------------------
-
-33. ID: 6229
+30. ID: 6007
    Year: 2024
-   Cluster: (None)
+   Cluster: Job creation and innovation
    Actor: Jacob Trøst
-   Statement: I am very satisfied with the process we have followed to address the land-based facility for the Energy Island project. There has been a high degree of transparency and a constructive dialogue with Energinet throughout. We have also actively engaged our citizens in the decision-making process through public meetings. Our focus now is on securing compensation for the community and ensuring that the Energy Island creates new jobs. I am confident that this project will bring significant benefits to our region.
+   Statement: Bornholm faces a unique opportunity that has the potential to transform and develop the entire island, and we intend to seize that opportunity. The agreement on energy parks represents an important step toward realizing the full potential of the Energy Island Bornholm. We look forward to engaging in constructive dialogue about how state involvement and compensation for neighbors and local communities can contribute to green business development and a sustainable society.
 
 --------------------------------------------------------------------------------
 
-34. ID: 5593
+31. ID: 6449
+   Year: 2024
+   Cluster: Development & innovation opportunities on Bornholm
+   Actor: Lea Wermelin
+   Statement: I believe the energy island project will create new jobs and educational opportunities on Bornholm. I support the inclusion of apprentices in the project, advocate for compensation to nearby residents, and welcome the establishment of a marine nature fund to ensure that offshore wind turbines benefit the environment.
+
+--------------------------------------------------------------------------------
+
+32. ID: 5593
    Year: 2024
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -410,15 +395,7 @@ I believe the minister left with valuable inspiration and the impression that we
 
 --------------------------------------------------------------------------------
 
-35. ID: 6449
-   Year: 2024
-   Cluster: Development & innovation opportunities on Bornholm
-   Actor: Lea Wermelin
-   Statement: I believe the energy island project will create new jobs and educational opportunities on Bornholm. I support the inclusion of apprentices in the project, advocate for compensation to nearby residents, and welcome the establishment of a marine nature fund to ensure that offshore wind turbines benefit the environment.
-
---------------------------------------------------------------------------------
-
-36. ID: 5587
+33. ID: 5587
    Year: 2024
    Cluster: Strategy and planning
    Actor: Lars Aagaard
@@ -430,15 +407,15 @@ Furthermore, I highlight that an analysis has been initiated to explore potentia
 
 --------------------------------------------------------------------------------
 
-37. ID: 6007
+34. ID: 6229
    Year: 2024
-   Cluster: Job creation and innovation
+   Cluster: (None)
    Actor: Jacob Trøst
-   Statement: Bornholm faces a unique opportunity that has the potential to transform and develop the entire island, and we intend to seize that opportunity. The agreement on energy parks represents an important step toward realizing the full potential of the Energy Island Bornholm. We look forward to engaging in constructive dialogue about how state involvement and compensation for neighbors and local communities can contribute to green business development and a sustainable society.
+   Statement: I am very satisfied with the process we have followed to address the land-based facility for the Energy Island project. There has been a high degree of transparency and a constructive dialogue with Energinet throughout. We have also actively engaged our citizens in the decision-making process through public meetings. Our focus now is on securing compensation for the community and ensuring that the Energy Island creates new jobs. I am confident that this project will bring significant benefits to our region.
 
 --------------------------------------------------------------------------------
 
-38. ID: 12
+35. ID: 12
    Year: 2024
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -452,7 +429,7 @@ Thank you to the committee for listening to our input and giving us the platform
 
 --------------------------------------------------------------------------------
 
-39. ID: 4305
+36. ID: 4305
    Year: 2024
    Cluster: (None)
    Actor: Group of residents on Lindum Søvej
@@ -460,7 +437,7 @@ Thank you to the committee for listening to our input and giving us the platform
 
 --------------------------------------------------------------------------------
 
-40. ID: 3689
+37. ID: 3689
    Year: 2024
    Cluster: (None)
    Actor: Birgit Stenbak Hansen
@@ -468,15 +445,7 @@ Thank you to the committee for listening to our input and giving us the platform
 
 --------------------------------------------------------------------------------
 
-41. ID: 2992
-   Year: 2024
-   Cluster: (None)
-   Actor: Facebook user
-   Statement: We should definitely work towards a connection to the Energy Island, which should, of course, be “free” for the people of Bornholm. Consider it compensation for providing land for the transformer station. It would be great if the remaining consumers no longer had to wait 6–8 hours for power restoration the next time an anchor cuts the cable to Sweden. No one has promised cheaper electricity with the Energy Island – but neither has anyone promised it will be more expensive. Yes, the connection is clearly to the advantage of the people of Bornholm.
-
---------------------------------------------------------------------------------
-
-42. ID: 2694
+38. ID: 2694
    Year: 2024
    Cluster: (None)
    Actor: Energinet
@@ -484,7 +453,7 @@ Thank you to the committee for listening to our input and giving us the platform
 
 --------------------------------------------------------------------------------
 
-43. ID: 2690
+39. ID: 2690
    Year: 2024
    Cluster: (None)
    Actor: Michael Ellermann
@@ -492,7 +461,7 @@ Thank you to the committee for listening to our input and giving us the platform
 
 --------------------------------------------------------------------------------
 
-44. ID: 2151
+40. ID: 2151
    Year: 2024
    Cluster: Local opposition and citizen concerns about Bornholm project
    Actor: Private person
@@ -518,7 +487,7 @@ Viborg Municipality should once again consider whether the project is worth the 
 
 --------------------------------------------------------------------------------
 
-45. ID: 187
+41. ID: 187
    Year: 2024
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -528,7 +497,7 @@ The people who will be most affected are those living near the planned transform
 
 --------------------------------------------------------------------------------
 
-46. ID: 105
+42. ID: 105
    Year: 2024
    Cluster: (None)
    Actor: Jacob Trøst
@@ -536,7 +505,7 @@ The people who will be most affected are those living near the planned transform
 
 --------------------------------------------------------------------------------
 
-47. ID: 79
+43. ID: 79
    Year: 2024
    Cluster: Local opposition and citizen concerns about Bornholm project
    Actor: Torben Westh Jensen
@@ -546,7 +515,7 @@ The current delay is unacceptable. If the government can pass emergency laws so 
 
 --------------------------------------------------------------------------------
 
-48. ID: 5368
+44. ID: 5368
    Year: 2024
    Cluster: Waste of tax payer’s money
    Actor: Private person
@@ -554,7 +523,7 @@ The current delay is unacceptable. If the government can pass emergency laws so 
 
 --------------------------------------------------------------------------------
 
-49. ID: 2457
+45. ID: 2457
    Year: 2025
    Cluster: Job creation and innovation
    Actor: Jacob Trøst
@@ -562,7 +531,7 @@ The current delay is unacceptable. If the government can pass emergency laws so 
 
 --------------------------------------------------------------------------------
 
-50. ID: 133
+46. ID: 133
    Year: 2025
    Cluster: Job creation and innovation
    Actor: Torben Westh Jensen
@@ -602,7 +571,7 @@ If justice prevails, projects that are wholly or partially funded by foreign sta
 
 --------------------------------------------------------------------------------
 
-51. ID: 7396
+47. ID: 7396
    Year: 2025
    Cluster: Local opposition and citizen concerns about Bornholm project
    Actor: Jacob Trøst

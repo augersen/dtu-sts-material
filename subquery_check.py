@@ -77,6 +77,10 @@ TOPIC_SUBQUERIES = {
 # See "data/Issues coding.md" for issue descriptions
 selected_issue = 11  # Issue 11: How will energy islands impact local communities?
 
+# Filter out social media users (actors with "user" in their name)
+# This excludes Reddit users, Facebook users, LinkedIn users, etc.
+exclude_users = True
+
 # Output folder for results
 output_folder = "subquery checks"
 
@@ -145,6 +149,23 @@ def load_data(dataset_path):
 
     print(f"✓ Data loaded: {len(df)} statements total\n")
     return df
+
+def filter_out_users(df):
+    """Filter out social media users (actors with 'user' in their name)"""
+    initial_count = len(df)
+
+    # Filter out rows where Actor contains 'user' (case-insensitive)
+    df_filtered = df[~df['Actor'].str.contains('user', case=False, na=False)]
+
+    filtered_count = initial_count - len(df_filtered)
+
+    if filtered_count > 0:
+        print(f"✓ Filtered out {filtered_count} statements from social media users")
+        print(f"  Remaining statements: {len(df_filtered)}\n")
+    else:
+        print(f"✓ No social media users found to filter\n")
+
+    return df_filtered
 
 def filter_by_subqueries_and_issue(df, subqueries, issue_number):
     """
@@ -382,7 +403,7 @@ def create_cluster_visualization(df, filtered_df, topic_name, issue_number, outp
 
     return pdf_path
 
-def export_results_to_text(filtered_df, topic_name, issue_number, output_folder):
+def export_results_to_text(filtered_df, topic_name, issue_number, output_folder, users_excluded=False):
     """Export filtered results to text file"""
     # Create output folder if it doesn't exist
     os.makedirs(output_folder, exist_ok=True)
@@ -419,6 +440,7 @@ def export_results_to_text(filtered_df, topic_name, issue_number, output_folder)
         f.write(f"RELEVANT CLUSTERS: {len(unique_clusters)}\n")
         if cluster_counts:
             f.write(f"CLUSTER DISTRIBUTION: {dict(cluster_counts)}\n")
+        f.write(f"SOCIAL MEDIA USERS EXCLUDED: {'Yes' if users_excluded else 'No'}\n")
         f.write(f"SORTED BY: Year (chronological order)\n")
         f.write("="*80 + "\n\n")
 
@@ -457,11 +479,16 @@ if __name__ == "__main__":
     print(f"Configuration:")
     print(f"  Topics to process: {len(TOPIC_SUBQUERIES)}")
     print(f"  Issue: {selected_issue} - {ISSUE_DESCRIPTIONS[selected_issue]}")
+    print(f"  Exclude social media users: {exclude_users}")
     print(f"  Output folder: {output_folder}")
     print()
 
     # Load data once
     df = load_data(DATASET_PATH)
+
+    # Filter out social media users if requested
+    if exclude_users:
+        df = filter_out_users(df)
 
     # Track results for all topics
     all_results = {}
@@ -494,7 +521,7 @@ if __name__ == "__main__":
         # Export to text file and create visualization
         if len(filtered_df) > 0:
             # Export text file
-            txt_path = export_results_to_text(filtered_df, topic_name, selected_issue, output_folder)
+            txt_path = export_results_to_text(filtered_df, topic_name, selected_issue, output_folder, exclude_users)
             print(f"✓ Exported text file to: {txt_path}")
 
             # Create cluster visualization PDF
@@ -513,6 +540,7 @@ if __name__ == "__main__":
     print("="*80)
     print(f"\nIssue: {selected_issue} - {ISSUE_DESCRIPTIONS[selected_issue]}")
     print(f"Topics processed: {len(TOPIC_SUBQUERIES)}")
+    print(f"Social media users excluded: {'Yes' if exclude_users else 'No'}")
     print(f"Output folder: {os.path.abspath(output_folder)}")
     print()
 
