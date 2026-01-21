@@ -2,33 +2,41 @@
 TOPIC: Social Impact
 ISSUE: 11 - How will energy islands impact local communities?
 MATCHING STATEMENTS: 4
+YEAR RANGE: 2015 - 2025
+RELEVANT CLUSTERS: 1
+CLUSTER DISTRIBUTION: {'(None)': 4}
+SORTED BY: Year (chronological order)
 ================================================================================
 
-1. ID: 782
-   Actor: Nikki Fung
-   Year: 2025
-   Statement: "Based on the results of our study, we conclude that sustainability is an important factor and together with the requirements, the electrolyser from Siemens is the most suitable" … "The found design requirements are: - Location/context; outside of the safety contour, safety distances and central - Logistics; stopover, separation, emergency services and collision protection - Social impact; education, marketing and exposure - Functionality; logical sequence, minimize pipe length and compartments - Safety (prevent hydrogen accumulation); natural ventilation, weather protection, orientation and sensors - Maintenance; replacement and inspection - Acoustics; isolation - Structure; fire-resistant and attractive - Energy production; renewable energy production and integration" … "To prevent the hydrogen to accumulate we have found that the storage and research lab are open and by creating a venturi effect these spaces are ensured of a well guided ventilation. In case of a leak the sensors will pick this up and the whole system will shut down. The hydrogen system is located on the North, where this is less possibility of overheating." in relation to design of an energy island located near Rotterdamsche Droogdok Maatschappij in Rotterdam, Netherlands
-
---------------------------------------------------------------------------------
-
-2. ID: 798
-   Actor: Nikki Fung, Andy van den Dobbelsteen, Christian Louter, Maaike Dalhuizen, Randolf Weterings
+1. ID: 798
    Year: 2015
+   Cluster: (None)
+   Actor: Nikki Fung, Andy van den Dobbelsteen, Christian Louter, Maaike Dalhuizen, Randolf Weterings
    Statement: Based on the results of our study, we conclude that sustainability is an important factor and together with the requirements, the electrolyser from Siemens is the most suitable. The found design requirements are: - Location/context; outside of the safety contour, safety distances and central - Logistics; stopover, separation, emergency services and collision protection - Social impact; education, marketing and exposure - Functionality; logical sequence, minimize pipe length and compartments - Safety (prevent hydrogen accumulation); natural ventilation, weather protection, orientation and sensors - Maintenance; replacement and inspection - Acoustics; isolation - Structure; fire-resistant and attractive - Energy production; renewable energy production and integration To prevent the hydrogen to accumulate we have found that the storage and research lab are open and by creating a venturi effect these spaces are ensured of a well guided ventilation. In case of a leak the sensors will pick this up and the whole system will shut down. The hydrogen system is located on the North, where this is less possibility of overheating. In relation to design of an energy island located near Rotterdamsche Droogdok Maatschappij in Rotterdam, Netherlands
 
 --------------------------------------------------------------------------------
 
-3. ID: 2626
-   Actor: Kozin, Igor; Oehmen, Josef; Taylor, and John Robert
+2. ID: 2626
    Year: 2023
+   Cluster: (None)
+   Actor: Kozin, Igor; Oehmen, Josef; Taylor, and John Robert
    Statement: If we don't predict and manage the risks of complex global systems like the Energy Island and its connected systems, the consequences can be huge. The Island will have a broad social impact, and if we don't properly account for the diverse values of all the stakeholders involved, it could lead to a loss of credibility in management institutions.
 
 --------------------------------------------------------------------------------
 
-4. ID: 2627
-   Actor: Igor Kozin, Josef Oehmen, and J. Robert Taylor
+3. ID: 2627
    Year: 2023
+   Cluster: (None)
+   Actor: Igor Kozin, Josef Oehmen, and J. Robert Taylor
    Statement: The consequences of failing to predict and manage the risks of complex global systems, like the Energy Island and connected to it systems, can be immense. The Island will have broad social impact and deficits in risk governance that, in particular, do not properly account for the diversity of different values of involved stakeholders may result in loss of credibility in management institutions.
+
+--------------------------------------------------------------------------------
+
+4. ID: 782
+   Year: 2025
+   Cluster: (None)
+   Actor: Nikki Fung
+   Statement: "Based on the results of our study, we conclude that sustainability is an important factor and together with the requirements, the electrolyser from Siemens is the most suitable" … "The found design requirements are: - Location/context; outside of the safety contour, safety distances and central - Logistics; stopover, separation, emergency services and collision protection - Social impact; education, marketing and exposure - Functionality; logical sequence, minimize pipe length and compartments - Safety (prevent hydrogen accumulation); natural ventilation, weather protection, orientation and sensors - Maintenance; replacement and inspection - Acoustics; isolation - Structure; fire-resistant and attractive - Energy production; renewable energy production and integration" … "To prevent the hydrogen to accumulate we have found that the storage and research lab are open and by creating a venturi effect these spaces are ensured of a well guided ventilation. In case of a leak the sensors will pick this up and the whole system will shut down. The hydrogen system is located on the North, where this is less possibility of overheating." in relation to design of an energy island located near Rotterdamsche Droogdok Maatschappij in Rotterdam, Netherlands
 
 --------------------------------------------------------------------------------
 

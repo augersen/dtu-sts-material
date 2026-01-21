@@ -2,253 +2,62 @@
 TOPIC: Environmental Impact
 ISSUE: 11 - How will energy islands impact local communities?
 MATCHING STATEMENTS: 76
+YEAR RANGE: 2002 - 2025
+RELEVANT CLUSTERS: 8
+CLUSTER DISTRIBUTION: {'Strategy and planning': 11, '(None)': 57, 'Energy hubs towards P2X': 2, 'Job creation and innovation': 2, 'Development & innovation opportunities on Bornholm': 1, 'Waste of tax payer’s money': 1, 'Financial uncertainty around Bornholm project': 1, 'Energy islands as a cornerstone in Europe’s green transition': 1}
+SORTED BY: Year (chronological order)
 ================================================================================
 
-1. ID: 264
-   Actor: Danish Energy Agency
-   Year: 2023
-   Statement: We, the Danish Energy Agency, oversee the planning and implementation of Energiø Bornholm. This project involves the establishment of offshore wind farms with a capacity of up to 3.8 GW in the Baltic Sea, including subsea cables to Denmark and Germany. Energiø Bornholm serves as a pivotal initiative to enhance renewable energy production and integration into the European grid. The realization of the energy island aligns with Denmark's 2020 Climate Agreement and subsequent supplementary agreements. We ensure compliance with the environmental assessment law, addressing the project's potential environmental impacts, including effects on marine ecosystems, coastal landscapes, and visual and noise pollution.
+1. ID: 6596
+   Year: 2002
+   Cluster: (None)
+   Actor: The Danish Organisation for Renewable Energy
+   Statement: Our position is that the siting of wind turbines is an integral component of Danish land-use planning. In 1994, all municipalities were tasked with designating sites for wind turbine groups and parks. By 1999, the responsibility for revising these plans was transferred to counties as part of their regional planning processes.  
+
+This system of designated sites streamlined the installation of wind turbines, significantly facilitating development for wind power developers during the 1990s. However, as most of these designated sites were utilized during that period, the installation of new wind turbines now often requires the designation of additional sites. This process involves a more extended planning procedure, including conducting an Environmental Impact Assessment, which adds complexity to wind energy development.
 
 --------------------------------------------------------------------------------
 
-2. ID: 266
-   Actor: Energinet
-   Year: 2023
-   Statement: We, Energinet, are responsible for planning the placement and tendering of the necessary electricity transmission network expansions required for Energiø Bornholm. Our focus is on ensuring the infrastructure supports efficient energy transfer to Denmark and Germany while meeting environmental and operational standards. As part of the project, we also manage the environmental impact assessment to ensure compliance with national and international regulations.
+2. ID: 6906
+   Year: 2017
+   Cluster: (None)
+   Actor: Researchers
+   Statement: We believe that transitioning to renewable energy sources can significantly reduce the environmental impact caused by traditional electricity generation methods. In the Graciosa project, we integrated a large-scale battery energy storage system with wind power and photovoltaics in a hybrid power plant. This system aims to replace the island's previous reliance on diesel combustion for electricity generation. Our Life Cycle Assessment results indicate that the environmental impacts have been reduced by approximately 43% due to the shift to this hybrid electricity supply, which incorporates 65% renewable energy.
+
+Despite this progress, more than 60% of the environmental impacts are still attributed to the diesel-based electricity generation that remains in the system. The construction of the large-scale battery energy storage system accounts for only 6% of the total environmental impacts, while wind power and photovoltaics contribute 18% and 14%, respectively. This shows that while the renewable energy components help reduce impacts, there is still a significant reliance on diesel that needs to be addressed for further environmental improvement.
 
 --------------------------------------------------------------------------------
 
-3. ID: 428
-   Actor: Energinet
+3. ID: 6983
+   Year: 2018
+   Cluster: (None)
+   Actor: Researcher
+   Statement: I think the increasing energy demand for residential buildings and use of fossil fuels to meet these demands are having a substantial environmental impact. The use of renewable energy sources is attracting more attention as a replacement of other sources like fossil fuels. The main reasons are diminishing fossil fuel sources, global warming and CO2 gas emissions. Clean and sustainable energy solutions for present and future requirements are renewable energy sources. The fundamental energy sources like solar, wind, geothermal and hydro are renewable because these sources are not depleted.
+
+--------------------------------------------------------------------------------
+
+4. ID: 3205
    Year: 2021
-   Statement: We commit to performing Environmental Impact Assessments (EIA) for onshore developments, focusing on the connection from the landfall to the high-voltage station.
-
---------------------------------------------------------------------------------
-
-4. ID: 484
-   Actor: Reddit user
-   Year: 2022
-   Statement: Building an energy island takes a significant amount of time and money. It's curious how nuclear power is often dismissed as unrealistic and too expensive, while we are more than willing to pour large amounts of money into weather-dependent energy sources. Extracting uranium also emits CO2, which is no different from the environmental impact of other materials such as fiberglass, steel, epoxy, copper, and neodymium magnets. If we try to reinvent the wheel and insist on creating a uniquely Danish nuclear power plant, you're right — we won't be able to do it in time or afford it. However, the French have the necessary experience, and their expertise is available for purchase.
-
---------------------------------------------------------------------------------
-
-5. ID: 544
-   Actor: Energinet
-   Year: 2024
-   Statement: Energinet is conducting seabed surveys in preparation for laying cables for the Energy Island in the North Sea using an unmanned surface vessel (USV) in collaboration with Fugro. This 12-meter vessel is remotely controlled from a control room in Aberdeen, Scotland, offering a more sustainable and environmentally friendly alternative to traditional methods that require larger, crewed ships over extended periods. This innovative approach reduces environmental impact while maintaining efficiency, demonstrating our commitment to combining advanced technology with sustainability in the development of Denmark’s energy islands.
-
---------------------------------------------------------------------------------
-
-6. ID: 821
-   Actor: Alessandro Singlitico, Jacob Østergaard, Spyros Chatzivasileiadis
-   Year: 2021
-   Statement: We believe the Danish Energy Islands' offshore hydrogen production needs significant development before implementation at gigawatt scale. Our current cost estimates for hydrogen infrastructure are based on discussions with industry players, not proven deployments. We've simplified our analysis to focus only on major system components, as this will help guide more detailed future studies.
-While our economic analysis offers a starting point, we see three key opportunities to reduce offshore green hydrogen costs:
-1. We should leverage existing North Sea oil and gas infrastructure by converting current platforms and pipelines for hydrogen use. 
-2. We need to integrate hydrogen and electrical transmission systems into unified components rather than building separate infrastructure. This would cut installation costs and allow hydrogen facilities to provide grid balancing services.
-3. We must create synergies with industrial systems by utilizing electrolysis byproducts like oxygen and heat, and by exploring conversion into e-fuels.
-We acknowledge that our analysis excludes social and environmental impacts, which are crucial factors in determining optimal facility placement.
-
---------------------------------------------------------------------------------
-
-7. ID: 908
-   Actor: Reddit user
-   Year: 2023
-   Statement: I question feasibility of the project and raises concerns about the environmental impact of such a large number of wind turbines.
-
---------------------------------------------------------------------------------
-
-8. ID: 950
-   Actor: NorthWind, NCCS, LowEmission and NTRANS
-   Year: 2021
-   Statement: Green transition projects in the North Sea, including the construction of energy islands, CO2 capture, transport and storage infrastructure, and offshore wind farms, will inevitably have an environmental impact. Like all industrial activities, these projects cannot be implemented without affecting nature.
-
---------------------------------------------------------------------------------
-
-9. ID: 1209
+   Cluster: Energy hubs towards P2X
    Actor: Dan Jørgensen
+   Statement: We have debated whether the Energy Island should be constructed as a platform and finalized the decision by agreeing that the state will hold a 51% majority stake. This is the perfect compromise, as it allows us to leverage private sector expertise while ensuring the project is highly lucrative for both private investors and the Danish state. Construction of the Energy Island is set to begin in 2026. Over the next five years, we will focus on securing private sector partners, conducting environmental impact assessments on the seabed, and finalizing agreements to connect the two energy islands to Belgium, the Netherlands, and Germany.
+
+--------------------------------------------------------------------------------
+
+5. ID: 2692
    Year: 2021
-   Statement: Denmark's government has agreed to take a 51% stake in a £25bn artificial "energy island" to be built 50 miles offshore in the North Sea. This island will initially cover 120,000 sq meters and provide green energy to 3 million households. It will be protected by a high sea wall on three sides and have a dock for service vessels on the fourth side.
+   Cluster: (None)
+   Actor: DN og World Wildlife Fond
+   Statement: The Ministry of Climate, Energy, and Utilities acknowledges the comment raised by DN (The Danish Society for Nature Conservation) and WWF regarding the omission of Sustainable Development Goal (SDG) 14, which pertains to life below water, in the section assessing the impacts on the fulfillment of the United Nations’ SDGs. The Ministry has noted this comment and has since incorporated an evaluation of the proposed bill’s consequences on SDG 14. While several of its targets are not relevant because they concern the year 2020, it is recommended to highlight target 14.c. This target aims to increase the protection and sustainable use of oceans and their resources by implementing international laws reflected in the UN Convention on the Law of the Sea. 
 
-This project, the largest construction in Danish history, will significantly contribute to European offshore wind potential. It builds on a June agreement to create two wind energy hubs, one artificial and one on the Baltic island of Bornholm, initially supporting 5GW of wind generation and potentially expanding to 12GW.
-
-The North Sea island may not be completed before 2033, potentially missing Denmark's 2030 target of a 70% reduction in greenhouse gas emissions from 1990 levels. However, the government aims to accelerate the process by working with private sector partners and launching discussions with windfarm developers and investors to develop a legal framework for the remaining 49% stake.
-
-Construction is expected to start in 2026, with the next five years focused on signing private sector partners, conducting environmental impact assessments, and connecting the energy islands to Belgium, the Netherlands, and Germany. The project's success depends on these connections, as the energy produced will exceed Denmark's needs and help other countries meet their targets.
+Regarding the potential environmental impacts of constructing an enclosed island in the North Sea, these impacts are not well understood. However, as described in section 9 of the bill, which addresses environmental and natural consequences, the project could have both positive and negative environmental effects. The Ministry explains how potential environmental impacts will be assessed as part of the environmental review of the energy island plan (SMV) and the environmental impact assessment (VVM) for the specific project. These environmental assessments are designed to minimize impacts through careful planning, which will also be conducted in coordination with other authorities involved in ocean use, as part of the maritime spatial planning process. Overall, the Ministry expects that the bill will primarily have a positive effect on the SDGs.
 
 --------------------------------------------------------------------------------
 
-10. ID: 1217
-   Actor: Blue Research
-   Year: 2022
-   Statement: In connection with the Energy Island project, we at Offshore Center Bornholm (OCB) see great potential for collecting large amounts of data and using it to document the project’s environmental impact and optimize the construction process.
-
---------------------------------------------------------------------------------
-
-11. ID: 1335
-   Actor: Stine Rosenquist
-   Year: 2023
-   Statement: I have a strong belief in the Energy Island project on Bornholm. This initiative, in my view, places Bornholm on the global map by creating new employment opportunities, strengthening local education programs, and driving exciting research. At the recent public meeting about the Environmental Impact Assessment for the land-based facilities of EnergiØ Bornholm, several concerns were discussed. For example, some participants questioned why there was no architectural design competition for the project, while others worried about the possibility that cables might pass through protected coastal cliffs. One local farmer—whose land may be required for construction—asked what benefits Bornholmers would receive in return. I fully understand how disruptive land expropriation can be and believe that compensation is justified. Even so, I stand behind this project because it brings significant long-term advantages to the community and highlights Bornholm’s forward-thinking spirit.
-
---------------------------------------------------------------------------------
-
-12. ID: 1387
-   Actor: Greenpeace
-   Year: 2025
-   Statement: while the Energy Island projects promise sustainable energy, they must ensure minimal environmental impact, particularly to marine ecosystems and biodiversity.
-
---------------------------------------------------------------------------------
-
-13. ID: 1564
-   Actor: Reddit user
-   Year: 2022
-   Statement: The amount of wind power absorbed is so miniscule compared to the total amount of energy in the wind that this is irrelevant in practice. Even massive windmill parks hardly have any influence at all.
-
-Compared to how immensely disruptive the non-renewable alternatives are, it's a drop in the ocean. Even nuclear power plants need mines that impact large areas of land, and hydroelectric dams cause significant flooding of upstream areas.
-
-No industry is without environmental impact. Windmills are far less impactful than most options.
-
---------------------------------------------------------------------------------
-
-14. ID: 1570
-   Actor: Reddit user
-   Year: 2022
-   Statement: Windmills emit less CO2 per kilowatt-hour than nuclear, but nuclear comes in as a close second. That said, if we’re talking about overall environmental impact, I really doubt you can argue that nuclear waste is less harmful than some fiberglass and a few birds dying.
-
---------------------------------------------------------------------------------
-
-15. ID: 1573
-   Actor: Reddit user
-   Year: 2022
-   Statement: Wind turbines are not a sustainable solution. They require oil to operate, their blades need frequent replacement, and there are very limited ways to recycle those blades. Instead, the focus should shift to nuclear power. Nuclear energy is far safer, far cleaner, and far more efficient than any other power source available. People should research nuclear waste—it is not as dangerous as commonly believed, and ongoing research is finding innovative uses for it, such as creating nuclear waste batteries.
-
-In addition, the environmental impact of nuclear power is minimal compared to fossil fuels. For example, all the coal plants in the United States operating for just one hour produce more pollution than all the nuclear power plants in the country have produced since they began operation.
-
-If nuclear power is so effective, why hasn’t it been widely adopted? The answer lies with the influence of big oil, which has long prioritized its interests over cleaner, more sustainable energy solutions.
-
---------------------------------------------------------------------------------
-
-16. ID: 1577
-   Actor: Reddit user
-   Year: 2022
-   Statement: Have there been many environmental studies on the long-term effects of offshore wind farms? I’d like to think they’d have a positive impact on local sealife in the long run, but I wonder if we have any solid data on that yet. Honestly, I’d love it if projects like this ended up having a negative environmental impact—it’d be such a strange twist!
-
---------------------------------------------------------------------------------
-
-17. ID: 1753
-   Actor: Swedish Environmental Protection Agency
-   Year: 2024
-   Statement: The Swedish Environmental Protection Agency acknowledges Denmark’s plan for the Bornholm Energy Island, which designates offshore wind farm areas south and southwest of Bornholm. While the plan includes strategic environmental assessments and cross-border consultations, The Swedish Environmental Protection Agency emphasizes the importance of thorough evaluations to address potential environmental impacts on Swedish waters and ensure transparent communication throughout the process.
-
---------------------------------------------------------------------------------
-
-18. ID: 1856
-   Actor: Citizens’ Association Energiø Bornholm
-   Year: 2023
-   Statement: It has been announced that two power-to-x systems will be connected at the high-voltage station on Bornholm, if the companies are interested in it
-We encourage the authorities to carry out an independent environmental assessment of power-to-X, if it becomes relevant.
-The environmental impact report should not allow for the establishment of PtX or PtX test center, as the large amount of chemical substances should not be covered by the upcoming report. In our local citizens' association, there is great uncertainty and concern about the expansion of the area to also include the production of PtX.
-
---------------------------------------------------------------------------------
-
-19. ID: 2095
-   Actor: Danish Society for Nature Conservation
+6. ID: 2670
    Year: 2021
-   Statement: I am concerned that while the Environmental Impact Assessment of Denmark's maritime plan mentions the possibility (or requirement?) of establishing a physical island as an Energy Island near Bornholm, this option is completely absent from the public consultation documents. The Danish Nature Conservation Association finds it puzzling that this significant detail appears in the environmental assessment but is not included in this initial consultation phase. This is particularly problematic since this early stage should present all possible configurations of the Energy Island project to allow the public to properly evaluate and respond to the plans.
-
---------------------------------------------------------------------------------
-
-20. ID: 2109
-   Actor: Danish Society for Nature Conservation
-   Year: 2021
-   Statement: We are deeply concerned about the impact of the Bornholm Energy Island construction on the critically endangered Baltic Sea porpoise population. The specific area designated for offshore wind turbines serves as winter habitat for these porpoises. The total population consists of only 500 individuals, with fewer than 100 being breeding females. According to an ICES report, the loss of even one individual per year from human activities like bycatch could have devastating effects on the entire population. Since Baltic Sea porpoises are protected under Annex IV, Denmark has a legal obligation to protect these marine mammals wherever they are found.
-
-The environmental impact assessment for Bornholm Energy Island must thoroughly address and detail specific measures to protect the porpoise population from underwater noise pollution, both during the construction phase and the operational phase of the wind turbines.
-
---------------------------------------------------------------------------------
-
-21. ID: 2112
-   Actor: Danish Society for Nature Conservation
-   Year: 2021
-   Statement: Danmarks Naturfredningsforening's position is: "It is insufficient to address the potential environmental impacts of the Energy Island projects solely at a general level in the environmental report. When preparing an environmental report, all available knowledge on a given topic must be utilized, whether that knowledge is broad or detailed. For instance, there is substantial knowledge about how porpoises are affected by underwater noise, and this knowledge must be applied at the appropriate level of detail. Therefore, it is not acceptable to only consider the project as a whole at a general level."
-
---------------------------------------------------------------------------------
-
-22. ID: 2132
-   Actor: COWI
-   Year: 2024
-   Statement: COWI: 
-
-COWI supports the development of the "Jammerbugt Go Green" onshore energy island project. This project includes a solar park, an energy cluster, and facilities such as a biogas plant with CO₂ capture, a grass protein plant, and Power-to-X (PtX) plants for producing hydrogen and e-methanol. COWI highlights the symbiotic integration of the energy island with local agriculture, businesses, residents, and nearby wind turbines.  
-
-Unlike standalone energy projects, the energy island offers the advantage of interconnecting various energy technologies in an industrial symbiosis, facilitating resource recycling of biomass, nutrients, biogenic CO₂, water, and electricity. The energy cluster is central to this symbiosis, with facilities located close together to ensure short connections for efficient processes and to concentrate environmental impacts away from nearby neighbors.  
-
-The energy cluster is expected to operate year-round, 24/7, although some components may pause during nighttime or for balancing or operational reasons. Electricity for the energy cluster will be sourced from the project's solar panels and nearby wind turbines. These sources will be directly connected to the cluster via a dedicated transformer station. The station will also connect to Denmark's electricity grid, enabling energy exchange when beneficial. However, the energy island is designed to be net self-sufficient in electricity, including power from the local wind turbines, which are owned and operated by another developer.
-
---------------------------------------------------------------------------------
-
-23. ID: 2160
-   Actor: COWI
-   Year: 2024
-   Statement: COWI acknowledges that the establishment of the Jammerbugt Go Green Energy Island project will impact local material assets by utilizing 745 hectares of valuable agricultural land. However, the project will create a modern energy island that operates in synergy with surrounding industries and is expected to generate new job opportunities. A more detailed analysis of the effects on material assets will be provided in the environmental impact assessment report.
-
---------------------------------------------------------------------------------
-
-24. ID: 2174
-   Actor: COWI
-   Year: 2024
-   Statement: COWI acknowledges that the nearest neighbors to the energy cluster are located approximately 650 meters away, with the project area situated around 2–2.5 kilometers east of the villages of Pandrup and Kås, and 500 meters north of Aabybro.  
-
-The biogas plant within the energy cluster will include exhaust systems that may emit substances into the air, potentially causing air pollution or odor issues. Biogas plants are traditionally considered sources of odor emissions due to the handling of large quantities of manure and bedding material.  
-
-The environmental impact assessment must evaluate whether the project will result in exceedances of substance-specific B-values beyond the property boundaries or cause odor nuisances for nearby communities.
-
---------------------------------------------------------------------------------
-
-25. ID: 2183
-   Actor: Danish Ministry of the Environment
-   Year: 2022
-   Statement: During the construction phase, the operation of construction machinery may contribute to emissions and local dust disturbances along the cable corridor. These are expected to be short-term disruptions that can be mitigated, for example, by watering the area. This issue will be included in the environmental impact assessment of the project. There may also be a need to install lighting at the work sites, both at the station areas and along the cable corridors. The lighting sources will be shielded and positioned to avoid causing glare to neighbors.
-
---------------------------------------------------------------------------------
-
-26. ID: 2204
-   Actor: Hanne Storm Edlefsen
-   Year: 2023
-   Statement: I want to emphasize the significance of the "Plan for Program Energiø Bornholm," which marks a crucial milestone towards realizing Energiø Bornholm. This plan outlines the overall framework for establishing the project and its potential environmental impact. Currently, the Danish Energy Agency has sent the plan and environmental assessment into the second public consultation phase, which will last until December 1st. The plan is expected to be adopted early next year. The plan involves three key projects: offshore wind farms south and west of Bornholm, the cable connection to Germany developed by our German colleagues from 50Hertz Transmission GmbH, and Energinet's facilities, which include two converter stations on Bornholm and Zealand, and a 1.2 GW direct current connection between them. The environmental assessment, prepared with assistance from Øbisserne, provides a high-level overview of the potential environmental consequences of fully developing Energiø Bornholm, both at sea and on land. This assessment helps us understand how to best consider environmental factors during the construction of the energy island. I encourage everyone interested to review the consultation materials and submit feedback by December 1st on the Danish Energy Agency's website.
-
---------------------------------------------------------------------------------
-
-27. ID: 2266
-   Actor: Claus Lind Christensen
-   Year: 2024
-   Statement: I want to emphasize that the environmental impact assessment work must consider bird species that migrate in an east-west direction, not just focus on species that migrate north-south, which have naturally received more attention in connection with the more coastal wind farms like Vesterhav Syd and Vesterhav Nord. Jægerforbundet wants more data collection about east-west migration patterns as part of the area mapping. Specifically, Wigeon ducks, Taiga Bean Geese, and Woodcocks are among the species that migrate in east-west directions.
-
---------------------------------------------------------------------------------
-
-28. ID: 2270
-   Actor: DN Bornholm
-   Year: 2021
-   Statement: DN Bornholm emphasizes that the environmental assessment for the Energy Island Bornholm project must comprehensively address the environmental impacts, including effects on human health, material assets, navigation, fishing, landscapes, natural environments, and both land and sea environmental conditions.  
-
-DN Bornholm also stresses that for the Energy Island to be accepted, the Bornholm community must be seen as an integral part of the project. It is vital that Bornholm not only receives electricity from the wind turbines and heat from the transformer station but also plays an active role in the green transition. Bornholm should not be viewed simply as a strategically located site for a hub but as a community that is fully committed to contributing to the green transition and its full scope.
-
---------------------------------------------------------------------------------
-
-29. ID: 2359
-   Actor: Danish Energy Agency
-   Year: 2021
-   Statement: The inclusion of an assessment of the bill's impact on Sustainable Development Goal 14, which focuses on life below water, is a crucial step forward. We are particularly highlighting sub-goal 14.c, which aims to increase the protection and sustainable use of oceans through the implementation of international law.
-
-While the environmental impacts of constructing an enclosed island in the North Sea are not yet fully known, we recognize that both positive and negative impacts are possible. To address this, comprehensive environmental assessments will be conducted to minimize any potential negative impacts. These assessments will be carried out in coordination with other authorities that also utilize the sea.
-
-Overall, we expect this bill to have a predominantly positive impact on the Sustainable Development Goals, contributing to the protection and sustainable use of our marine resources.
-
---------------------------------------------------------------------------------
-
-30. ID: 2670
+   Cluster: (None)
    Actor: Ørsted
-   Year: 2021
    Statement: Ørsted questions the value and feasibility of a caisson-based artificial island concept for the Danish “Energy Island” projects due to significant uncertainties in cost-effectiveness, construction risks, and operational efficiency. Specifically:
 
 1. Economic Viability: The large-scale storage of hydrogen and Power-to-X technologies are still in their infancy, with significant uncertainty about whether offshore electrolysis can become competitive with onshore alternatives.
@@ -261,18 +70,169 @@ Overall, we expect this bill to have a predominantly positive impact on the Sust
 
 --------------------------------------------------------------------------------
 
-31. ID: 2692
-   Actor: DN og World Wildlife Fond
+7. ID: 2359
    Year: 2021
-   Statement: The Ministry of Climate, Energy, and Utilities acknowledges the comment raised by DN (The Danish Society for Nature Conservation) and WWF regarding the omission of Sustainable Development Goal (SDG) 14, which pertains to life below water, in the section assessing the impacts on the fulfillment of the United Nations’ SDGs. The Ministry has noted this comment and has since incorporated an evaluation of the proposed bill’s consequences on SDG 14. While several of its targets are not relevant because they concern the year 2020, it is recommended to highlight target 14.c. This target aims to increase the protection and sustainable use of oceans and their resources by implementing international laws reflected in the UN Convention on the Law of the Sea. 
+   Cluster: (None)
+   Actor: Danish Energy Agency
+   Statement: The inclusion of an assessment of the bill's impact on Sustainable Development Goal 14, which focuses on life below water, is a crucial step forward. We are particularly highlighting sub-goal 14.c, which aims to increase the protection and sustainable use of oceans through the implementation of international law.
 
-Regarding the potential environmental impacts of constructing an enclosed island in the North Sea, these impacts are not well understood. However, as described in section 9 of the bill, which addresses environmental and natural consequences, the project could have both positive and negative environmental effects. The Ministry explains how potential environmental impacts will be assessed as part of the environmental review of the energy island plan (SMV) and the environmental impact assessment (VVM) for the specific project. These environmental assessments are designed to minimize impacts through careful planning, which will also be conducted in coordination with other authorities involved in ocean use, as part of the maritime spatial planning process. Overall, the Ministry expects that the bill will primarily have a positive effect on the SDGs.
+While the environmental impacts of constructing an enclosed island in the North Sea are not yet fully known, we recognize that both positive and negative impacts are possible. To address this, comprehensive environmental assessments will be conducted to minimize any potential negative impacts. These assessments will be carried out in coordination with other authorities that also utilize the sea.
+
+Overall, we expect this bill to have a predominantly positive impact on the Sustainable Development Goals, contributing to the protection and sustainable use of our marine resources.
 
 --------------------------------------------------------------------------------
 
-32. ID: 2759
-   Actor: Private person
+8. ID: 2270
+   Year: 2021
+   Cluster: Strategy and planning
+   Actor: DN Bornholm
+   Statement: DN Bornholm emphasizes that the environmental assessment for the Energy Island Bornholm project must comprehensively address the environmental impacts, including effects on human health, material assets, navigation, fishing, landscapes, natural environments, and both land and sea environmental conditions.  
+
+DN Bornholm also stresses that for the Energy Island to be accepted, the Bornholm community must be seen as an integral part of the project. It is vital that Bornholm not only receives electricity from the wind turbines and heat from the transformer station but also plays an active role in the green transition. Bornholm should not be viewed simply as a strategically located site for a hub but as a community that is fully committed to contributing to the green transition and its full scope.
+
+--------------------------------------------------------------------------------
+
+9. ID: 5594
+   Year: 2021
+   Cluster: (None)
+   Actor: Hanne Lyng Winter
+   Statement: The Association for Gentle Coastal Fisheries supports offshore wind energy and Denmark's goal of a 70% reduction in emissions. However, we are deeply concerned about the environmental impacts of the Energy Island projects. These projects require massive amounts of seabed material—approximately 17 million m³ for the North Sea Energy Island alone—which threatens marine ecosystems and violates EU directives on environmental preservation. Raw material extraction from the seabed already causes significant damage, destroying fish habitats and leading to biodiversity loss. Expanding raw material areas for Energy Island construction exacerbates these problems.
+
+Gentle coastal fishing is one of the most climate-friendly sources of animal protein, as it has minimal bycatch, low energy consumption, and a negligible impact on the seabed. Energy Island construction must not destroy nature; otherwise, it cannot be considered "green energy." We advocate for the use of repurposed materials, such as those currently dumped into the sea, rather than virgin seabed resources. Furthermore, tender requirements for the Energy Islands should promote more nature conservation, gentle coastal fishing, and sustainable food production. For example, integrating facilities for cultivating seaweed and mussels around wind farm structures would align with these goals and support climate-friendly food production.
+
+--------------------------------------------------------------------------------
+
+10. ID: 5599
+   Year: 2021
+   Cluster: (None)
+   Actor: Dan Jørgensen
+   Statement: The legal assessment confirms that the proposed bill complies with applicable law, including EU regulations on Environmental Impact Assessments and appeals on environmental issues. The bill suggests limiting access to appeals in three specific areas, where there are critical advantages for the timeline of the project related to ensuring necessary progress in the realization of the Energy Island and minimizing the risk of delays. The limitation of appeal access is intended to safeguard the construction timeline. Timely initiation of the Energy Island construction is a crucial factor for the overall schedule due to the strong dependencies between the island's development, transmission, and offshore wind energy. Additionally, even minor delays in the construction phase can cause significant setbacks because of the complex construction conditions in the North Sea, which only allow work during specific weather windows. Therefore, I do not believe it is appropriate to alter the proposed limitations on appeal access.
+
+--------------------------------------------------------------------------------
+
+11. ID: 5832
+   Year: 2021
+   Cluster: (None)
+   Actor: Dr. Nicholas Grunnet
+   Statement: By mimicking nature and using raw materials readily available on-site, we can significantly reduce the transportation and processing of materials. This approach not only minimizes the environmental impact but also offers the flexibility to reuse the energy island for other purposes or dispose of it with minimal effect on the natural marine environment. This ‘soft engineering’ method stands in contrast to hard engineering projects like sea walls or groynes, which often harm ecosystems. By focusing on sustainable solutions that work in harmony with the environment, we create a more balanced and environmentally responsible approach to the Danish Energy Island projects.
+
+--------------------------------------------------------------------------------
+
+12. ID: 2112
+   Year: 2021
+   Cluster: (None)
+   Actor: Danish Society for Nature Conservation
+   Statement: Danmarks Naturfredningsforening's position is: "It is insufficient to address the potential environmental impacts of the Energy Island projects solely at a general level in the environmental report. When preparing an environmental report, all available knowledge on a given topic must be utilized, whether that knowledge is broad or detailed. For instance, there is substantial knowledge about how porpoises are affected by underwater noise, and this knowledge must be applied at the appropriate level of detail. Therefore, it is not acceptable to only consider the project as a whole at a general level."
+
+--------------------------------------------------------------------------------
+
+13. ID: 2109
+   Year: 2021
+   Cluster: (None)
+   Actor: Danish Society for Nature Conservation
+   Statement: We are deeply concerned about the impact of the Bornholm Energy Island construction on the critically endangered Baltic Sea porpoise population. The specific area designated for offshore wind turbines serves as winter habitat for these porpoises. The total population consists of only 500 individuals, with fewer than 100 being breeding females. According to an ICES report, the loss of even one individual per year from human activities like bycatch could have devastating effects on the entire population. Since Baltic Sea porpoises are protected under Annex IV, Denmark has a legal obligation to protect these marine mammals wherever they are found.
+
+The environmental impact assessment for Bornholm Energy Island must thoroughly address and detail specific measures to protect the porpoise population from underwater noise pollution, both during the construction phase and the operational phase of the wind turbines.
+
+--------------------------------------------------------------------------------
+
+14. ID: 3485
+   Year: 2021
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: Offshore wind development environmental impact assessments (EIS) often fail to properly represent the consequences that these projects may have on the fishing industry and fishing communities.
+
+--------------------------------------------------------------------------------
+
+15. ID: 6131
+   Year: 2021
+   Cluster: (None)
+   Actor: Poul-Jacob Vilhelmsen
+   Statement: I think that the project is exciting. I cannot recall another offshore island where similar installation work has been performed. It will be a challenge. Some have noted that offshore islands maynot be the most environmentally friendlyoption. However, by optimising the hubconfiguration the environmental footprintcan minimise the area of seabed impacted by cabling. I think the environmental impact will be smaller offshore, by concentrating the energy and electrical infrastructure and minimising the distance between different energy hubs developed in the future.
+
+--------------------------------------------------------------------------------
+
+16. ID: 2095
+   Year: 2021
+   Cluster: Strategy and planning
+   Actor: Danish Society for Nature Conservation
+   Statement: I am concerned that while the Environmental Impact Assessment of Denmark's maritime plan mentions the possibility (or requirement?) of establishing a physical island as an Energy Island near Bornholm, this option is completely absent from the public consultation documents. The Danish Nature Conservation Association finds it puzzling that this significant detail appears in the environmental assessment but is not included in this initial consultation phase. This is particularly problematic since this early stage should present all possible configurations of the Energy Island project to allow the public to properly evaluate and respond to the plans.
+
+--------------------------------------------------------------------------------
+
+17. ID: 950
+   Year: 2021
+   Cluster: (None)
+   Actor: NorthWind, NCCS, LowEmission and NTRANS
+   Statement: Green transition projects in the North Sea, including the construction of energy islands, CO2 capture, transport and storage infrastructure, and offshore wind farms, will inevitably have an environmental impact. Like all industrial activities, these projects cannot be implemented without affecting nature.
+
+--------------------------------------------------------------------------------
+
+18. ID: 428
+   Year: 2021
+   Cluster: (None)
+   Actor: Energinet
+   Statement: We commit to performing Environmental Impact Assessments (EIA) for onshore developments, focusing on the connection from the landfall to the high-voltage station.
+
+--------------------------------------------------------------------------------
+
+19. ID: 6750
+   Year: 2021
+   Cluster: (None)
+   Actor: Stine Gro Jensen
+   Statement: Stine Gro Jensen, Project Director and Head of Department for Environmental Impact Assessment at Ramboll, emphasizes the importance of environmental assessments for large-scale energy projects. She states, "Before building extensive energy infrastructure such as the upcoming energy islands, it’s critical to conduct an environmental impact assessment of the plan to ensure that both the building and subsequent operations go hand-in-hand with protection of nature and animal life."
+
+--------------------------------------------------------------------------------
+
+20. ID: 821
+   Year: 2021
+   Cluster: (None)
+   Actor: Alessandro Singlitico, Jacob Østergaard, Spyros Chatzivasileiadis
+   Statement: We believe the Danish Energy Islands' offshore hydrogen production needs significant development before implementation at gigawatt scale. Our current cost estimates for hydrogen infrastructure are based on discussions with industry players, not proven deployments. We've simplified our analysis to focus only on major system components, as this will help guide more detailed future studies.
+While our economic analysis offers a starting point, we see three key opportunities to reduce offshore green hydrogen costs:
+1. We should leverage existing North Sea oil and gas infrastructure by converting current platforms and pipelines for hydrogen use. 
+2. We need to integrate hydrogen and electrical transmission systems into unified components rather than building separate infrastructure. This would cut installation costs and allow hydrogen facilities to provide grid balancing services.
+3. We must create synergies with industrial systems by utilizing electrolysis byproducts like oxygen and heat, and by exploring conversion into e-fuels.
+We acknowledge that our analysis excludes social and environmental impacts, which are crucial factors in determining optimal facility placement.
+
+--------------------------------------------------------------------------------
+
+21. ID: 1209
+   Year: 2021
+   Cluster: Energy hubs towards P2X
+   Actor: Dan Jørgensen
+   Statement: Denmark's government has agreed to take a 51% stake in a £25bn artificial "energy island" to be built 50 miles offshore in the North Sea. This island will initially cover 120,000 sq meters and provide green energy to 3 million households. It will be protected by a high sea wall on three sides and have a dock for service vessels on the fourth side.
+
+This project, the largest construction in Danish history, will significantly contribute to European offshore wind potential. It builds on a June agreement to create two wind energy hubs, one artificial and one on the Baltic island of Bornholm, initially supporting 5GW of wind generation and potentially expanding to 12GW.
+
+The North Sea island may not be completed before 2033, potentially missing Denmark's 2030 target of a 70% reduction in greenhouse gas emissions from 1990 levels. However, the government aims to accelerate the process by working with private sector partners and launching discussions with windfarm developers and investors to develop a legal framework for the remaining 49% stake.
+
+Construction is expected to start in 2026, with the next five years focused on signing private sector partners, conducting environmental impact assessments, and connecting the energy islands to Belgium, the Netherlands, and Germany. The project's success depends on these connections, as the energy produced will exceed Denmark's needs and help other countries meet their targets.
+
+--------------------------------------------------------------------------------
+
+22. ID: 2945
    Year: 2022
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: Stupid and environmentally damaging. They should focus money on installing personal energy generation (solar on houses, local geothermal, local wind) and localized energy generation instead of mass energy generation. Less environmental impact that way (less profits for big corps/government, but that’s not a bad thing.
+
+--------------------------------------------------------------------------------
+
+23. ID: 3986
+   Year: 2022
+   Cluster: Strategy and planning
+   Actor: Marian Kaagh
+   Statement: We are pleased that the Environmental Protection Agency has started the environmental impact assessment for the electrical installations on Bornholm and Zealand, as well as the cables connecting the two stations. This is an important first step toward securing the environmental permit required for the project.  
+
+I, Marian Kaagh, Vice Director at Energinet, hope that everyone with an interest in this project will use the consultation period to submit their ideas and suggestions to the Environmental Protection Agency. This will ensure that we have the best possible foundation for the environmental impact assessment.
+
+--------------------------------------------------------------------------------
+
+24. ID: 2759
+   Year: 2022
+   Cluster: (None)
+   Actor: Private person
    Statement: The Danish state's planned energy islands are a necessary step for green transition, but the location proposed by Viborg Municipality is completely unacceptable. Viborg Municipality has suggested placing one of these massive industrial facilities near the south side of Lake Tjele (Tjele Langsø), in an area that was recently ruled illegal for just 8 wind turbines after extensive review by state authorities.
 
 This area represents our most valuable, vulnerable, and internationally protected natural habitat. The taiga geese at Lake Tjele are indicator species for this habitat's exceptional biodiversity, just as black grouse once were for Jutland's heaths before those disappeared. These geese require this specific location for winter survival - they need to feed during daylight hours and safely roost on the lake at night, arriving in noisy flocks after dark. The geese are site-loyal and cannot simply relocate elsewhere.
@@ -283,220 +243,144 @@ As a resident by Lake Tjele, I naturally care about protecting this environment.
 
 --------------------------------------------------------------------------------
 
-33. ID: 2852
-   Actor: Jacob Trøst
-   Year: 2023
-   Statement: I strongly believe that the energy island will help us grow our local businesses, attract new residents and visitors, create new educational programs and apprenticeships, and ensure the construction of sustainable facilities with minimal environmental impact. I also see opportunities for our harbors to serve as service hubs and for the construction of new permanent housing.
-
---------------------------------------------------------------------------------
-
-34. ID: 2860
-   Actor: Private person
-   Year: 2023
-   Statement: The Danish government and the wind industry are forcefully imposing the green transition on Bornholm, disregarding the will of the local population. The massive transformer station planned for South Bornholm will industrialize the area, destroying its natural beauty and turning residents into defenseless victims of a process they neither asked for nor support. 
-
-The environmental impact assessment, prepared by Rambøll and funded by the government, downplays the negative effects, but the reality is much worse. Bornholmers face a complex bureaucracy and an inaccessible public hearing process that leaves them powerless against a system that has already started preparatory work on the project. The so-called democratic process is a sham, providing no meaningful opportunity for residents to influence the outcome.
-
-The project will forever alter Bornholm’s landscape and values. Where residents now enjoy unobstructed views of the horizon, they will soon see hundreds of wind turbines and their blinking lights at night. This industrialization of the island will harm tourism, bring unquantifiable economic uncertainty, and leave the community burdened with infrastructure costs for the government’s machines. 
-
-Bornholm deserves compensation for this attack on its heritage and values. At a minimum, the government should implement a local electricity tax on energy producers to offset the losses. If the government cannot ensure tangible benefits for Bornholmers, including protecting tourism and local jobs, the island must reject this project outright.
-
---------------------------------------------------------------------------------
-
-35. ID: 2945
-   Actor: Reddit user
+25. ID: 484
    Year: 2022
-   Statement: Stupid and environmentally damaging. They should focus money on installing personal energy generation (solar on houses, local geothermal, local wind) and localized energy generation instead of mass energy generation. Less environmental impact that way (less profits for big corps/government, but that’s not a bad thing.
-
---------------------------------------------------------------------------------
-
-36. ID: 3205
-   Actor: Dan Jørgensen
-   Year: 2021
-   Statement: We have debated whether the Energy Island should be constructed as a platform and finalized the decision by agreeing that the state will hold a 51% majority stake. This is the perfect compromise, as it allows us to leverage private sector expertise while ensuring the project is highly lucrative for both private investors and the Danish state. Construction of the Energy Island is set to begin in 2026. Over the next five years, we will focus on securing private sector partners, conducting environmental impact assessments on the seabed, and finalizing agreements to connect the two energy islands to Belgium, the Netherlands, and Germany.
-
---------------------------------------------------------------------------------
-
-37. ID: 3485
+   Cluster: (None)
    Actor: Reddit user
-   Year: 2021
-   Statement: Offshore wind development environmental impact assessments (EIS) often fail to properly represent the consequences that these projects may have on the fishing industry and fishing communities.
+   Statement: Building an energy island takes a significant amount of time and money. It's curious how nuclear power is often dismissed as unrealistic and too expensive, while we are more than willing to pour large amounts of money into weather-dependent energy sources. Extracting uranium also emits CO2, which is no different from the environmental impact of other materials such as fiberglass, steel, epoxy, copper, and neodymium magnets. If we try to reinvent the wheel and insist on creating a uniquely Danish nuclear power plant, you're right — we won't be able to do it in time or afford it. However, the French have the necessary experience, and their expertise is available for purchase.
 
 --------------------------------------------------------------------------------
 
-38. ID: 3531
-   Actor: Employee of The Danish Energy Agency
-   Year: 2023
-   Statement: Energy Island Bornholm is, as known, planned as an energy island with an international connection. If the entire project is rethought and established either as a radial offshore wind farm or as a non-grid-connected offshore park with PtX integration, it will require further analysis, while the concept for radial parks must be finalized.
-
-Fundamentally, the difference between Energy Island Bornholm and radial parks is that the electricity consumed directly on Bornholm is very limited, while several other large offshore wind projects are being prepared near Zealand. Therefore, the international connection is quite crucial to ensure electricity uptake for a project of this scale.
-
-It should be noted that if a radial park is planned instead, part of the preparation costs will be lost, the intergovernmental agreement made with Germany would need to be broken, and it might also be necessary to update the environmental impact assessments.
-
---------------------------------------------------------------------------------
-
-39. ID: 3850
-   Actor: Energinet
-   Year: 2023
-   Statement: The wind farm and export facility for the Danish energy island must fully comply with all grid code requirements at the point of connection. The construction and operation of the energy island must ensure that no incident results in a loss exceeding the dimensioning fault limit in the DKI area, currently set at 682 MW. Energinet will manage the Environmental Impact Assessment (EIA) for all onshore activities. The concession winner will be responsible for handling any necessary adjustments related to their facilities, purchasing land required for construction, and obtaining permits beyond the EIA permit and the addendum to the municipal spatial plan.
-
---------------------------------------------------------------------------------
-
-40. ID: 3986
+26. ID: 6718
+   Year: 2022
+   Cluster: (None)
    Actor: Marian Kaagh
+   Statement: Marian Kaagh emphasizes the importance of the environmental impact assessment for the electrical infrastructure between Bornholm and Zealand, calling it a critical step towards securing the necessary environmental permit. She encourages citizens to actively participate during the consultation period by submitting ideas and feedback, ensuring the best possible outcome. Kaagh acknowledges the large scale of the project and its impact on the landscape, highlighting the importance of public input to shape the plans effectively. She looks forward to sharing project details at public meetings and ensuring citizens are well-informed to contribute meaningfully to the process.
+
+--------------------------------------------------------------------------------
+
+27. ID: 1573
    Year: 2022
-   Statement: We are pleased that the Environmental Protection Agency has started the environmental impact assessment for the electrical installations on Bornholm and Zealand, as well as the cables connecting the two stations. This is an important first step toward securing the environmental permit required for the project.  
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: Wind turbines are not a sustainable solution. They require oil to operate, their blades need frequent replacement, and there are very limited ways to recycle those blades. Instead, the focus should shift to nuclear power. Nuclear energy is far safer, far cleaner, and far more efficient than any other power source available. People should research nuclear waste—it is not as dangerous as commonly believed, and ongoing research is finding innovative uses for it, such as creating nuclear waste batteries.
 
-I, Marian Kaagh, Vice Director at Energinet, hope that everyone with an interest in this project will use the consultation period to submit their ideas and suggestions to the Environmental Protection Agency. This will ensure that we have the best possible foundation for the environmental impact assessment.
+In addition, the environmental impact of nuclear power is minimal compared to fossil fuels. For example, all the coal plants in the United States operating for just one hour produce more pollution than all the nuclear power plants in the country have produced since they began operation.
 
---------------------------------------------------------------------------------
-
-41. ID: 4211
-   Actor: Energinet
-   Year: 2025
-   Statement: We are responsible for tendering the components of the electrical infrastructure, including the onshore facilities and the electricity trading connection to Germany. After hosting two architectural workshops on Bornholm, we have presented a proposal for the design of the onshore facilities. The final design will be determined through dialogue with Bornholms Regionskommune, followed by municipal planning addendums and an environmental impact assessment, which is expected to be completed in the third quarter of 2024
+If nuclear power is so effective, why hasn’t it been widely adopted? The answer lies with the influence of big oil, which has long prioritized its interests over cleaner, more sustainable energy solutions.
 
 --------------------------------------------------------------------------------
 
-42. ID: 4318
-   Actor: Miljøstyrelsen
+28. ID: 2183
+   Year: 2022
+   Cluster: (None)
+   Actor: Danish Ministry of the Environment
+   Statement: During the construction phase, the operation of construction machinery may contribute to emissions and local dust disturbances along the cable corridor. These are expected to be short-term disruptions that can be mitigated, for example, by watering the area. This issue will be included in the environmental impact assessment of the project. There may also be a need to install lighting at the work sites, both at the station areas and along the cable corridors. The lighting sources will be shielded and positioned to avoid causing glare to neighbors.
+
+--------------------------------------------------------------------------------
+
+29. ID: 1217
+   Year: 2022
+   Cluster: (None)
+   Actor: Blue Research
+   Statement: In connection with the Energy Island project, we at Offshore Center Bornholm (OCB) see great potential for collecting large amounts of data and using it to document the project’s environmental impact and optimize the construction process.
+
+--------------------------------------------------------------------------------
+
+30. ID: 6008
+   Year: 2022
+   Cluster: Strategy and planning
+   Actor: Marian Kaagh
+   Statement: We are pleased that the Danish Environmental Protection Agency is now beginning the environmental impact assessment for the electrical facilities on Bornholm and Zealand, as well as the cable connecting the two stations. This marks the first crucial step toward obtaining the environmental permit required for the project. We hope that all interested parties will use the public consultation period to submit their ideas and suggestions to the Environmental Protection Agency, so we can establish the best possible foundation for the environmental impact assessment.  
+
+We acknowledge that we are introducing a large installation that will have a noticeable impact on the landscape. Therefore, it is crucial that all proposals and feedback from citizens are included to ensure we create the best possible facility. While we are still early in the process and many details remain undecided, we are eager to meet with the residents of Bornholm to share our plans for the project and the station on Bornholm.
+
+--------------------------------------------------------------------------------
+
+31. ID: 6216
+   Year: 2022
+   Cluster: Job creation and innovation
+   Actor: Torben Westh Jensen
+   Statement: Why can't an artificial island be built for the transformer station south of Bornholm, just as they are doing off the coast of Jutland? The Danish Parliament has decided to establish a 2-gigawatt offshore wind farm south of Bornholm, which, in my opinion, is quite large enough for Bornholm if we want to avoid destroying our natural and marine environment. I believe, along with many others, that the Energy Island Bornholm project should be scaled down to better suit Bornholm. Is there not a single politician from Bornholm brave enough to stand up and protect Bornholm's nature and marine environment? Or do they only express their opinions when it's about something trivial, like a hut in a tree? I am continually puzzled by how politicians, both locally and nationally, seem to only see the benefits of erecting offshore wind farms everywhere. The Energy Island Bornholm project, with its sea and land installations, will change Bornholm for at least the next 30 to 50 years. I strongly feel that all politicians from Bornholm have a duty to speak out on this issue. They should be critical and ensure there is a balance, not just focusing on our energy needs but also on the environmental impact. This responsibility extends to politicians throughout Denmark. Are there no organizations in Denmark, like the Danish Society for Nature Conservation, that have an opinion on this? Or are all the citizens of Bornholm and Denmark simply relieved that it's not in their backyard? Speaking of 'backyard,' it seems that living by the sea, like I do, means your opinions are disregarded, as if you only care about your sea view and property value. We who will be neighbors to this massive project are not being taken seriously.
+
+--------------------------------------------------------------------------------
+
+32. ID: 1564
+   Year: 2022
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: The amount of wind power absorbed is so miniscule compared to the total amount of energy in the wind that this is irrelevant in practice. Even massive windmill parks hardly have any influence at all.
+
+Compared to how immensely disruptive the non-renewable alternatives are, it's a drop in the ocean. Even nuclear power plants need mines that impact large areas of land, and hydroelectric dams cause significant flooding of upstream areas.
+
+No industry is without environmental impact. Windmills are far less impactful than most options.
+
+--------------------------------------------------------------------------------
+
+33. ID: 1570
+   Year: 2022
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: Windmills emit less CO2 per kilowatt-hour than nuclear, but nuclear comes in as a close second. That said, if we’re talking about overall environmental impact, I really doubt you can argue that nuclear waste is less harmful than some fiberglass and a few birds dying.
+
+--------------------------------------------------------------------------------
+
+34. ID: 1577
+   Year: 2022
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: Have there been many environmental studies on the long-term effects of offshore wind farms? I’d like to think they’d have a positive impact on local sealife in the long run, but I wonder if we have any solid data on that yet. Honestly, I’d love it if projects like this ended up having a negative environmental impact—it’d be such a strange twist!
+
+--------------------------------------------------------------------------------
+
+35. ID: 4565
    Year: 2023
-   Statement: We at the Danish Environmental Protection Agency explain that, following this supplementary consultation, the landfall point at Vallø Strand has been excluded, and the cable route from Snoldelev-Hastrup to Vallø Strand has been removed. These changes reduce the cable system's length from approximately 30 km to around 8 km. The project now includes five specific landfall points on Bornholm with corresponding cable corridors leading to the station area, amounting to approximately 11 km of cable.
-
-The cables will be installed as underground cables leading to the new high-voltage stations. For most sections, the cables will be buried, but in particularly sensitive areas, such as at watercourse crossings or vulnerable natural sites, the cables will be laid using directional drilling to avoid excavation and minimize environmental impact.
-
-The environmental impacts of the cable-laying on land will primarily occur during the construction phase. These impacts are being studied, described, and assessed in the project's environmental impact report. This includes detailed studies and descriptions of specific areas along the route where construction must take special precautions due to terrain, nature, archaeological sites, soil conditions, landowner requirements, technical installations, or other spatial restrictions.
-
-The impacts related to the establishment of land-based facilities will mainly occur within the project area. However, there may be effects beyond the project area, such as visual and noise-related impacts in nearby surroundings.
-
---------------------------------------------------------------------------------
-
-43. ID: 4327
-   Actor: Miljøstyrelsen
-   Year: 2023
-   Statement: We at the Danish Environmental Protection Agency explain that the project changes will reduce the land allocation for both station areas and cable routes on Zealand, while on Bornholm, the number of landfall points with associated cable routes will increase from four to five.
-
-Construction will involve the use of heavy machinery, which may contribute to localized emissions and dust along the cable corridor. These disturbances are expected to be relatively short-term and can be mitigated through measures such as watering.
-
-Lighting may be required at work sites, both at station areas and along cable corridors. These lights will be shielded and arranged to avoid causing glare for nearby residents. These aspects are addressed in the project's environmental impact report.
-
-During operation, the high-voltage stations will not produce emissions, nor will there be permanent lighting at the facilities. The stations will comply with applicable safety measures, including emergency response plans, and are not expected to pose significant risks. These considerations are included in the project's environmental impact report.
-
-The project is not expected to cause odor nuisances during either the construction or operational phases. A detailed assessment of this is also part of the environmental impact report.
-
---------------------------------------------------------------------------------
-
-44. ID: 4331
-   Actor: Miljøstyrelsen
-   Year: 2023
-   Statement: We at the Danish Environmental Protection Agency explain that the primary landscape impacts will come from the two new high-voltage stations and their associated cable transition facilities, which are the only above-ground installations. Visualizations of the stations will be created to highlight the landscape impact, as part of the project's environmental impact report.
-
-The changes to the station location on Zealand will primarily affect areas that are designated for urban development in the Høje-Taastrup Municipality's local plan and areas designated as transport corridors in the Finger Plan 2019.
-
-The specific location of the high-voltage station on Bornholm will not result in any changes to the potential environmental impacts described in the preliminary consultation held on November 7.
-
---------------------------------------------------------------------------------
-
-45. ID: 4338
-   Actor: Miljøstyrelsen
-   Year: 2023
-   Statement: We at the Danish Environmental Protection Agency explain that the project changes will reduce the land allocation for both station areas and cable routes on Zealand. On Bornholm, the number of landfall points with associated cable routes will increase from four to five.
-
-Traffic disruptions will primarily occur during the construction phase and may require short-term road diversions or temporary closures at crossing points. Increased traffic during this phase will lead to higher traffic noise levels, potentially causing inconvenience for neighbors and users of affected areas and roads.
-
-Temporary and localized disturbances are expected along the cable corridor during the construction phase, while activities at the station areas may last 3-5 years. Noise disturbances will result from excavation and directional drilling work, and potentially from sheet piling or pile driving. These issues will primarily occur in areas where the high-voltage stations are being constructed.
-
-Traffic and noise impacts will be thoroughly addressed in the project's environmental impact report.
-
---------------------------------------------------------------------------------
-
-46. ID: 4387
-   Actor: Zhou
-   Year: 2023
-   Statement: My research focuses on the hydrodynamic impacts of an energy island planned for the eastern Dutch coastal waters near the Ems estuary. The study area poses significant challenges that must be carefully considered. The seabed in this region is extremely dynamic, with some areas experiencing variations of up to 10 meters over 40 years. While the Ballonplaat shoal where we plan to build has been stable recently, its future stability remains uncertain. The area experiences severe hydrodynamic conditions, particularly during winter storms with high waves. The energy island's design must account for these environmental factors. My work examines how different design features, including the island's shape and orientation, could minimize environmental impacts. I am using Delft3D modeling to evaluate these design considerations.
-
---------------------------------------------------------------------------------
-
-47. ID: 4552
+   Cluster: (None)
    Actor: Danish Energy Agency
-   Year: 2023
-   Statement: We acknowledges that the implementation of the Energy Island Bornholm Plan could result in physical disturbances to the seabed that may potentially affect objects of marine archaeological interest. Due to the localized nature of these protection interests, this environmental report only addresses potential impacts at a very general level. Archaeological findings have been recorded within the planned areas for subsea cables and offshore wind farms. Significant portions of the subsea cable plan area follow the Baltic Pipe gas pipeline, where previous marine archaeological investigations have been conducted, providing substantial knowledge about findings in the area. 
-
-Based on the preliminary mapping of marine archaeological findings, the Danish Energy Agency assesses that the plan can be implemented without causing significant impacts on marine archaeological interests. The extent of potential impacts will depend on the specific details of the plan's implementation, including installation patterns, foundation methods, cable corridor routing, and construction methods. A more detailed evaluation of potential impacts will be possible during the environmental impact assessment process to be conducted in connection with the plan's implementation.
-
---------------------------------------------------------------------------------
-
-48. ID: 4565
-   Actor: Danish Energy Agency
-   Year: 2023
    Statement: The realization of the "Plan for Program Energiø Bornholm" may cause physical disturbances to the seabed that could potentially affect objects of marine archaeological interest. These effects are highly localized, and thus the potential impacts have been addressed only at a general level in this environmental report. Archaeological findings have been identified within the planned areas for subsea cables and offshore wind farms. A significant portion of the subsea cable plan area follows the Baltic Pipe gas pipeline, where prior marine archaeological investigations have been conducted, providing substantial knowledge of findings in the area. Based on the initial mapping of marine archaeological findings, the plan is considered feasible without significant impact on marine archaeological interests. The extent of potential impacts depends on specific aspects of plan implementation, such as installation patterns, foundation methods, cable corridor routing, and construction techniques. A later environmental impact assessment process during the plan's implementation will allow for a more detailed evaluation of potential impacts.
 
 --------------------------------------------------------------------------------
 
-49. ID: 4709
-   Actor: Sveriges meteorologiska och hydrologiska institut (SMHI)
+36. ID: 4709
    Year: 2023
+   Cluster: (None)
+   Actor: Sveriges meteorologiska och hydrologiska institut (SMHI)
    Statement: While the environmental impact of each individual installation may be small, the combined effects could be significant. We believe this consequence should be included in the assessment of the cross-border environmental impact.
 Given the strained oxygen conditions in both the Bornholm Sea and the central Baltic's deeper waters, we must stress that any measures affecting the hydrographic conditions in these areas must be carried out to minimize impact as much as possible.
 We suggest that an overarching, multinational marine council overseeing the entire Baltic Sea environment should be established to assess the cumulative environmental effects of all projects.
 
 --------------------------------------------------------------------------------
 
-50. ID: 4847
-   Actor: LinkedIn user
-   Year: 2024
-   Statement: Regarding the proposed Vallø Energy Park:
-
-The Green Citizens Group is opposed to the installation of solar panels and wind turbines in forests and open landscapes, especially in relation to the Vallø Energy Park, located south of Herfølge. Their concerns are summarized in their Facebook group, which include:
-1. Negative impact on protected animal species and natural areas.
-2. Noise pollution from massive wind turbines towering above the treetops.
-3. Destruction of forested areas.
-4. Devaluation of nearby properties.
-5. Visual and noise disturbances from solar panels.
-
-However, I do not believe the installation of wind turbines and solar panels will destroy the natural environment in this area. Vallø Energy Park is located in a production forest, as shown in the attached Google photo. The amount of forest felled annually will not increase due to the establishment of turbines in this area. A full environmental impact report will be prepared in the ongoing process to verify this.
-
-One advantage of locating the energy park in a large forest area is the substantial distance between the project and nearby residents, ensuring that noise disturbance to local citizens is minimized. But this remains a sensitive issue, as public opinion on having turbines in Danish production forests is divided. A quick online search reveals many protests against the project, with a petition against it currently gathering 1,900 signatures. It's clear that the "nature argument" strongly resonates with people. 
-
-In my view, however, whether the project actually harms nature is unlikely to be thoroughly investigated. The project will probably fail because politicians are afraid to go against public opinion. The large, silent majority that could support the project does not speak up.
-
-The failure of many energy parks in recent years is a serious issue, as the Green Transition risks stalling. NIMBY (Not In My Back Yard) sentiment has always been a powerful force. Even regional politicians and some in Gentofte tried to stop the wind turbines at Middelgrunden, but only through a strong public mandate and a strategic alliance with Copenhagen Municipality were we able to convince Minister Svend Auken to approve the project. The bureaucracy and Danish Nature Conservation (DN) did everything they could to prevent the necessary permits from being granted.
-
-Does Denmark truly need onshore energy parks? Yes, very much so. The illusory promises of Energy Islands and offshore wind farms are fading. To meet Denmark's overall energy needs, large-scale renewable energy (RE) is essential. All available tools must be used, and the Vallø Energy Park could be a significant step forward in this transition.
-
---------------------------------------------------------------------------------
-
-51. ID: 4970
-   Actor: Facebook user
-   Year: 2024
-   Statement: The idea of building a large nuclear power plant costing 15–20 billion is impractical. It overlooks the complexities and risks associated with nuclear energy, including safety concerns, waste management, and long-term environmental impact. Additionally, the proposed location in Køge and the plan to pull a cable to Bornholm do not address these critical issues.
-
---------------------------------------------------------------------------------
-
-52. ID: 5365
-   Actor: Jacob Trøst
-   Year: 2024
-   Statement: The construction and operation of the high-voltage installation as part of the Energy Island project will not harm Bornholm’s nature. We carefully selected a site that minimizes the environmental impact. Furthermore, the project will incorporate measures to enhance biodiversity, aiming to leave Bornholm’s natural surroundings even better than before.
-
---------------------------------------------------------------------------------
-
-53. ID: 5380
-   Actor: Dr. Elmar Friedrich
-   Year: 2024
-   Statement: Copenhagen Offshore Partners believes that centralizing offshore wind infrastructure will lead to less environmental impact and significant cost advantages. Dr. Elmar Friedrich, COP's Germany Market Director, emphasizes the crucial role energy islands will play in the future of offshore wind energy in Germany. These energy islands will act as hubs for the storage and transmission of wind energy, provide a cost-efficient platform for green hydrogen production, and serve as bases for the maintenance of offshore wind farms.
-
---------------------------------------------------------------------------------
-
-54. ID: 5468
-   Actor: Susannah Keller Finn
+37. ID: 4552
    Year: 2023
-   Statement: It is incredibly meaningful to have conversations with the people who live and work on Bornholm daily and therefore know the area well. These individuals provide important and highly relevant input for the work we are doing in the Danish Energy Agency, such as environmental impact assessments.
+   Cluster: Strategy and planning
+   Actor: Danish Energy Agency
+   Statement: We acknowledges that the implementation of the Energy Island Bornholm Plan could result in physical disturbances to the seabed that may potentially affect objects of marine archaeological interest. Due to the localized nature of these protection interests, this environmental report only addresses potential impacts at a very general level. Archaeological findings have been recorded within the planned areas for subsea cables and offshore wind farms. Significant portions of the subsea cable plan area follow the Baltic Pipe gas pipeline, where previous marine archaeological investigations have been conducted, providing substantial knowledge about findings in the area. 
+
+Based on the preliminary mapping of marine archaeological findings, the Danish Energy Agency assesses that the plan can be implemented without causing significant impacts on marine archaeological interests. The extent of potential impacts will depend on the specific details of the plan's implementation, including installation patterns, foundation methods, cable corridor routing, and construction methods. A more detailed evaluation of potential impacts will be possible during the environmental impact assessment process to be conducted in connection with the plan's implementation.
 
 --------------------------------------------------------------------------------
 
-55. ID: 5500
+38. ID: 264
+   Year: 2023
+   Cluster: Strategy and planning
+   Actor: Danish Energy Agency
+   Statement: We, the Danish Energy Agency, oversee the planning and implementation of Energiø Bornholm. This project involves the establishment of offshore wind farms with a capacity of up to 3.8 GW in the Baltic Sea, including subsea cables to Denmark and Germany. Energiø Bornholm serves as a pivotal initiative to enhance renewable energy production and integration into the European grid. The realization of the energy island aligns with Denmark's 2020 Climate Agreement and subsequent supplementary agreements. We ensure compliance with the environmental assessment law, addressing the project's potential environmental impacts, including effects on marine ecosystems, coastal landscapes, and visual and noise pollution.
+
+--------------------------------------------------------------------------------
+
+39. ID: 6039
+   Year: 2023
+   Cluster: (None)
+   Actor: Venstre Party spokesperson
+   Statement: The Venstre Party spokesperson expresses strong skepticism about further developing the energy island. They cite too many unanswered questions regarding finances and environmental impact.
+
+--------------------------------------------------------------------------------
+
+40. ID: 5500
+   Year: 2023
+   Cluster: Strategy and planning
    Actor: Hanne Storm Edlefsen
-   Year: 2023
    Statement: The "Plan for Program Energy Island Bornholm" represents a crucial milestone in making Energy Island Bornholm a reality. This plan establishes the overall framework for the project's implementation and its potential environmental impacts. The Danish Energy Agency is now putting this plan and its environmental assessment into a second public consultation phase until December 1st, with the plan expected to be adopted in early next year.
 
 The project consists of three main components:
@@ -510,83 +394,18 @@ All interested parties can access the consultation materials and submit response
 
 --------------------------------------------------------------------------------
 
-56. ID: 5594
-   Actor: Hanne Lyng Winter
-   Year: 2021
-   Statement: The Association for Gentle Coastal Fisheries supports offshore wind energy and Denmark's goal of a 70% reduction in emissions. However, we are deeply concerned about the environmental impacts of the Energy Island projects. These projects require massive amounts of seabed material—approximately 17 million m³ for the North Sea Energy Island alone—which threatens marine ecosystems and violates EU directives on environmental preservation. Raw material extraction from the seabed already causes significant damage, destroying fish habitats and leading to biodiversity loss. Expanding raw material areas for Energy Island construction exacerbates these problems.
-
-Gentle coastal fishing is one of the most climate-friendly sources of animal protein, as it has minimal bycatch, low energy consumption, and a negligible impact on the seabed. Energy Island construction must not destroy nature; otherwise, it cannot be considered "green energy." We advocate for the use of repurposed materials, such as those currently dumped into the sea, rather than virgin seabed resources. Furthermore, tender requirements for the Energy Islands should promote more nature conservation, gentle coastal fishing, and sustainable food production. For example, integrating facilities for cultivating seaweed and mussels around wind farm structures would align with these goals and support climate-friendly food production.
-
---------------------------------------------------------------------------------
-
-57. ID: 5599
-   Actor: Dan Jørgensen
-   Year: 2021
-   Statement: The legal assessment confirms that the proposed bill complies with applicable law, including EU regulations on Environmental Impact Assessments and appeals on environmental issues. The bill suggests limiting access to appeals in three specific areas, where there are critical advantages for the timeline of the project related to ensuring necessary progress in the realization of the Energy Island and minimizing the risk of delays. The limitation of appeal access is intended to safeguard the construction timeline. Timely initiation of the Energy Island construction is a crucial factor for the overall schedule due to the strong dependencies between the island's development, transmission, and offshore wind energy. Additionally, even minor delays in the construction phase can cause significant setbacks because of the complex construction conditions in the North Sea, which only allow work during specific weather windows. Therefore, I do not believe it is appropriate to alter the proposed limitations on appeal access.
-
---------------------------------------------------------------------------------
-
-58. ID: 5745
-   Actor: Ørsted
-   Year: 2025
-   Statement: We think that fish and other sea creatures living on our wind farms can coexist with offshore wind. We minimizes environmental impacts during construction by using bubble curtains, noise mitigation screens, hydro sound dampers, and suction bucket jackets to reduce noise. Once built, turbine foundations act as artificial reefs, fostering new diverse habitats. Throughout the wind farm's life, we closely monitor and mitigate any possible impacts on the marine environment, especially on commercially important species and habitats. Our groundbreaking research into crustacean stocks on one of our UK wind farms showed no negative impact from offshore wind activities.
-
---------------------------------------------------------------------------------
-
-59. ID: 5832
-   Actor: Dr. Nicholas Grunnet
-   Year: 2021
-   Statement: By mimicking nature and using raw materials readily available on-site, we can significantly reduce the transportation and processing of materials. This approach not only minimizes the environmental impact but also offers the flexibility to reuse the energy island for other purposes or dispose of it with minimal effect on the natural marine environment. This ‘soft engineering’ method stands in contrast to hard engineering projects like sea walls or groynes, which often harm ecosystems. By focusing on sustainable solutions that work in harmony with the environment, we create a more balanced and environmentally responsible approach to the Danish Energy Island projects.
-
---------------------------------------------------------------------------------
-
-60. ID: 6008
-   Actor: Marian Kaagh
-   Year: 2022
-   Statement: We are pleased that the Danish Environmental Protection Agency is now beginning the environmental impact assessment for the electrical facilities on Bornholm and Zealand, as well as the cable connecting the two stations. This marks the first crucial step toward obtaining the environmental permit required for the project. We hope that all interested parties will use the public consultation period to submit their ideas and suggestions to the Environmental Protection Agency, so we can establish the best possible foundation for the environmental impact assessment.  
-
-We acknowledge that we are introducing a large installation that will have a noticeable impact on the landscape. Therefore, it is crucial that all proposals and feedback from citizens are included to ensure we create the best possible facility. While we are still early in the process and many details remain undecided, we are eager to meet with the residents of Bornholm to share our plans for the project and the station on Bornholm.
-
---------------------------------------------------------------------------------
-
-61. ID: 6009
-   Actor: svenske meteorologiske- og hydrologiske-institut
-   Year: 2025
-   Statement: Given the large number of completed and planned infrastructure projects in the sensitive area of the southern Baltic Sea, the Swedish Meteorological and Hydrological Institute (SMHI) considers it extremely important to minimize the cumulative environmental impact as much as possible.
-
---------------------------------------------------------------------------------
-
-62. ID: 6010
-   Actor: Svenske meteorologiske- og hydrologiske-institut
-   Year: 2025
-   Statement: The Swedish Meteorological and Hydrological Institute (SMHI) remains concerned about the sections where the submarine cable will be protected by stone structures. These structures may increase turbulence, causing bottom currents to mix with surface water, which, according to SMHI, reduces the quality of the Baltic Sea's deep water. Since the cable installation will affect Swedish waters, SMHI believes that Sweden must continue to participate in the environmental impact assessment.
-
-Additionally, SMHI highlights that offshore wind farms influence airflow on the leeward side of the installations. This results in changes to currents, waves, and mixing in the surrounding surface layers of the sea. SMHI believes that this effect must be quantified.
-
---------------------------------------------------------------------------------
-
-63. ID: 6039
-   Actor: Venstre Party spokesperson
+41. ID: 4387
    Year: 2023
-   Statement: The Venstre Party spokesperson expresses strong skepticism about further developing the energy island. They cite too many unanswered questions regarding finances and environmental impact.
+   Cluster: (None)
+   Actor: Zhou
+   Statement: My research focuses on the hydrodynamic impacts of an energy island planned for the eastern Dutch coastal waters near the Ems estuary. The study area poses significant challenges that must be carefully considered. The seabed in this region is extremely dynamic, with some areas experiencing variations of up to 10 meters over 40 years. While the Ballonplaat shoal where we plan to build has been stable recently, its future stability remains uncertain. The area experiences severe hydrodynamic conditions, particularly during winter storms with high waves. The energy island's design must account for these environmental factors. My work examines how different design features, including the island's shape and orientation, could minimize environmental impacts. I am using Delft3D modeling to evaluate these design considerations.
 
 --------------------------------------------------------------------------------
 
-64. ID: 6078
-   Actor: Facebook user
-   Year: 2024
-   Statement: The Bad: Challenges and Concerns Related to Offshore Wind Farming
-Despite its many benefits, offshore wind farming is not without challenges:
-
-Technical Hurdles: Building and maintaining wind farms in marine environments presents immense technical challenges due to harsh weather and logistical difficulties.
-Environmental Impacts: There are concerns about possible disruptions to marine ecosystems, wildlife migrations, and local fishing industries. A thorough environmental assessment is vital before proceeding with construction.
-Regulatory and Legal Challenges: Navigating international waters can complicate jurisdictional matters and regulatory compliance. Projects must contend with numerous stakeholders, potentially causing delays and increased costs.
-
---------------------------------------------------------------------------------
-
-65. ID: 6089
+42. ID: 6089
+   Year: 2023
+   Cluster: (None)
    Actor: Beirut International
-   Year: 2023
    Statement: ACTOR:
 Beirut International - Marine Industry and Commerce sarl
 
@@ -636,87 +455,122 @@ While some stakeholders are more advanced then the other, some at prototyping st
 
 --------------------------------------------------------------------------------
 
-66. ID: 6131
-   Actor: Poul-Jacob Vilhelmsen
-   Year: 2021
-   Statement: I think that the project is exciting. I cannot recall another offshore island where similar installation work has been performed. It will be a challenge. Some have noted that offshore islands maynot be the most environmentally friendlyoption. However, by optimising the hubconfiguration the environmental footprintcan minimise the area of seabed impacted by cabling. I think the environmental impact will be smaller offshore, by concentrating the energy and electrical infrastructure and minimising the distance between different energy hubs developed in the future.
-
---------------------------------------------------------------------------------
-
-67. ID: 6216
-   Actor: Torben Westh Jensen
-   Year: 2022
-   Statement: Why can't an artificial island be built for the transformer station south of Bornholm, just as they are doing off the coast of Jutland? The Danish Parliament has decided to establish a 2-gigawatt offshore wind farm south of Bornholm, which, in my opinion, is quite large enough for Bornholm if we want to avoid destroying our natural and marine environment. I believe, along with many others, that the Energy Island Bornholm project should be scaled down to better suit Bornholm. Is there not a single politician from Bornholm brave enough to stand up and protect Bornholm's nature and marine environment? Or do they only express their opinions when it's about something trivial, like a hut in a tree? I am continually puzzled by how politicians, both locally and nationally, seem to only see the benefits of erecting offshore wind farms everywhere. The Energy Island Bornholm project, with its sea and land installations, will change Bornholm for at least the next 30 to 50 years. I strongly feel that all politicians from Bornholm have a duty to speak out on this issue. They should be critical and ensure there is a balance, not just focusing on our energy needs but also on the environmental impact. This responsibility extends to politicians throughout Denmark. Are there no organizations in Denmark, like the Danish Society for Nature Conservation, that have an opinion on this? Or are all the citizens of Bornholm and Denmark simply relieved that it's not in their backyard? Speaking of 'backyard,' it seems that living by the sea, like I do, means your opinions are disregarded, as if you only care about your sea view and property value. We who will be neighbors to this massive project are not being taken seriously.
-
---------------------------------------------------------------------------------
-
-68. ID: 6424
-   Actor: Bornholm Regional Municipality
-   Year: 2024
-   Statement: On October 11, 2024, we officially adopted the local plan for the onshore stations of the Bornholm Energy Island near Aakirkeby. The plan focuses on integrating the stations into the landscape, reducing environmental impact, and adding recreational value to the area.
-
-Before finalizing the plan, we conducted public consultations between 2022 and 2023 to gather feedback. Additionally, we collaborated with the local community in an architectural process to ensure their experiences and preferences were reflected. Two workshops, held in November 2022 and March 2023, allowed us to test and refine ideas and concepts with the community.
-
---------------------------------------------------------------------------------
-
-69. ID: 6425
-   Actor: Bornholm Regional Municipality
-   Year: 2024
-   Statement: Local Plan No. 152 for the Bornholm Energy Island onshore stations establishes the framework for planning decisions in the designated area. This includes provisions for converter stations, DC breakers, AC substations, and connections to the wind turbines.
-
-The next step in the process is the second public hearing on the environmental impact assessment for the Danish section, scheduled to take place later this year.
-
---------------------------------------------------------------------------------
-
-70. ID: 6596
-   Actor: The Danish Organisation for Renewable Energy
-   Year: 2002
-   Statement: Our position is that the siting of wind turbines is an integral component of Danish land-use planning. In 1994, all municipalities were tasked with designating sites for wind turbine groups and parks. By 1999, the responsibility for revising these plans was transferred to counties as part of their regional planning processes.  
-
-This system of designated sites streamlined the installation of wind turbines, significantly facilitating development for wind power developers during the 1990s. However, as most of these designated sites were utilized during that period, the installation of new wind turbines now often requires the designation of additional sites. This process involves a more extended planning procedure, including conducting an Environmental Impact Assessment, which adds complexity to wind energy development.
-
---------------------------------------------------------------------------------
-
-71. ID: 6718
-   Actor: Marian Kaagh
-   Year: 2022
-   Statement: Marian Kaagh emphasizes the importance of the environmental impact assessment for the electrical infrastructure between Bornholm and Zealand, calling it a critical step towards securing the necessary environmental permit. She encourages citizens to actively participate during the consultation period by submitting ideas and feedback, ensuring the best possible outcome. Kaagh acknowledges the large scale of the project and its impact on the landscape, highlighting the importance of public input to shape the plans effectively. She looks forward to sharing project details at public meetings and ensuring citizens are well-informed to contribute meaningfully to the process.
-
---------------------------------------------------------------------------------
-
-72. ID: 6750
-   Actor: Stine Gro Jensen
-   Year: 2021
-   Statement: Stine Gro Jensen, Project Director and Head of Department for Environmental Impact Assessment at Ramboll, emphasizes the importance of environmental assessments for large-scale energy projects. She states, "Before building extensive energy infrastructure such as the upcoming energy islands, it’s critical to conduct an environmental impact assessment of the plan to ensure that both the building and subsequent operations go hand-in-hand with protection of nature and animal life."
-
---------------------------------------------------------------------------------
-
-73. ID: 6906
-   Actor: Researchers
-   Year: 2017
-   Statement: We believe that transitioning to renewable energy sources can significantly reduce the environmental impact caused by traditional electricity generation methods. In the Graciosa project, we integrated a large-scale battery energy storage system with wind power and photovoltaics in a hybrid power plant. This system aims to replace the island's previous reliance on diesel combustion for electricity generation. Our Life Cycle Assessment results indicate that the environmental impacts have been reduced by approximately 43% due to the shift to this hybrid electricity supply, which incorporates 65% renewable energy.
-
-Despite this progress, more than 60% of the environmental impacts are still attributed to the diesel-based electricity generation that remains in the system. The construction of the large-scale battery energy storage system accounts for only 6% of the total environmental impacts, while wind power and photovoltaics contribute 18% and 14%, respectively. This shows that while the renewable energy components help reduce impacts, there is still a significant reliance on diesel that needs to be addressed for further environmental improvement.
-
---------------------------------------------------------------------------------
-
-74. ID: 6913
-   Actor: Kathleen Haigh
-   Year: 2025
-   Statement: We investigated the feasibility of incorporating biorefineries into South African sugar mills to improve sustainability. Our simulations of various scenarios, including ethanol, furfural, lactic acid, methanol, Fischer-Tropsch synthesis, and butanol production, show that biorefineries can reduce environmental impacts and create jobs. While these solutions improve the industry's sustainability, the economic outcomes are currently insufficient to justify investment. Further technological advancements and exploration of additional scenarios are required to make these biorefineries viable.
-
---------------------------------------------------------------------------------
-
-75. ID: 6983
-   Actor: Researcher
-   Year: 2018
-   Statement: I think the increasing energy demand for residential buildings and use of fossil fuels to meet these demands are having a substantial environmental impact. The use of renewable energy sources is attracting more attention as a replacement of other sources like fossil fuels. The main reasons are diminishing fossil fuel sources, global warming and CO2 gas emissions. Clean and sustainable energy solutions for present and future requirements are renewable energy sources. The fundamental energy sources like solar, wind, geothermal and hydro are renewable because these sources are not depleted.
-
---------------------------------------------------------------------------------
-
-76. ID: 7081
-   Actor: Beirut International
+43. ID: 5468
    Year: 2023
+   Cluster: (None)
+   Actor: Susannah Keller Finn
+   Statement: It is incredibly meaningful to have conversations with the people who live and work on Bornholm daily and therefore know the area well. These individuals provide important and highly relevant input for the work we are doing in the Danish Energy Agency, such as environmental impact assessments.
+
+--------------------------------------------------------------------------------
+
+44. ID: 4338
+   Year: 2023
+   Cluster: (None)
+   Actor: Miljøstyrelsen
+   Statement: We at the Danish Environmental Protection Agency explain that the project changes will reduce the land allocation for both station areas and cable routes on Zealand. On Bornholm, the number of landfall points with associated cable routes will increase from four to five.
+
+Traffic disruptions will primarily occur during the construction phase and may require short-term road diversions or temporary closures at crossing points. Increased traffic during this phase will lead to higher traffic noise levels, potentially causing inconvenience for neighbors and users of affected areas and roads.
+
+Temporary and localized disturbances are expected along the cable corridor during the construction phase, while activities at the station areas may last 3-5 years. Noise disturbances will result from excavation and directional drilling work, and potentially from sheet piling or pile driving. These issues will primarily occur in areas where the high-voltage stations are being constructed.
+
+Traffic and noise impacts will be thoroughly addressed in the project's environmental impact report.
+
+--------------------------------------------------------------------------------
+
+45. ID: 3531
+   Year: 2023
+   Cluster: Financial uncertainty around Bornholm project
+   Actor: Employee of The Danish Energy Agency
+   Statement: Energy Island Bornholm is, as known, planned as an energy island with an international connection. If the entire project is rethought and established either as a radial offshore wind farm or as a non-grid-connected offshore park with PtX integration, it will require further analysis, while the concept for radial parks must be finalized.
+
+Fundamentally, the difference between Energy Island Bornholm and radial parks is that the electricity consumed directly on Bornholm is very limited, while several other large offshore wind projects are being prepared near Zealand. Therefore, the international connection is quite crucial to ensure electricity uptake for a project of this scale.
+
+It should be noted that if a radial park is planned instead, part of the preparation costs will be lost, the intergovernmental agreement made with Germany would need to be broken, and it might also be necessary to update the environmental impact assessments.
+
+--------------------------------------------------------------------------------
+
+46. ID: 4327
+   Year: 2023
+   Cluster: (None)
+   Actor: Miljøstyrelsen
+   Statement: We at the Danish Environmental Protection Agency explain that the project changes will reduce the land allocation for both station areas and cable routes on Zealand, while on Bornholm, the number of landfall points with associated cable routes will increase from four to five.
+
+Construction will involve the use of heavy machinery, which may contribute to localized emissions and dust along the cable corridor. These disturbances are expected to be relatively short-term and can be mitigated through measures such as watering.
+
+Lighting may be required at work sites, both at station areas and along cable corridors. These lights will be shielded and arranged to avoid causing glare for nearby residents. These aspects are addressed in the project's environmental impact report.
+
+During operation, the high-voltage stations will not produce emissions, nor will there be permanent lighting at the facilities. The stations will comply with applicable safety measures, including emergency response plans, and are not expected to pose significant risks. These considerations are included in the project's environmental impact report.
+
+The project is not expected to cause odor nuisances during either the construction or operational phases. A detailed assessment of this is also part of the environmental impact report.
+
+--------------------------------------------------------------------------------
+
+47. ID: 266
+   Year: 2023
+   Cluster: (None)
+   Actor: Energinet
+   Statement: We, Energinet, are responsible for planning the placement and tendering of the necessary electricity transmission network expansions required for Energiø Bornholm. Our focus is on ensuring the infrastructure supports efficient energy transfer to Denmark and Germany while meeting environmental and operational standards. As part of the project, we also manage the environmental impact assessment to ensure compliance with national and international regulations.
+
+--------------------------------------------------------------------------------
+
+48. ID: 908
+   Year: 2023
+   Cluster: (None)
+   Actor: Reddit user
+   Statement: I question feasibility of the project and raises concerns about the environmental impact of such a large number of wind turbines.
+
+--------------------------------------------------------------------------------
+
+49. ID: 1335
+   Year: 2023
+   Cluster: Job creation and innovation
+   Actor: Stine Rosenquist
+   Statement: I have a strong belief in the Energy Island project on Bornholm. This initiative, in my view, places Bornholm on the global map by creating new employment opportunities, strengthening local education programs, and driving exciting research. At the recent public meeting about the Environmental Impact Assessment for the land-based facilities of EnergiØ Bornholm, several concerns were discussed. For example, some participants questioned why there was no architectural design competition for the project, while others worried about the possibility that cables might pass through protected coastal cliffs. One local farmer—whose land may be required for construction—asked what benefits Bornholmers would receive in return. I fully understand how disruptive land expropriation can be and believe that compensation is justified. Even so, I stand behind this project because it brings significant long-term advantages to the community and highlights Bornholm’s forward-thinking spirit.
+
+--------------------------------------------------------------------------------
+
+50. ID: 1856
+   Year: 2023
+   Cluster: (None)
+   Actor: Citizens’ Association Energiø Bornholm
+   Statement: It has been announced that two power-to-x systems will be connected at the high-voltage station on Bornholm, if the companies are interested in it
+We encourage the authorities to carry out an independent environmental assessment of power-to-X, if it becomes relevant.
+The environmental impact report should not allow for the establishment of PtX or PtX test center, as the large amount of chemical substances should not be covered by the upcoming report. In our local citizens' association, there is great uncertainty and concern about the expansion of the area to also include the production of PtX.
+
+--------------------------------------------------------------------------------
+
+51. ID: 4331
+   Year: 2023
+   Cluster: (None)
+   Actor: Miljøstyrelsen
+   Statement: We at the Danish Environmental Protection Agency explain that the primary landscape impacts will come from the two new high-voltage stations and their associated cable transition facilities, which are the only above-ground installations. Visualizations of the stations will be created to highlight the landscape impact, as part of the project's environmental impact report.
+
+The changes to the station location on Zealand will primarily affect areas that are designated for urban development in the Høje-Taastrup Municipality's local plan and areas designated as transport corridors in the Finger Plan 2019.
+
+The specific location of the high-voltage station on Bornholm will not result in any changes to the potential environmental impacts described in the preliminary consultation held on November 7.
+
+--------------------------------------------------------------------------------
+
+52. ID: 2204
+   Year: 2023
+   Cluster: Strategy and planning
+   Actor: Hanne Storm Edlefsen
+   Statement: I want to emphasize the significance of the "Plan for Program Energiø Bornholm," which marks a crucial milestone towards realizing Energiø Bornholm. This plan outlines the overall framework for establishing the project and its potential environmental impact. Currently, the Danish Energy Agency has sent the plan and environmental assessment into the second public consultation phase, which will last until December 1st. The plan is expected to be adopted early next year. The plan involves three key projects: offshore wind farms south and west of Bornholm, the cable connection to Germany developed by our German colleagues from 50Hertz Transmission GmbH, and Energinet's facilities, which include two converter stations on Bornholm and Zealand, and a 1.2 GW direct current connection between them. The environmental assessment, prepared with assistance from Øbisserne, provides a high-level overview of the potential environmental consequences of fully developing Energiø Bornholm, both at sea and on land. This assessment helps us understand how to best consider environmental factors during the construction of the energy island. I encourage everyone interested to review the consultation materials and submit feedback by December 1st on the Danish Energy Agency's website.
+
+--------------------------------------------------------------------------------
+
+53. ID: 2852
+   Year: 2023
+   Cluster: Development & innovation opportunities on Bornholm
+   Actor: Jacob Trøst
+   Statement: I strongly believe that the energy island will help us grow our local businesses, attract new residents and visitors, create new educational programs and apprenticeships, and ensure the construction of sustainable facilities with minimal environmental impact. I also see opportunities for our harbors to serve as service hubs and for the construction of new permanent housing.
+
+--------------------------------------------------------------------------------
+
+54. ID: 7081
+   Year: 2023
+   Cluster: (None)
+   Actor: Beirut International
    Statement: Offshore wind energy generation is more efficient than on land, to harness it you’d have to follow the wind. Ocean water currents offer a much higher energy density, at a stable rate, the technology is progressing, to harness you’d have to follow the currents. 
 To make Hydrogen Green, sea water reverse osmosis and electrolysis equipment have to be close to an energy source, from here the idea of Energy Islands begins. 
 
@@ -756,6 +610,232 @@ However the cons of building the islands are yet to be tested by our firm.
 The Hydrogen Environment is relatively new. 
 Stakeholders include: Shipping Companies, Energy Companies, Ports Logistics, Telecommunication, Reverse Osmosis Water Makers, Electroliser Makers, Wind Turbine makers, Wave Energy Makers, Current Energy Makers, Shipyards, Marine Offshore Contractors, Hydrogen Storage Solution Makers, Inverters, Controls, Aquaponics, Wastewater Treatment, Solid Waste Treatment… 
 While some stakeholders are more advanced then the other, some at prototyping stage, other at maturity; a Floating Energy Island success needs their close collaboration. A fresh firm in the Legal field is trying to advise stakeholders to join efforts and Joint Venture to make such infrastructure and energy concepts a needed reality to meet a Marine Decarbonization.
+
+--------------------------------------------------------------------------------
+
+55. ID: 4318
+   Year: 2023
+   Cluster: (None)
+   Actor: Miljøstyrelsen
+   Statement: We at the Danish Environmental Protection Agency explain that, following this supplementary consultation, the landfall point at Vallø Strand has been excluded, and the cable route from Snoldelev-Hastrup to Vallø Strand has been removed. These changes reduce the cable system's length from approximately 30 km to around 8 km. The project now includes five specific landfall points on Bornholm with corresponding cable corridors leading to the station area, amounting to approximately 11 km of cable.
+
+The cables will be installed as underground cables leading to the new high-voltage stations. For most sections, the cables will be buried, but in particularly sensitive areas, such as at watercourse crossings or vulnerable natural sites, the cables will be laid using directional drilling to avoid excavation and minimize environmental impact.
+
+The environmental impacts of the cable-laying on land will primarily occur during the construction phase. These impacts are being studied, described, and assessed in the project's environmental impact report. This includes detailed studies and descriptions of specific areas along the route where construction must take special precautions due to terrain, nature, archaeological sites, soil conditions, landowner requirements, technical installations, or other spatial restrictions.
+
+The impacts related to the establishment of land-based facilities will mainly occur within the project area. However, there may be effects beyond the project area, such as visual and noise-related impacts in nearby surroundings.
+
+--------------------------------------------------------------------------------
+
+56. ID: 3850
+   Year: 2023
+   Cluster: (None)
+   Actor: Energinet
+   Statement: The wind farm and export facility for the Danish energy island must fully comply with all grid code requirements at the point of connection. The construction and operation of the energy island must ensure that no incident results in a loss exceeding the dimensioning fault limit in the DKI area, currently set at 682 MW. Energinet will manage the Environmental Impact Assessment (EIA) for all onshore activities. The concession winner will be responsible for handling any necessary adjustments related to their facilities, purchasing land required for construction, and obtaining permits beyond the EIA permit and the addendum to the municipal spatial plan.
+
+--------------------------------------------------------------------------------
+
+57. ID: 2860
+   Year: 2023
+   Cluster: Waste of tax payer’s money
+   Actor: Private person
+   Statement: The Danish government and the wind industry are forcefully imposing the green transition on Bornholm, disregarding the will of the local population. The massive transformer station planned for South Bornholm will industrialize the area, destroying its natural beauty and turning residents into defenseless victims of a process they neither asked for nor support. 
+
+The environmental impact assessment, prepared by Rambøll and funded by the government, downplays the negative effects, but the reality is much worse. Bornholmers face a complex bureaucracy and an inaccessible public hearing process that leaves them powerless against a system that has already started preparatory work on the project. The so-called democratic process is a sham, providing no meaningful opportunity for residents to influence the outcome.
+
+The project will forever alter Bornholm’s landscape and values. Where residents now enjoy unobstructed views of the horizon, they will soon see hundreds of wind turbines and their blinking lights at night. This industrialization of the island will harm tourism, bring unquantifiable economic uncertainty, and leave the community burdened with infrastructure costs for the government’s machines. 
+
+Bornholm deserves compensation for this attack on its heritage and values. At a minimum, the government should implement a local electricity tax on energy producers to offset the losses. If the government cannot ensure tangible benefits for Bornholmers, including protecting tourism and local jobs, the island must reject this project outright.
+
+--------------------------------------------------------------------------------
+
+58. ID: 5380
+   Year: 2024
+   Cluster: Energy islands as a cornerstone in Europe’s green transition
+   Actor: Dr. Elmar Friedrich
+   Statement: Copenhagen Offshore Partners believes that centralizing offshore wind infrastructure will lead to less environmental impact and significant cost advantages. Dr. Elmar Friedrich, COP's Germany Market Director, emphasizes the crucial role energy islands will play in the future of offshore wind energy in Germany. These energy islands will act as hubs for the storage and transmission of wind energy, provide a cost-efficient platform for green hydrogen production, and serve as bases for the maintenance of offshore wind farms.
+
+--------------------------------------------------------------------------------
+
+59. ID: 544
+   Year: 2024
+   Cluster: (None)
+   Actor: Energinet
+   Statement: Energinet is conducting seabed surveys in preparation for laying cables for the Energy Island in the North Sea using an unmanned surface vessel (USV) in collaboration with Fugro. This 12-meter vessel is remotely controlled from a control room in Aberdeen, Scotland, offering a more sustainable and environmentally friendly alternative to traditional methods that require larger, crewed ships over extended periods. This innovative approach reduces environmental impact while maintaining efficiency, demonstrating our commitment to combining advanced technology with sustainability in the development of Denmark’s energy islands.
+
+--------------------------------------------------------------------------------
+
+60. ID: 6425
+   Year: 2024
+   Cluster: Strategy and planning
+   Actor: Bornholm Regional Municipality
+   Statement: Local Plan No. 152 for the Bornholm Energy Island onshore stations establishes the framework for planning decisions in the designated area. This includes provisions for converter stations, DC breakers, AC substations, and connections to the wind turbines.
+
+The next step in the process is the second public hearing on the environmental impact assessment for the Danish section, scheduled to take place later this year.
+
+--------------------------------------------------------------------------------
+
+61. ID: 6424
+   Year: 2024
+   Cluster: Strategy and planning
+   Actor: Bornholm Regional Municipality
+   Statement: On October 11, 2024, we officially adopted the local plan for the onshore stations of the Bornholm Energy Island near Aakirkeby. The plan focuses on integrating the stations into the landscape, reducing environmental impact, and adding recreational value to the area.
+
+Before finalizing the plan, we conducted public consultations between 2022 and 2023 to gather feedback. Additionally, we collaborated with the local community in an architectural process to ensure their experiences and preferences were reflected. Two workshops, held in November 2022 and March 2023, allowed us to test and refine ideas and concepts with the community.
+
+--------------------------------------------------------------------------------
+
+62. ID: 1753
+   Year: 2024
+   Cluster: Strategy and planning
+   Actor: Swedish Environmental Protection Agency
+   Statement: The Swedish Environmental Protection Agency acknowledges Denmark’s plan for the Bornholm Energy Island, which designates offshore wind farm areas south and southwest of Bornholm. While the plan includes strategic environmental assessments and cross-border consultations, The Swedish Environmental Protection Agency emphasizes the importance of thorough evaluations to address potential environmental impacts on Swedish waters and ensure transparent communication throughout the process.
+
+--------------------------------------------------------------------------------
+
+63. ID: 6078
+   Year: 2024
+   Cluster: (None)
+   Actor: Facebook user
+   Statement: The Bad: Challenges and Concerns Related to Offshore Wind Farming
+Despite its many benefits, offshore wind farming is not without challenges:
+
+Technical Hurdles: Building and maintaining wind farms in marine environments presents immense technical challenges due to harsh weather and logistical difficulties.
+Environmental Impacts: There are concerns about possible disruptions to marine ecosystems, wildlife migrations, and local fishing industries. A thorough environmental assessment is vital before proceeding with construction.
+Regulatory and Legal Challenges: Navigating international waters can complicate jurisdictional matters and regulatory compliance. Projects must contend with numerous stakeholders, potentially causing delays and increased costs.
+
+--------------------------------------------------------------------------------
+
+64. ID: 4847
+   Year: 2024
+   Cluster: (None)
+   Actor: LinkedIn user
+   Statement: Regarding the proposed Vallø Energy Park:
+
+The Green Citizens Group is opposed to the installation of solar panels and wind turbines in forests and open landscapes, especially in relation to the Vallø Energy Park, located south of Herfølge. Their concerns are summarized in their Facebook group, which include:
+1. Negative impact on protected animal species and natural areas.
+2. Noise pollution from massive wind turbines towering above the treetops.
+3. Destruction of forested areas.
+4. Devaluation of nearby properties.
+5. Visual and noise disturbances from solar panels.
+
+However, I do not believe the installation of wind turbines and solar panels will destroy the natural environment in this area. Vallø Energy Park is located in a production forest, as shown in the attached Google photo. The amount of forest felled annually will not increase due to the establishment of turbines in this area. A full environmental impact report will be prepared in the ongoing process to verify this.
+
+One advantage of locating the energy park in a large forest area is the substantial distance between the project and nearby residents, ensuring that noise disturbance to local citizens is minimized. But this remains a sensitive issue, as public opinion on having turbines in Danish production forests is divided. A quick online search reveals many protests against the project, with a petition against it currently gathering 1,900 signatures. It's clear that the "nature argument" strongly resonates with people. 
+
+In my view, however, whether the project actually harms nature is unlikely to be thoroughly investigated. The project will probably fail because politicians are afraid to go against public opinion. The large, silent majority that could support the project does not speak up.
+
+The failure of many energy parks in recent years is a serious issue, as the Green Transition risks stalling. NIMBY (Not In My Back Yard) sentiment has always been a powerful force. Even regional politicians and some in Gentofte tried to stop the wind turbines at Middelgrunden, but only through a strong public mandate and a strategic alliance with Copenhagen Municipality were we able to convince Minister Svend Auken to approve the project. The bureaucracy and Danish Nature Conservation (DN) did everything they could to prevent the necessary permits from being granted.
+
+Does Denmark truly need onshore energy parks? Yes, very much so. The illusory promises of Energy Islands and offshore wind farms are fading. To meet Denmark's overall energy needs, large-scale renewable energy (RE) is essential. All available tools must be used, and the Vallø Energy Park could be a significant step forward in this transition.
+
+--------------------------------------------------------------------------------
+
+65. ID: 4970
+   Year: 2024
+   Cluster: (None)
+   Actor: Facebook user
+   Statement: The idea of building a large nuclear power plant costing 15–20 billion is impractical. It overlooks the complexities and risks associated with nuclear energy, including safety concerns, waste management, and long-term environmental impact. Additionally, the proposed location in Køge and the plan to pull a cable to Bornholm do not address these critical issues.
+
+--------------------------------------------------------------------------------
+
+66. ID: 2160
+   Year: 2024
+   Cluster: (None)
+   Actor: COWI
+   Statement: COWI acknowledges that the establishment of the Jammerbugt Go Green Energy Island project will impact local material assets by utilizing 745 hectares of valuable agricultural land. However, the project will create a modern energy island that operates in synergy with surrounding industries and is expected to generate new job opportunities. A more detailed analysis of the effects on material assets will be provided in the environmental impact assessment report.
+
+--------------------------------------------------------------------------------
+
+67. ID: 2174
+   Year: 2024
+   Cluster: (None)
+   Actor: COWI
+   Statement: COWI acknowledges that the nearest neighbors to the energy cluster are located approximately 650 meters away, with the project area situated around 2–2.5 kilometers east of the villages of Pandrup and Kås, and 500 meters north of Aabybro.  
+
+The biogas plant within the energy cluster will include exhaust systems that may emit substances into the air, potentially causing air pollution or odor issues. Biogas plants are traditionally considered sources of odor emissions due to the handling of large quantities of manure and bedding material.  
+
+The environmental impact assessment must evaluate whether the project will result in exceedances of substance-specific B-values beyond the property boundaries or cause odor nuisances for nearby communities.
+
+--------------------------------------------------------------------------------
+
+68. ID: 5365
+   Year: 2024
+   Cluster: (None)
+   Actor: Jacob Trøst
+   Statement: The construction and operation of the high-voltage installation as part of the Energy Island project will not harm Bornholm’s nature. We carefully selected a site that minimizes the environmental impact. Furthermore, the project will incorporate measures to enhance biodiversity, aiming to leave Bornholm’s natural surroundings even better than before.
+
+--------------------------------------------------------------------------------
+
+69. ID: 2266
+   Year: 2024
+   Cluster: (None)
+   Actor: Claus Lind Christensen
+   Statement: I want to emphasize that the environmental impact assessment work must consider bird species that migrate in an east-west direction, not just focus on species that migrate north-south, which have naturally received more attention in connection with the more coastal wind farms like Vesterhav Syd and Vesterhav Nord. Jægerforbundet wants more data collection about east-west migration patterns as part of the area mapping. Specifically, Wigeon ducks, Taiga Bean Geese, and Woodcocks are among the species that migrate in east-west directions.
+
+--------------------------------------------------------------------------------
+
+70. ID: 2132
+   Year: 2024
+   Cluster: (None)
+   Actor: COWI
+   Statement: COWI: 
+
+COWI supports the development of the "Jammerbugt Go Green" onshore energy island project. This project includes a solar park, an energy cluster, and facilities such as a biogas plant with CO₂ capture, a grass protein plant, and Power-to-X (PtX) plants for producing hydrogen and e-methanol. COWI highlights the symbiotic integration of the energy island with local agriculture, businesses, residents, and nearby wind turbines.  
+
+Unlike standalone energy projects, the energy island offers the advantage of interconnecting various energy technologies in an industrial symbiosis, facilitating resource recycling of biomass, nutrients, biogenic CO₂, water, and electricity. The energy cluster is central to this symbiosis, with facilities located close together to ensure short connections for efficient processes and to concentrate environmental impacts away from nearby neighbors.  
+
+The energy cluster is expected to operate year-round, 24/7, although some components may pause during nighttime or for balancing or operational reasons. Electricity for the energy cluster will be sourced from the project's solar panels and nearby wind turbines. These sources will be directly connected to the cluster via a dedicated transformer station. The station will also connect to Denmark's electricity grid, enabling energy exchange when beneficial. However, the energy island is designed to be net self-sufficient in electricity, including power from the local wind turbines, which are owned and operated by another developer.
+
+--------------------------------------------------------------------------------
+
+71. ID: 6010
+   Year: 2025
+   Cluster: (None)
+   Actor: Svenske meteorologiske- og hydrologiske-institut
+   Statement: The Swedish Meteorological and Hydrological Institute (SMHI) remains concerned about the sections where the submarine cable will be protected by stone structures. These structures may increase turbulence, causing bottom currents to mix with surface water, which, according to SMHI, reduces the quality of the Baltic Sea's deep water. Since the cable installation will affect Swedish waters, SMHI believes that Sweden must continue to participate in the environmental impact assessment.
+
+Additionally, SMHI highlights that offshore wind farms influence airflow on the leeward side of the installations. This results in changes to currents, waves, and mixing in the surrounding surface layers of the sea. SMHI believes that this effect must be quantified.
+
+--------------------------------------------------------------------------------
+
+72. ID: 1387
+   Year: 2025
+   Cluster: (None)
+   Actor: Greenpeace
+   Statement: while the Energy Island projects promise sustainable energy, they must ensure minimal environmental impact, particularly to marine ecosystems and biodiversity.
+
+--------------------------------------------------------------------------------
+
+73. ID: 5745
+   Year: 2025
+   Cluster: (None)
+   Actor: Ørsted
+   Statement: We think that fish and other sea creatures living on our wind farms can coexist with offshore wind. We minimizes environmental impacts during construction by using bubble curtains, noise mitigation screens, hydro sound dampers, and suction bucket jackets to reduce noise. Once built, turbine foundations act as artificial reefs, fostering new diverse habitats. Throughout the wind farm's life, we closely monitor and mitigate any possible impacts on the marine environment, especially on commercially important species and habitats. Our groundbreaking research into crustacean stocks on one of our UK wind farms showed no negative impact from offshore wind activities.
+
+--------------------------------------------------------------------------------
+
+74. ID: 4211
+   Year: 2025
+   Cluster: (None)
+   Actor: Energinet
+   Statement: We are responsible for tendering the components of the electrical infrastructure, including the onshore facilities and the electricity trading connection to Germany. After hosting two architectural workshops on Bornholm, we have presented a proposal for the design of the onshore facilities. The final design will be determined through dialogue with Bornholms Regionskommune, followed by municipal planning addendums and an environmental impact assessment, which is expected to be completed in the third quarter of 2024
+
+--------------------------------------------------------------------------------
+
+75. ID: 6913
+   Year: 2025
+   Cluster: (None)
+   Actor: Kathleen Haigh
+   Statement: We investigated the feasibility of incorporating biorefineries into South African sugar mills to improve sustainability. Our simulations of various scenarios, including ethanol, furfural, lactic acid, methanol, Fischer-Tropsch synthesis, and butanol production, show that biorefineries can reduce environmental impacts and create jobs. While these solutions improve the industry's sustainability, the economic outcomes are currently insufficient to justify investment. Further technological advancements and exploration of additional scenarios are required to make these biorefineries viable.
+
+--------------------------------------------------------------------------------
+
+76. ID: 6009
+   Year: 2025
+   Cluster: (None)
+   Actor: svenske meteorologiske- og hydrologiske-institut
+   Statement: Given the large number of completed and planned infrastructure projects in the sensitive area of the southern Baltic Sea, the Swedish Meteorological and Hydrological Institute (SMHI) considers it extremely important to minimize the cumulative environmental impact as much as possible.
 
 --------------------------------------------------------------------------------
 

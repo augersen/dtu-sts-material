@@ -124,6 +124,9 @@ ISSUE_DESCRIPTIONS = {
 import pandas as pd
 import os
 import re
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+from collections import Counter
 
 def load_data(dataset_path):
     """Load and prepare the dataset"""
@@ -268,6 +271,117 @@ def display_sample_statements(filtered_df, num_samples):
         print(f"   {display_statement}")
         print()
 
+def create_cluster_visualization(df, filtered_df, topic_name, issue_number, output_folder):
+    """Create and save cluster visualization as PDF"""
+    # Create output folder if it doesn't exist
+    os.makedirs(output_folder, exist_ok=True)
+
+    # Clean topic name for filename
+    safe_topic_name = topic_name.replace("/", "-").replace("\\", "-")
+    pdf_filename = f"{safe_topic_name}.pdf"
+    pdf_path = os.path.join(output_folder, pdf_filename)
+
+    # Get all statements for this issue (for context)
+    issue_column = f'Issue_{issue_number}'
+    issue_condition = (df[issue_column].str.strip() != '') & (df[issue_column].notna())
+    issue_df = df[issue_condition]
+
+    # Check if we have valid X, Y coordinates
+    if 'X' not in df.columns or 'Y' not in df.columns or 'Cluster' not in df.columns:
+        print(f"  ⚠ Warning: Missing X, Y, or Cluster columns. Skipping visualization.")
+        return None
+
+    # Filter out rows without valid coordinates
+    valid_coords_df = df[(df['X'].notna()) & (df['Y'].notna())]
+    valid_issue_df = issue_df[(issue_df['X'].notna()) & (issue_df['Y'].notna())]
+    valid_filtered_df = filtered_df[(filtered_df['X'].notna()) & (filtered_df['Y'].notna())]
+
+    if len(valid_filtered_df) == 0:
+        print(f"  ⚠ Warning: No statements with valid coordinates. Skipping visualization.")
+        return None
+
+    # Get clusters present in filtered data
+    filtered_clusters = set(valid_filtered_df['Cluster'].dropna().unique())
+
+    # Count statements per cluster in filtered data
+    cluster_counts = Counter(valid_filtered_df['Cluster'].dropna())
+
+    # Create figure
+    _, ax = plt.subplots(figsize=(12, 8))
+
+    # Plot all statements (background) in light gray
+    ax.scatter(valid_coords_df['X'], valid_coords_df['Y'],
+               c='lightgray', s=10, alpha=0.3, label='Other statements')
+
+    # Plot issue-related statements (but not matching topic) in a different color
+    issue_not_topic = valid_issue_df[~valid_issue_df.index.isin(valid_filtered_df.index)]
+    if len(issue_not_topic) > 0:
+        ax.scatter(issue_not_topic['X'], issue_not_topic['Y'],
+                   c='lightblue', s=20, alpha=0.5, label=f'Issue {issue_number} (other)')
+
+    # Get unique clusters in filtered data and assign colors
+    unique_clusters = sorted(filtered_clusters)
+
+    # Use tab20 for more colors if needed
+    if len(unique_clusters) <= 10:
+        colors = plt.cm.tab10(range(len(unique_clusters)))
+    else:
+        colors = plt.cm.tab20(range(len(unique_clusters)))
+
+    cluster_color_map = {cluster: colors[i % len(colors)] for i, cluster in enumerate(unique_clusters)}
+
+    # Plot filtered statements by cluster
+    # If too many clusters, only show top 10 in legend
+    show_in_legend = unique_clusters[:10] if len(unique_clusters) > 10 else unique_clusters
+
+    for cluster in unique_clusters:
+        cluster_data = valid_filtered_df[valid_filtered_df['Cluster'] == cluster]
+        count = cluster_counts[cluster]
+
+        label = f'Cluster {cluster} ({count})' if cluster in show_in_legend else None
+        ax.scatter(cluster_data['X'], cluster_data['Y'],
+                   c=[cluster_color_map[cluster]], s=50, alpha=0.8,
+                   label=label)
+
+    # Set labels and title
+    ax.set_xlabel('X', fontsize=12)
+    ax.set_ylabel('Y', fontsize=12)
+    title = f'{topic_name}\nIssue {issue_number}: {ISSUE_DESCRIPTIONS[issue_number][:60]}...'
+    ax.set_title(title, fontsize=14, fontweight='bold')
+
+    # Add legend
+    ax.legend(loc='best', fontsize=9, framealpha=0.9)
+
+    # Add grid
+    ax.grid(True, alpha=0.3)
+
+    # Add summary text box
+    top_3_clusters = cluster_counts.most_common(3)
+    cluster_list = ', '.join([f'{cl} ({ct})' for cl, ct in top_3_clusters])
+
+    summary_text = (
+        f'Total matching statements: {len(filtered_df)}\n'
+        f'Relevant clusters: {len(filtered_clusters)}\n'
+        f'Top clusters: {cluster_list}'
+    )
+
+    if len(unique_clusters) > 10:
+        summary_text += f'\n(Showing top 10 of {len(unique_clusters)} clusters in legend)'
+    ax.text(0.02, 0.98, summary_text,
+            transform=ax.transAxes,
+            fontsize=9,
+            verticalalignment='top',
+            bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.5))
+
+    # Tight layout
+    plt.tight_layout()
+
+    # Save as PDF
+    plt.savefig(pdf_path, format='pdf', dpi=300, bbox_inches='tight')
+    plt.close()
+
+    return pdf_path
+
 def export_results_to_text(filtered_df, topic_name, issue_number, output_folder):
     """Export filtered results to text file"""
     # Create output folder if it doesn't exist
@@ -278,24 +392,48 @@ def export_results_to_text(filtered_df, topic_name, issue_number, output_folder)
     filename = f"{safe_topic_name}.txt"
     output_path = os.path.join(output_folder, filename)
 
+    # Get cluster information
+    cluster_counts = Counter(filtered_df['Cluster'].dropna())
+    unique_clusters = sorted(cluster_counts.keys())
+
+    # Sort statements chronologically by Year
+    # Handle NaN values by putting them at the end
+    sorted_df = filtered_df.copy()
+    sorted_df['Year_sort'] = sorted_df['Year'].fillna(9999)  # Put NaN years at the end
+    sorted_df = sorted_df.sort_values('Year_sort')
+
+    # Get year range for header
+    valid_years = filtered_df['Year'].dropna()
+    if len(valid_years) > 0:
+        year_range = f"{int(valid_years.min())} - {int(valid_years.max())}"
+    else:
+        year_range = "N/A"
+
     with open(output_path, 'w', encoding='utf-8') as f:
         # Write header
         f.write("="*80 + "\n")
         f.write(f"TOPIC: {topic_name}\n")
         f.write(f"ISSUE: {issue_number} - {ISSUE_DESCRIPTIONS[issue_number]}\n")
         f.write(f"MATCHING STATEMENTS: {len(filtered_df)}\n")
+        f.write(f"YEAR RANGE: {year_range}\n")
+        f.write(f"RELEVANT CLUSTERS: {len(unique_clusters)}\n")
+        if cluster_counts:
+            f.write(f"CLUSTER DISTRIBUTION: {dict(cluster_counts)}\n")
+        f.write(f"SORTED BY: Year (chronological order)\n")
         f.write("="*80 + "\n\n")
 
-        # Write each statement
-        for i, (_, row) in enumerate(filtered_df.iterrows(), 1):
+        # Write each statement in chronological order
+        for i, (_, row) in enumerate(sorted_df.iterrows(), 1):
             statement = row['Statement']
             actor = row.get('Actor', 'Unknown')
             year = row.get('Year', 'N/A')
             stmt_id = row.get('id', 'N/A')
+            cluster = row.get('Cluster', 'N/A')
 
             f.write(f"{i}. ID: {stmt_id}\n")
-            f.write(f"   Actor: {actor}\n")
             f.write(f"   Year: {year}\n")
+            f.write(f"   Cluster: {cluster}\n")
+            f.write(f"   Actor: {actor}\n")
             f.write(f"   Statement: {statement}\n")
             f.write("\n" + "-"*80 + "\n\n")
 
@@ -353,11 +491,19 @@ if __name__ == "__main__":
         if show_sample_statements and len(filtered_df) > 0:
             display_sample_statements(filtered_df, min(num_samples, len(filtered_df)))
 
-        # Export to text file
+        # Export to text file and create visualization
         if len(filtered_df) > 0:
-            output_path = export_results_to_text(filtered_df, topic_name, selected_issue, output_folder)
-            exported_files.append((topic_name, output_path, len(filtered_df)))
-            print(f"✓ Exported to: {output_path}")
+            # Export text file
+            txt_path = export_results_to_text(filtered_df, topic_name, selected_issue, output_folder)
+            print(f"✓ Exported text file to: {txt_path}")
+
+            # Create cluster visualization PDF
+            pdf_path = create_cluster_visualization(df, filtered_df, topic_name, selected_issue, output_folder)
+            if pdf_path:
+                print(f"✓ Created visualization PDF: {pdf_path}")
+                exported_files.append((topic_name, txt_path, pdf_path, len(filtered_df)))
+            else:
+                exported_files.append((topic_name, txt_path, None, len(filtered_df)))
         else:
             print(f"⚠ No results to export for '{topic_name}'")
 
@@ -380,9 +526,14 @@ if __name__ == "__main__":
     print(f"\nTotal matching statements across all topics: {total_statements}")
 
     if exported_files:
-        print(f"\nExported files ({len(exported_files)}):")
-        for topic_name, file_path, count in exported_files:
-            print(f"  • {os.path.basename(file_path)} ({count} statements)")
+        print(f"\nExported files ({len(exported_files)} topics):")
+        for topic_name, txt_path, pdf_path, count in exported_files:
+            txt_name = os.path.basename(txt_path)
+            if pdf_path:
+                pdf_name = os.path.basename(pdf_path)
+                print(f"  • {topic_name}: {txt_name} + {pdf_name} ({count} statements)")
+            else:
+                print(f"  • {topic_name}: {txt_name} ({count} statements, no visualization)")
 
     print("\n" + "="*80)
     print("DONE")
