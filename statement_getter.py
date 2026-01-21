@@ -11,10 +11,10 @@ Edit the configuration variables below and run the script.
 # ============================================================================
 
 # Actor to search for (leave empty "" to include all actors)
-actor = "Bornholm"
+actor = ""
 
 # Topic to search for (leave empty "" to include all topics)
-topic = ""
+topic = "Social impact"
 
 # Include actor variations/aliases?
 # If True, will search for common variations of the actor name
