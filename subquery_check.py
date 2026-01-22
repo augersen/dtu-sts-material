@@ -70,6 +70,10 @@ TOPIC_SUBQUERIES = {
 
     "Compensation": [
         "Compensation"
+    ],
+
+    "Esbjerg": [
+        "Esbjerg"
     ]
 }
 

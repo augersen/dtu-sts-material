@@ -1,0 +1,1100 @@
+================================================================================
+TOPIC: Esbjerg
+ISSUE: 11 - How will energy islands impact local communities?
+MATCHING STATEMENTS: 111
+YEAR RANGE: 2019 - 2025
+RELEVANT CLUSTERS: 8
+CLUSTER DISTRIBUTION: {'(None)': 61, 'Energy hubs towards P2X': 6, 'Green growth in Esbjerg': 37, 'Development & innovation opportunities on Bornholm': 1, 'Job creation and innovation': 3, 'German collaboration': 1, 'The nuclear alternative': 1, 'Costly delays': 1}
+SOCIAL MEDIA USERS EXCLUDED: Yes
+SORTED BY: Year (chronological order)
+================================================================================
+
+1. ID: 7334
+   Year: 2019
+   Cluster: (None)
+   Actor: Port of Esbjerg
+   Statement: I think Esbjerg Havn must be prepared to support the government's climate policy, which includes an energy island in the North Sea and a fivefold increase in the current installed offshore wind capacity in Danish waters. Meanwhile, the planning for the debated harbor island near Fanø has been delayed, so we are now requesting that this phase be separated from the overall harbor expansion project.
+
+--------------------------------------------------------------------------------
+
+2. ID: 1996
+   Year: 2020
+   Cluster: Development & innovation opportunities on Bornholm
+   Actor: Lars Yde Sørensen
+   Statement: The energy island project is fantastic, and we at JD Contractor are incredibly excited about the opportunity it presents. JD Contractor specializes in offshore construction work, such as burying cables in the seabed, and this expertise will be highly relevant when transmitting power from the energy island's wind turbines to the mainland through seabed cables. We are optimistic about receiving positive responses to the bids we will submit for the energy island's construction. If we are fully engaged in the project, it will undoubtedly create many new jobs—not only at JD Contractor but also across the industry and throughout the supply chain in Esbjerg.
+
+--------------------------------------------------------------------------------
+
+3. ID: 2012
+   Year: 2020
+   Cluster: (None)
+   Actor: Dennis Jul Pedersen
+   Statement: The most crucial factor for Esbjerg Port is offering the right infrastructure. The port expansion project currently under public consultation is essential, as this expansion will add 500,000 square meters to Esbjerg Port's existing 4.5 million square meters. The Port's board has commissioned a strategic analysis to determine how to realize both the port's and municipality's ambitious plans.
+
+--------------------------------------------------------------------------------
+
+4. ID: 2026
+   Year: 2020
+   Cluster: (None)
+   Actor: Erik Trigger
+   Statement: I, Erik Trigger, believe that while the fishing industry has ended and the political decision to phase out the oil industry in Denmark by 2050 has been made, Esbjerg will continue to thrive economically. The city will still "smell of money," but it will be wind energy profits. I am confident that the wind turbine industry will fill the gap left by the oil industry, especially since Esbjerg is already the leading global hub for shipping wind turbines by sea.
+
+--------------------------------------------------------------------------------
+
+5. ID: 2010
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: The QBIS report estimates the Energy Island project will create 27,000 jobs, potentially even more over a longer timeframe. No other port along Jutland's west coast can match Esbjerg's capabilities. While other ports might be able to service the Energy Island, establishing such a facility requires infrastructure to handle numerous large wind turbine components - infrastructure that Esbjerg already possesses. The construction and maintenance of the Energy Island perfectly aligns with Esbjerg's core strengths.
+
+--------------------------------------------------------------------------------
+
+6. ID: 2009
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: The Energy Island agreement presents tremendous opportunity for Esbjerg's growth. Esbjerg is already a leader in offshore wind turbine shipping, and this climate agreement will allow Esbjerg to elevate this position to entirely new heights. The plan to build an energy island with massive offshore wind turbines in the North Sea represents a potential new growth adventure for Esbjerg.
+
+--------------------------------------------------------------------------------
+
+7. ID: 2027
+   Year: 2020
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: I, Jesper Frost Rasmussen, believe that maintaining Esbjerg's position as the world's leading port for offshore wind turbine shipping depends on fulfilling certain conditions. These conditions are crucial for ensuring Esbjerg remains a global leader in this industry.
+
+--------------------------------------------------------------------------------
+
+8. ID: 2749
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: Esbjerg’s future will be as a "green Silicon Valley," with the port serving as the hub for the shipping and assembly of thousands of offshore wind turbines. The mayor believes that a future energy island in the North Sea can also be serviced from Esbjerg. Additionally, he highlights the potential to store CO2 in the underground cavities that have previously held millions of liters of extracted oil.
+
+--------------------------------------------------------------------------------
+
+9. ID: 1995
+   Year: 2020
+   Cluster: (None)
+   Actor: Dennis Jul Pedersen
+   Statement: The most critical factor for the energy island project is ensuring the availability of the right infrastructure. For this reason, it is essential for us to secure the port expansion we have been working on for a significant amount of time and which is currently under review. This expansion will provide an additional 500,000 square meters of space, adding to the port's current area of 4,500,000 square meters. To realize Esbjerg Havn’s and the municipality’s ambitious plans, the board of Esbjerg Havn has decided to commission a strategic report.
+
+--------------------------------------------------------------------------------
+
+10. ID: 1994
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: I am thrilled about the potential of the energy island project, which, according to the QBIS report released yesterday, could create 27,000 jobs, potentially even more over time. The construction and servicing of the energy island are a perfect match for Esbjerg's capabilities. I cannot imagine any other location along the Jutland west coast being able to offer what Esbjerg can. While other ports might handle some servicing, establishing an energy island requires facilities capable of managing large wind turbine components, and Esbjerg has those facilities.
+
+--------------------------------------------------------------------------------
+
+11. ID: 2028
+   Year: 2020
+   Cluster: (None)
+   Actor: Private person
+   Statement: I, Morten Hahn Pedersen, believe that the transition from oil to green energy in Esbjerg will not be as challenging as the phase-out of the fishing industry was. This transition is a generational process, and most of those currently working in the black offshore industry, such as on oil rigs, will retire within that sector before the shift is fully realized.
+
+--------------------------------------------------------------------------------
+
+12. ID: 2032
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: I, Jesper Frost Rasmussen, am pleased with the agreement to establish a new production facility for offshore wind turbine towers and components at Esbjerg Harbor. In Esbjerg, we are focused on attracting more wind turbine production to the harbor to strengthen and expand our central role in the green transition. This agreement aligns perfectly with our plans to support the significant development of offshore wind over the coming decades. Additionally, the new factory will bring many new jobs to the harbor, benefiting the entire region of South West Jutland.
+
+--------------------------------------------------------------------------------
+
+13. ID: 2033
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: I, Dennis Jul Pedersen, see the agreement to build the new factory at Esbjerg Harbor as a testament to the harbor's critical importance in the offshore wind industry. This agreement reflects our long-term efforts to expand capacity and accommodate more factories at the harbor, both now and in the future.
+
+--------------------------------------------------------------------------------
+
+14. ID: 6317
+   Year: 2020
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: The municipality of Esbjerg, with 116,000 residents, has benefited greatly from hosting and servicing major players in the oil and gas industry. It is somewhat bittersweet that a final date has now been set for this era, which has contributed billions to the Danish treasury and created many jobs in Esbjerg over the past 45 years.
+
+--------------------------------------------------------------------------------
+
+15. ID: 2014
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jakob Lykke
+   Statement: The Energy Islands are integral to the green transition initiated by the Climate Act passed on June 18, 2020. These artificial islands will serve as hubs for offshore wind farms that will help reduce greenhouse gas emissions. From a logistical and locational standpoint, no place can match Esbjerg as the site for the upcoming Energy Island in the North Sea.
+
+--------------------------------------------------------------------------------
+
+16. ID: 6943
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: I cannot imagine that any other location along the Jutland west coast can offer what Esbjerg can. While the energy island could potentially be serviced from other ports, establishing such an energy island requires facilities capable of handling many large wind turbine components. Esbjerg has these facilities.
+
+--------------------------------------------------------------------------------
+
+17. ID: 4989
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: Esbjerg is fully prepared to play a key role in the Danish government's plans for energy islands. With Denmark's climate action plans now unveiled, which include the establishment of two energy islands by 2030, Esbjerg is in a prime position to contribute. Esbjerg is already a world leader in offshore wind shipping, and this aligns perfectly with the recent billion-dollar investment in offshore wind production facilities announced last week. This combination of expertise and investment makes Esbjerg an ideal location for supporting the energy islands initiative.
+
+--------------------------------------------------------------------------------
+
+18. ID: 7273
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: I think the ports on the Danish west coast, including Esbjerg Havn, should have a long-term leading role in the energy island project to fully meet expectations for lower costs, higher efficiency, industrial growth, and green jobs. This role should extend well beyond the official opening of the energy island. Esbjerg Havn is ready to take responsibility for operating the port on the energy island.
+
+It is a good idea and entirely feasible. Current legislation allows ports to acquire and manage areas without physical connection to the port. Strong synergies exist between the new port and the infrastructure on the west coast, and the ports possess the necessary knowledge and experience that others would need years to build. With centuries of expertise in developing, building, and operating ports, and by 2030 decades of experience with offshore wind, we are uniquely equipped. Esbjerg Havn already manages and ships over 1 GW of offshore wind capacity annually.
+
+--------------------------------------------------------------------------------
+
+19. ID: 7294
+   Year: 2020
+   Cluster: (None)
+   Actor: Dennis Jul Pedersen
+   Statement: I think Esbjerg Harbor should play a leading role in the establishment and operation of the upcoming energy island. Esbjerg Harbor is eager to manage a port on the energy island.
+
+--------------------------------------------------------------------------------
+
+20. ID: 7324
+   Year: 2020
+   Cluster: (None)
+   Actor: Dennis Jul Pedersen
+   Statement: I think the current expansion plans for Esbjerg Havn are insufficient to meet the demands of future offshore wind activities. Although the so-called Stage 5 expansion is still moving forward, the available 500,000 square meters will quickly be utilized, especially following the recent climate plan adopted by a broad majority in the Danish Parliament. This plan includes an energy island in the North Sea with wind turbines generating a total capacity of 3 GW. Last summer, we announced that the debated Stage 6 expansion—a proposed island between Esbjerg and Fanø—was put on hold, leaving us with limited space to support the growing offshore wind market.
+
+--------------------------------------------------------------------------------
+
+21. ID: 7315
+   Year: 2020
+   Cluster: (None)
+   Actor: Director Bjarne Pedersen
+   Statement: I think it’s great that there are significant ambitions for business development at Esbjerg Havn, particularly with the upcoming energy island and the expansion of offshore wind turbines in the North Sea. This development will take place in the eastern part of the harbor, far from Dokken. The project involving commercial and residential construction at Dokken does not conflict with business development—in fact, the two plans complement each other. The sustainable project at Dokken will provide more housing and make the city a more attractive place to live, which will help in attracting the necessary workforce.
+
+--------------------------------------------------------------------------------
+
+22. ID: 223
+   Year: 2020
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: The agreement on CO2 storage is of historic significance for Esbjerg. Although I, Jesper Frost Rasmussen, the mayor of Esbjerg, originally wanted the completion of the 8th licensing round, I am satisfied with the result. The oil industry, which has created thousands of jobs and now has a clear end date, is receiving some of what we advocated for in the agreement.
+
+The deal includes measures I consider crucial, such as the deepening of the fairway to Esbjerg Harbor. This will ensure that large wind turbine installation vessels can continue to access the harbor to load massive wind turbine components. Additionally, the oil industry benefits from reduced uncertainty around regulatory frameworks, allowing continued operations and enabling the use of existing North Sea infrastructure for developing nearby fields.
+
+I am also pleased that the agreement includes 200 million kroner in support for capturing and storing CO2 in fields beneath the North Sea. This funding provides a significant boost to Esbjerg and its role in advancing energy transition efforts.
+
+--------------------------------------------------------------------------------
+
+23. ID: 202
+   Year: 2020
+   Cluster: (None)
+   Actor: Ulla Tørnæs
+   Statement: It is, of course, a bit bittersweet to set an end date for an era that has brought the Danish state over 500 billion kroner and created thousands of jobs. However, I, Ulla Tørnæs, am proud to have contributed to Esbjerg receiving 90 million kroner. It would be entirely logical to use this funding to deepen the fairway to Esbjerg Harbor so it can handle the next generation of offshore wind turbines in the future.
+
+I am also pleased with the plans to establish a growth team to ensure business competencies and provide retraining opportunities as part of the green transition. These efforts are vital for securing Esbjerg’s role in Denmark’s green future.
+
+--------------------------------------------------------------------------------
+
+24. ID: 201
+   Year: 2020
+   Cluster: (None)
+   Actor: Anders Kronborg
+   Statement: As a member of the Danish Parliament for the Social Democrats, elected in Esbjerg and part of the Climate and Energy Committee, I, Anders Kronborg, emphasize that this broad political agreement sends a strong signal that the politicians at Christiansborg are fully aware of Esbjerg's unique role in the green transition.
+
+The uncertainty surrounding the 8th licensing round has benefited no one, so I am very satisfied that a broad agreement has now been reached, which is also very favorable for Esbjerg. In my view, the oil industry's journey is far from over, and it will take many years before the oil era fully concludes.
+
+I believe that no one currently employed in oil-related jobs will lose their position before retiring as a result of this agreement. Additionally, companies in Esbjerg are already actively engaged in the green transition, which further ensures stability for workers and the city’s future.
+
+--------------------------------------------------------------------------------
+
+25. ID: 2017
+   Year: 2020
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: Esbjerg has been preparing plans for an Energy Island in the North Sea for several years, aiming for completion within the next decade. This project will require a significant amount of both unskilled and skilled labor. Despite the decision to end North Sea oil production by 2050, the future for Esbjerg remains bright. While the location of the North Sea Energy Island has not yet been decided, Esbjerg is ideally situated and perfectly timed for this opportunity.
+
+--------------------------------------------------------------------------------
+
+26. ID: 5015
+   Year: 2021
+   Cluster: (None)
+   Actor: Olaf Rye
+   Statement: Rybners has been working closely with Kronborg for an extended period, particularly within the Vestjysk Network, which Anders Kronborg himself founded to facilitate knowledge sharing about the upcoming Energy Island in the North Sea. 
+
+As an educational institution, we must contribute to training Denmark's workforce. According to all analyses, the need for skilled workers and the upskilling of unskilled workers within the green transition is enormous. Therefore, it is entirely natural for Anders Kronborg to now participate in board work and assist us both locally and nationally in achieving our ambitions to prepare Esbjerg and our educational programs for the future demands of a greener labor market.
+
+--------------------------------------------------------------------------------
+
+27. ID: 7322
+   Year: 2021
+   Cluster: (None)
+   Actor: Ulla Tørnæs
+   Statement: I think education policy is a crucial element and a decisive prerequisite for achieving the green transition. Education paves the way for groundbreaking research and innovation. The government has proposed building three new climate-focused vocational schools, which will offer programs tailored to sectors supporting the climate goals for 2030 and the long-term international goals for 2050. These include education in agriculture, transport, and energy.
+
+In this context, it would be most logical to place one of these new climate-focused schools in Esbjerg. Esbjerg has long been Denmark's energy hub, and with the transition from fossil fuels to green energy, including offshore wind and the energy island in the North Sea, it is obvious that Mette Frederiksen should consider Esbjerg when determining the placement of these schools on the map of Denmark.
+
+--------------------------------------------------------------------------------
+
+28. ID: 5011
+   Year: 2021
+   Cluster: (None)
+   Actor: Anders Kronborg
+   Statement: I am incredibly pleased to join the board of Rybners, as it gives me the opportunity to closely monitor the enrollment in vocational education programs, which are critically important for the city's green transition and our competitiveness in relation to the Energy Island and future job opportunities. I will do my part to act as a bridge to the city's other educational institutions, ensuring that the city as a whole becomes a strong educational hub with a cohesive education strategy. We must unite to position Esbjerg as a leading education city.
+
+--------------------------------------------------------------------------------
+
+29. ID: 4984
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: KomEsbjerg
+   Statement: The Energy Island project will create jobs in Esbjerg Municipality! It’s the largest construction project in Denmark's history, with the island being built 80 kilometers out in the North Sea over the coming years. This island will collect and distribute energy from offshore wind farms, opening up a multitude of new job opportunities and tasks. Esbjerg Municipality is fully prepared to embrace this opportunity. The Energy Island will serve as a beacon for the green transition, aligning perfectly with Esbjerg's goal to become CO2-neutral by 2030.
+
+--------------------------------------------------------------------------------
+
+30. ID: 5017
+   Year: 2021
+   Cluster: (None)
+   Actor: Jesper Toft Mathiasen
+   Statement: It is incredibly important to train more skilled workers in our region. Especially in the maritime sector, there are tremendous opportunities associated with the new Energy Island and the many green activities currently underway at Esbjerg Harbor.
+
+--------------------------------------------------------------------------------
+
+31. ID: 4779
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Private person
+   Statement: The placement of energy islands near Bornholm and in the North Sea will transform cities such as Rønne, Esbjerg, Hanstholm, Thyborøn, and Hvide Sande into operational and maintenance hubs. Many of these municipalities, often described as part of "peripheral Denmark," face depopulation challenges. By involving these municipalities as co-owners of the energy islands, the initiative could help distribute wealth more evenly across Denmark. Enabling selected municipalities to become stakeholders could foster broader regional development and economic inclusion.
+
+--------------------------------------------------------------------------------
+
+32. ID: 5424
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Private person
+   Statement: The energy island in the North Sea will provide Denmark with significant climate benefits and create jobs in Esbjerg.
+
+--------------------------------------------------------------------------------
+
+33. ID: 5428
+   Year: 2021
+   Cluster: (None)
+   Actor: Private person
+   Statement: It is incredibly important to train more skilled workers in our region, especially in the maritime sector, which presents fantastic opportunities with the new energy islands and all the green initiatives underway at Esbjerg Harbor. The development of the energy islands is a transformative project that will create significant demand for skilled labor. The recognition of Simon as Apprentice of the Year serves as a valuable reminder to other young people to consider pursuing careers in this sector.
+
+--------------------------------------------------------------------------------
+
+34. ID: 5432
+   Year: 2021
+   Cluster: (None)
+   Actor: Ulla Tørnæs
+   Statement: I am pleased to have secured a position in the Climate, Energy, and Utilities Committee, as it makes crucial decisions directly impacting Esbjerg's green transition and the forthcoming energy island. I will advocate for routing the energy island's electricity to Esbjerg, which remains undecided but is vital for the planned Power-to-X facilities. This would enable Esbjerg and Southern Jutland to benefit through job creation. Additionally, this committee plays a central role in exploring opportunities for Esbjerg as Denmark's energy metropolis.
+
+--------------------------------------------------------------------------------
+
+35. ID: 5435
+   Year: 2021
+   Cluster: (None)
+   Actor: citizen group representative
+   Statement: With the upcoming energy island in 2030 and the deployment of record-sized offshore wind turbines along Jutland's west coast, local opposition groups propose that the municipal council and the Planning and Environmental Committee decide against installing taller onshore wind turbines than those currently in place. They advocate for the eventual removal of existing turbines once they are no longer profitable, restoring the area to its natural state as highlighted by the South West Jutland Museums and Esbjerg City Foundation.
+
+--------------------------------------------------------------------------------
+
+36. ID: 5436
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Private person
+   Statement: The planned energy island in the North Sea is anticipated to create tens of thousands of jobs, underscoring its significant potential to drive Esbjerg's next growth adventure in offshore wind energy.
+
+--------------------------------------------------------------------------------
+
+37. ID: 5576
+   Year: 2021
+   Cluster: (None)
+   Actor: Danish Ports
+   Statement: Danish commercial ports play a pivotal role in providing infrastructure such as quays, storage areas, and services that support businesses within and around the ports. While Power-to-X is a relatively new business domain, we are already developing the necessary infrastructure to meet future demands in this sector.
+
+Our ports are actively involved in green transition initiatives. For example:
+- ADP A/S collaborates with local municipalities and companies to establish the Triangle Region as a hub for green fuels and a European multimodal transport center.
+- Vordingborg Havn is developing the 'Vordingborg Energiø' project to create green energy solutions, attract businesses, and generate new jobs.
+- Port of Aalborg is focusing on becoming a production and distribution port for carbon capture and Power-to-X technologies.
+- Rønne Havn is central to Bornholm's designation as an energy island, addressing offshore wind and green fuel needs.
+- Grenaa Havn and Hvide Sande Havn are pursuing strategies for integrating renewable energy and hydrogen production.
+- Hanstholm Havn aims to become CO2-neutral through its 'Hanstholm Energy Community.'
+- Aabenraa Havn is transforming former fossil fuel facilities into green energy production centers via Power-to-X.
+- CMP’s Prøvestenen site is planned as a hub for CO2 capture, storage, and conversion into green fuels.
+- Esbjerg is set to host Europe’s largest Power-to-X plant, producing ammonia for CO2-free fertilizers and maritime fuel, with a significant potential to reduce CO2 emissions.
+
+These initiatives underline our commitment to driving the green transition and supporting Denmark’s ambition to lead in sustainable energy solutions.
+
+--------------------------------------------------------------------------------
+
+38. ID: 7317
+   Year: 2021
+   Cluster: (None)
+   Actor: Torben Haahr
+   Statement: I think it’s time to take action! Varde Kommune must lead the way in creating international educational environments in primary and secondary schools. Our children and young people need an outward-looking education that prepares them for the future.
+
+In just a few years, the energy island near Esbjerg will become a reality, bringing many new residents to the area, including highly qualified Danish and international workers. Varde Kommune must offer their children and young people high-quality, internationally oriented education. This will also make Varde Kommune an especially attractive place to live.
+
+--------------------------------------------------------------------------------
+
+39. ID: 6936
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Anders Kronborg
+   Statement: The energy islands in the North Sea and near Bornholm solidify Denmark's position as a world leader in offshore wind energy. These projects will create additional jobs in Esbjerg. Denmark's location is ideal, Esbjerg Harbor has state-of-the-art infrastructure, and many innovative companies are actively engaged in the green transition.
+
+--------------------------------------------------------------------------------
+
+40. ID: 6946
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost
+   Statement: The energy island projects will have a significant impact here in Esbjerg because Esbjerg has extensive expertise in offshore wind and offshore activities, and this expertise will now be utilized.
+
+--------------------------------------------------------------------------------
+
+41. ID: 7270
+   Year: 2021
+   Cluster: Energy hubs towards P2X
+   Actor: Private person
+   Statement: I think the energy island in the North Sea represents the largest construction project in Denmark's history, with an estimated total cost of 210 billion kroner. This is equivalent to the cost of building up to five Great Belt Bridges or about four Fehmarn Belt links. The energy island will be located approximately 100 kilometers northwest of Esbjerg in the North Sea. This project is the result of a recently announced agreement between the government and multiple parties, including Venstre, Dansk Folkeparti, Radikale Venstre, Socialistisk Folkeparti, Enhedslisten, De Konservative, Liberal Alliance, and Alternativet, regarding its construction and ownership structure.
+
+--------------------------------------------------------------------------------
+
+42. ID: 7296
+   Year: 2021
+   Cluster: (None)
+   Actor: Private person
+   Statement: I think it is incredibly important that we educate more skilled workers in our region. The maritime sector, in particular, presents fantastic opportunities with the new energy island and all the green activities happening at Esbjerg Havn.
+
+--------------------------------------------------------------------------------
+
+43. ID: 7297
+   Year: 2021
+   Cluster: (None)
+   Actor: private person
+   Statement: I think today is a fantastic day for my city, as there are many strong arguments for establishing a law program in Esbjerg. With the government’s proposal, we are creating better opportunities for education across the entire country. Over the past two years, Esbjerg has been significantly prioritized in government policies.
+
+However, I also want to emphasize that, in addition to needing more lawyers, we need more young people to pursue vocational education. This is especially critical as we face the challenges of providing skilled labor for Denmark’s largest construction project, the energy island in the North Sea. These vocational programs are already available in our city and region, and we need to focus even more on promoting them.
+
+--------------------------------------------------------------------------------
+
+44. ID: 5132
+   Year: 2021
+   Cluster: The nuclear alternative
+   Actor: Private person
+   Statement: The Danish "Energy Island" project in the North Sea, costing 210 billion DKK, is a completely absurd idea. Initially designed to distribute electricity from 3 GW of wind turbines, expanding to 10 GW later to supply large parts of Europe, it is not economically viable. Selling electricity to Germany will not be profitable due to their fragmented and underpowered grid, owned by private companies unwilling to cooperate with competitors. 
+
+Today, we already lose money exporting electricity during high winds or are forced to shut down turbines. The only potential benefit is a few jobs in Esbjerg. 
+
+This project is driven by fanatical climate activists who spend others' money recklessly. A green transition should be achieved sustainably and naturally. For 210 billion DKK, we could likely build enough nuclear power plants to meet Denmark's energy needs. We cannot save the whole world, and we must face reality.
+
+Modern nuclear power, particularly thorium-based reactors, is CO2 neutral, meltdown-proof, non-weaponizable, and endorsed by the UN as essential for global energy needs. Politicians must educate themselves instead of blindly following climate extremists.
+
+--------------------------------------------------------------------------------
+
+45. ID: 3389
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: Esbjerg Harbor stands to benefit significantly from an Energy Island. Esbjerg Harbor aims to handle the establishment and operation of the port facilities on the Energy Island. Additionally, Esbjerg Harbor would serve as a natural hub for the transportation of the many offshore wind turbines planned for the North Sea.
+
+--------------------------------------------------------------------------------
+
+46. ID: 7311
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Jakob Lykke
+   Statement: I think it would be absolutely ideal if one of the three new climate-focused vocational schools is placed in Esbjerg. Esbjerg is Denmark's natural center for the green transition, particularly due to our role as a knowledge and business hub for offshore wind and the upcoming energy island in the North Sea.
+
+--------------------------------------------------------------------------------
+
+47. ID: 1983
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Anders Kronborg
+   Statement: The Energy Islands in the North Sea and near Bornholm will cement Denmark's position as a world leader in offshore wind energy. For Esbjerg specifically, these projects will create additional jobs. Esbjerg's location is ideal, and Esbjerg Port has ultra-modern infrastructure. Many enterprising companies in Esbjerg are already well underway with their transition to support these projects.
+
+--------------------------------------------------------------------------------
+
+48. ID: 2013
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: The island will be about the size of 18 football fields and will have a massive impact on Esbjerg Harbor, both during construction and afterward. This will likely lead to even more jobs in the Esbjerg area, directly related to offshore wind. Building such an energy island will bring a lot of activity, and Esbjerg will suddenly become even more attractive as a location for the production of future wind turbines.
+
+--------------------------------------------------------------------------------
+
+49. ID: 1737
+   Year: 2021
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: My assessment is that the establishment and subsequent operation of an energy island like this will create thousands of new jobs for Esbjerg.
+
+--------------------------------------------------------------------------------
+
+50. ID: 1722
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: The island is a fantastic opportunity for Denmark and for Esbjerg. There should be no doubt that, from Esbjerg Port's side, we are eager to play an active role around the island, and it is my clear assessment that Esbjerg Port will be a significant player, especially in relation to the shipment of the offshore wind farms that will be located around the island.
+
+--------------------------------------------------------------------------------
+
+51. ID: 2670
+   Year: 2021
+   Cluster: (None)
+   Actor: Ørsted
+   Statement: Ørsted questions the value and feasibility of a caisson-based artificial island concept for the Danish “Energy Island” projects due to significant uncertainties in cost-effectiveness, construction risks, and operational efficiency. Specifically:
+
+1. Economic Viability: The large-scale storage of hydrogen and Power-to-X technologies are still in their infancy, with significant uncertainty about whether offshore electrolysis can become competitive with onshore alternatives.
+
+2. Construction Risks: Building a caisson-based artificial island involves high cost and timeline uncertainties due to sensitivity to wind and wave conditions, which could lead to significant delays. Additionally, the high environmental impact of such a project introduces further risks related to obtaining environmental approvals.
+
+3. Operations and Maintenance (O&M): While Esbjerg is a highly competitive installation harbor, the willingness to pay for an island-based O&M facility is minimal. Furthermore, the large distances to wind turbines and challenging wave and wind conditions limit the use of smaller service vessels, making the island less practical as an operational base.
+
+Ørsted advocates for alternative solutions that minimize these risks and uncertainties while ensuring cost-efficiency and environmental sustainability.
+
+--------------------------------------------------------------------------------
+
+52. ID: 2697
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: The island is a fantastic opportunity for Denmark and for Esbjerg. There should be no doubt that we at Esbjerg Harbor are very keen to play an active role in relation to the island, and it is my clear assessment that Esbjerg Harbor will become a significant player, particularly regarding the shipping of the offshore wind farms that will be located around the island.
+
+--------------------------------------------------------------------------------
+
+53. ID: 2719
+   Year: 2021
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: My assessment is that the establishment and subsequent operation of an island like this will create thousands of new jobs in Esbjerg.
+
+--------------------------------------------------------------------------------
+
+54. ID: 1997
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost
+   Statement: The Danish “Energy Island” projects will have a significant impact here in Esbjerg because Esbjerg has extensive expertise in offshore wind and offshore activities. These competencies will now be utilized as part of the projects.
+
+--------------------------------------------------------------------------------
+
+55. ID: 2722
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Anders Kronborg
+   Statement: This is not only a piece of Danish history; it is also historic for Esbjerg. It marks a new era, including the North Sea Agreement and the transition from fossil fuels to green energy, likely without costing jobs in Esbjerg. The energy island will serve as a 'showroom' for the rest of the world regarding the green transition.
+
+--------------------------------------------------------------------------------
+
+56. ID: 7332
+   Year: 2021
+   Cluster: (None)
+   Actor: Daniel Sørensen
+   Statement: I think Vestkystvejen should be expanded out to Outrup because it could solve several issues. If Esbjerg becomes the access port for the renowned Energy Island, which is expected to create 5,000 jobs, I firmly believe that an expanded Vestkystvejen would be a significant factor for individuals or families connected to the energy island or the Esbjerg area to consider settling in the Blaabjerg area.
+
+--------------------------------------------------------------------------------
+
+57. ID: 1609
+   Year: 2021
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: The agreement generates enormous excitement in Esbjerg among the port director, the mayor, and a local member of parliament. I believe that the establishment and subsequent operation of an energy island like this will create thousands of new jobs for Esbjerg.
+
+--------------------------------------------------------------------------------
+
+58. ID: 912
+   Year: 2021
+   Cluster: Energy hubs towards P2X
+   Actor: Ken Mathiesen
+   Statement: Energy Island is Denmark's largest infrastructure project in history, with an estimated total construction cost of 210 billion kroner. This amount is equivalent to up to five Great Belt Bridges or approximately four Fehmarn Belt connections. Energy Island will be located approximately 100 kilometers northwest of Esbjerg, out in the North Sea.
+
+--------------------------------------------------------------------------------
+
+59. ID: 896
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: I think the Energy Island represents a fantastic opportunity for Denmark and for the city of Esbjerg. There should be no doubt that Esbjerg Havn is very willing to play an active role concerning the island. It is my clear assessment that Esbjerg Havn will become a significant actor also in relation to the deployment of the offshore wind farms that will be established around the island.
+
+--------------------------------------------------------------------------------
+
+60. ID: 895
+   Year: 2021
+   Cluster: Energy hubs towards P2X
+   Actor: Anders Kronborg
+   Statement: Energy Island is being constructed as an artificial island designed to collect and distribute electricity from surrounding offshore wind farms. Energy Island will initially have a capacity of three gigawatts, providing electricity to three million European households. Energy Island will be expanded in the future to a capacity of ten gigawatts.
+
+This project represents not only a significant moment in Danish history but also a historic milestone for the city of Esbjerg. Energy Island signifies the beginning of a new era concerning the North Sea Agreement and the transition from fossil fuels to green energy. The transition facilitated by Energy Island is expected to preserve employment opportunities in Esbjerg. Furthermore, Energy Island will serve as a "showroom" for the rest of the world regarding the green transition.
+
+--------------------------------------------------------------------------------
+
+61. ID: 894
+   Year: 2021
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: I, Jesper Frost Rasmussen, the mayor of Esbjerg Municipality, assess that the establishment and subsequent operation of an energy island project will create thousands of new jobs for Esbjerg.
+
+--------------------------------------------------------------------------------
+
+62. ID: 1615
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: The Energy Island is a fantastic opportunity for Denmark and for Esbjerg. There should be no doubt that Esbjerg Havn is eager to play an active role in the project. It is my firm belief that Esbjerg Havn will be a significant player, particularly in relation to the shipping of offshore wind turbines that will be located around the island.
+
+--------------------------------------------------------------------------------
+
+63. ID: 2011
+   Year: 2021
+   Cluster: Green growth in Esbjerg
+   Actor: Dennis Jul Pedersen
+   Statement: The news of a large new energy island in the North Sea is, unsurprisingly, welcomed in Esbjerg. The island will be about the size of 18 football fields and will have a huge impact on Esbjerg Harbor, both during construction and afterward. The island will be located 80 kilometers out in the North Sea, though the exact location hasn't been decided yet. Despite this, I expect Esbjerg Harbor to play a crucial role. Esbjerg Harbor will naturally serve as a key hub for the many offshore wind turbines that will be placed around the new energy island.
+
+--------------------------------------------------------------------------------
+
+64. ID: 6893
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: COWI
+   Statement: We believe that the development of the offshore wind energy symbiosis represents a long-term business opportunity that extends directly from the establishment and operation of the Bornholm Energy Island. Specifically, it aims to create a growth environment for companies interested in joining the offshore wind and energy industry. A natural inspiration for this development is Esbjerg, which has branded itself as Denmark’s Energy Metropolis. Over many years, Esbjerg has cultivated a large sector of companies that collaborate with energy firms and provide essential services, such as maritime electricity companies, supply ship operators, offshore logistics providers, pre-assembly solution providers, wind turbine installers, commercial diving companies, and offshore education services. While Bornholm cannot replicate Esbjerg's model due to its smaller catchment area and Esbjerg's historical ties to the fossil energy industry, the increasing number of offshore wind projects in the Baltic Sea region and the experience with operating service ports will likely foster the growth of an industry supporting the green offshore energy sector. This could include companies specializing in wind turbine services, supply shipping, crew boats, diving services, and more. For this to happen, it is essential for companies to recognize these opportunities and take the initiative to develop in that direction. Furthermore, the right framework conditions must be in place, which includes both the necessary knowledge, skills, and physical infrastructure, such as the development of a common offshore environment near a port. Offshore Center Bornholm plays a key role in facilitating this development.
+
+--------------------------------------------------------------------------------
+
+65. ID: 7267
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: Private person
+   Statement: I think the "Energy Island" projects represent an incredible opportunity for Esbjerg. With several "Power-to-X" facilities planned and Facebook building a large data center here, Esbjerg’s future looks bright. The planned energy island and the construction of 10,000 large wind turbines in the North Sea, as outlined in the Esbjerg Declaration, will expand wind power capacity to up to 150 Gigawatts in the North Sea. That is an almost unimaginable amount of energy—enough to cover half of the EU’s total electricity consumption. The biggest challenge now is the lack of sufficient skilled labor, especially given the low enrollment in vocational training programs, which is deeply concerning. Fortunately, the economy does not seem to be the main issue for the success of these projects.
+
+--------------------------------------------------------------------------------
+
+66. ID: 5931
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: COWI
+   Statement: COWI A/S states: "The development of the offshore wind energy symbiosis represents a long-term business opportunity that extends directly from the establishment and operation of the Bornholm Energy Island. Specifically, it aims to create a growth environment for companies interested in joining the offshore wind and energy industry. A natural inspiration for this development is Esbjerg, which has branded itself as Denmark’s Energy Metropolis. Over many years, Esbjerg has cultivated a large sector of companies that collaborate with energy firms and provide essential services, such as maritime electricity companies, supply ship operators, offshore logistics providers, pre-assembly solution providers, wind turbine installers, commercial diving companies, and offshore education services. While Bornholm cannot replicate Esbjerg's model due to its smaller catchment area and Esbjerg's historical ties to the fossil energy industry, the increasing number of offshore wind projects in the Baltic Sea region and the experience with operating service ports will likely foster the growth of an industry supporting the green offshore energy sector. This could include companies specializing in wind turbine services, supply shipping, crew boats, diving services, and more. For this to happen, it is essential for companies to recognize these opportunities and take the initiative to develop in that direction. Furthermore, the right framework conditions must be in place, which includes both the necessary knowledge, skills, and physical infrastructure, such as the development of a common offshore environment near a port. Offshore Center Bornholm plays a key role in facilitating this development."
+
+--------------------------------------------------------------------------------
+
+67. ID: 1918
+   Year: 2022
+   Cluster: (None)
+   Actor: KEFM
+   Statement: Denmark, Belgium, Germany, and the Netherlands will jointly commit to the Esbjerg Declaration, which envisions European green energy leadership, reduced reliance on Russian energy, and regional collaboration for offshore renewable energy.
+
+--------------------------------------------------------------------------------
+
+68. ID: 7300
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: entrepreneurs
+   Statement: I think Esbjerg is the ideal place for us to establish a bed and breakfast, given the major projects planned for the future. The energy island and upcoming power-to-x companies, such as hydrogen factories, are expected to create many jobs, making this a promising opportunity.
+
+--------------------------------------------------------------------------------
+
+69. ID: 5430
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: Gurli and Dennis
+   Statement: Gurli and Dennis, entrepreneurs planning to open a bed and breakfast, are focusing on Esbjerg due to significant upcoming projects. They anticipate that developments such as the energy island and future power-to-x companies, including hydrogen factories, will create numerous jobs in the area.
+
+--------------------------------------------------------------------------------
+
+70. ID: 3852
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: Mayor of Esbjerg
+   Statement: The Mayor of Esbjerg emphasizes Esbjerg's leadership in Denmark's energy transition, highlighting the city’s readiness to contribute to the planned 3 GW artificial energy island in the North Sea through Port Esbjerg's expertise in offshore energy. Esbjerg aims to connect sustainability with growth, becoming a key player in the shift from oil and gas to green energy while maintaining its role as a hub for offshore energy innovation.
+
+--------------------------------------------------------------------------------
+
+71. ID: 5255
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: Uffe Lundgaard
+   Statement: Denmark is a pioneer in wind power, and our expertise in Esbjerg over 50 years - first in oil and gas, then in offshore wind for the past 20 years - proves this. Just as Esbjerg has become a destination for international visitors seeking knowledge about offshore wind, Bornholm will experience the same benefits once the energy island is established in the Baltic Sea.
+
+In Esbjerg, we've welcomed numerous visitors from Denmark and abroad who want to learn about offshore wind. I expect the same will happen when Bornholm becomes the world's first energy island. Germany and the Baltic countries in particular will likely make pilgrimages to Bornholm to learn about wind energy solutions for green transition.
+
+The benefits won't be limited to business visitors - Bornholm will attract both business tourists and general tourists interested in green energy. Green tourism is the future, and since Bornholm already has a strong tourism sector, the island can efficiently combine both tourism streams into one successful venture.
+
+--------------------------------------------------------------------------------
+
+72. ID: 5049
+   Year: 2022
+   Cluster: (None)
+   Actor: Dan Jørgensen
+   Statement: I cannot comment specifically on CIP's proposal. However, I am pleased that market participants were present in Esbjerg, and I welcome the involvement of key stakeholders who are ready to contribute. I am open to hearing more about their specific ideas.
+
+--------------------------------------------------------------------------------
+
+73. ID: 3075
+   Year: 2022
+   Cluster: Green growth in Esbjerg
+   Actor: Jesper Frost Rasmussen
+   Statement: Esbjerg continues to be the heart of Denmark’s offshore industry, housing a specialized cluster of companies involved in oil extraction, natural gas, and offshore wind turbines. Energy technology is Esbjerg's strength. Now, Esbjerg is positioned at the beginning of a pivotal journey, one that links sustainability with economic growth. This journey should demonstrate that sustainability and growth are not opposing forces. The Danish Parliament has accelerated the national energy transition by deciding to phase out oil and gas production in the North Sea by 2050. Esbjerg must not only follow this path but also lead it. Esbjerg has the potential to be a key player in Denmark's transition from black to green energy. As part of this transition, the construction of a new artificial energy island in the North Sea, with a minimum capacity of 3 GW, is crucial. Port Esbjerg is fully prepared to contribute to this groundbreaking project.
+
+--------------------------------------------------------------------------------
+
+74. ID: 7331
+   Year: 2022
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: I think the next and crucial challenge is to secure enough renewable energy. If the goal is green hydrogen and green fuels, we need sufficient green electricity. Therefore, it is essential to quickly expand new offshore projects, and of course, it must be ensured that the electricity from the upcoming Energy Island in the North Sea is brought ashore as close to Esbjerg as possible.
+
+--------------------------------------------------------------------------------
+
+75. ID: 7327
+   Year: 2022
+   Cluster: (None)
+   Actor: Dan Jørgensen
+   Statement: I think Esbjerg is playing a key role in positioning Denmark at the forefront of the green agenda. There have been announcements of PtX projects with a total capacity of over 2 GW in Esbjerg Municipality alone, which is a significant contribution to Denmark's goal of achieving 4-6 GW of electrolysis capacity by 2030. These new green technologies are essential for our shared green society.
+
+--------------------------------------------------------------------------------
+
+76. ID: 7308
+   Year: 2022
+   Cluster: (None)
+   Actor: Anders Kronborg
+   Statement: I think joining the board of Rybners is an incredible opportunity because it allows me to closely follow the enrollment in vocational education programs. These programs are crucial for Esbjerg’s green transition and our competitiveness in relation to the energy island and future job creation.
+
+--------------------------------------------------------------------------------
+
+77. ID: 4845
+   Year: 2022
+   Cluster: (None)
+   Actor: Claus Møller
+   Statement: The enthusiasm surrounding Power-to-X (PtX) and its role in the green transition is evident, with numerous seminars and large-scale plans being discussed across Europe. The EU is even offering significant financial incentives, including €750 billion in COVID-recovery funds, to support PtX plants and hydrogen infrastructure like pipelines and storage.  
+
+However, the conversation often overlooks the poor efficiency of the conversion from electricity to hydrogen, which, with current technologies, struggles to exceed 50%. One suggested solution is to use the excess heat for district heating, but this raises serious practical concerns.  
+
+Take Esbjerg as an example. When the Esbjerg plant—a 378 MW facility that supplied electricity and heat—closes in 2023, its heating will be replaced with a combination of a 50 MW seawater heat pump, a 60 MW biomass plant, and a 30 MW electric boiler. Yet, plans for energy conversion in Esbjerg include:  
+
+- Høst PtX Esbjerg with 1 GW capacity  
+- H2 Energy with 1 GW capacity  
+- A fully built-out hydrogen factory at 12 MW  
+- Various pyrolysis plants exceeding 10 MW  
+
+All these projects claim their waste heat can be used for district heating, but the combined output would be around 20 times the actual heating demand in Esbjerg. This mismatch highlights the inefficiency and lack of foresight in these plans.  
+
+On a broader scale, the same inefficiency exists for energy islands in the North and Baltic Seas. Performing energy conversion at sea, where there is no need for district heating, exacerbates the issue of waste. While some envision humans colonizing Mars or the Moon, perhaps it would be more practical and cost-effective to build artificial islands in the North Sea to utilize this excess heat. Yet, even this is unlikely to be part of current plans.
+
+--------------------------------------------------------------------------------
+
+78. ID: 4100
+   Year: 2022
+   Cluster: (None)
+   Actor: Dan Jørgensen
+   Statement: "The market players were present in Esbjerg, and I’m pleased to see that key actors are ready to contribute. I’m eager to hear more about their specific ideas.
+
+--------------------------------------------------------------------------------
+
+79. ID: 4109
+   Year: 2022
+   Cluster: (None)
+   Actor: Dagbladet Ringkøbing-Skjern
+   Statement: While Esbjerg may gain jobs from the project, the overall initiative is criticized as an example of fanaticism by "climate enthusiasts" who are seen as mismanaging public funds.
+
+--------------------------------------------------------------------------------
+
+80. ID: 4633
+   Year: 2022
+   Cluster: (None)
+   Actor: Ritzau Politik
+   Statement: Currently, the Baltic Sea region generates 2.8 gigawatts of offshore wind power, approximately half of which is produced by Denmark. However, the European Commission has previously estimated a potential of up to 93 gigawatts by 2050. This week's summit follows a similar meeting in Esbjerg a few months ago, involving Denmark, Germany, the Netherlands, and Belgium. At that meeting, the countries agreed on a goal to increase offshore wind capacity in the North Sea tenfold to 150 gigawatts by 2050.
+
+--------------------------------------------------------------------------------
+
+81. ID: 4353
+   Year: 2022
+   Cluster: (None)
+   Actor: Mette Frederiksen
+   Statement: Denmark, together with the other Baltic Sea countries, has committed to increasing electricity generation from offshore wind in the Baltic Sea sevenfold by 2030. This agreement, outlined in the Marienborg Declaration, represents a significant step toward strengthening energy collaboration across the region.  
+
+The decision is driven by the urgent need to free Europe from dependence on Russian gas, especially following Russia’s invasion of Ukraine. Energy has been weaponized, leading to an energy crisis, high prices, and inflation across Europe. It is essential to take all necessary steps to end this reliance and secure a sustainable energy future.  
+
+The agreement includes increasing offshore wind capacity in the Baltic Sea from nearly 3 gigawatts to almost 20 gigawatts by 2030. This will involve installing between 1,100 and 1,700 wind turbines, providing enough electricity for up to 20 million European households. The potential for offshore wind in the Baltic Sea is enormous—up to 93 gigawatts by 2050, as estimated by the European Commission.  
+
+Ending reliance on Russian gas is critical, as continued use of energy resources from an aggressor not only endangers security but also finances war. The Marienborg Declaration is a decisive step in ensuring Europe’s energy independence and addressing the climate crisis. By prioritizing green energy solutions, including hybrid projects connecting offshore wind farms across borders, it will be possible to cut CO₂ emissions and stabilize electricity prices, which are heavily affected by gas.  
+
+This commitment builds on previous agreements, such as the Esbjerg Declaration, where North Sea countries agreed to expand offshore wind capacity tenfold. Together, these initiatives demonstrate that the Baltic Sea countries are determined to lead the way in renewable energy and energy security for Europe.
+
+--------------------------------------------------------------------------------
+
+82. ID: 5419
+   Year: 2022
+   Cluster: Energy hubs towards P2X
+   Actor: Countries involved in the Esbjerg Declaration
+   Statement: The countries involved in the Esbjerg Declaration have agreed to achieve their goals by expanding offshore wind and green hydrogen production. They plan to collaborate closely on connections to the upcoming energy island, aiming to increase its capacity from 3 to 10 gigawatts by 2040.
+
+--------------------------------------------------------------------------------
+
+83. ID: 726
+   Year: 2023
+   Cluster: Energy hubs towards P2X
+   Actor: DNV Energy Systems
+   Statement: We find that  the electrical installation part of Denmark's future energy island in the North Sea is a task of high importance to utilize the North Sea as Europe’s green power plant and achieve the decarbonization targets in the Esbjerg Group Joint Declaration. 
+The energy islands are a prerequisite for us to achieve the massive buildout of offshore wind with many 100 gigawatts. Given their broad scope and immense scale, offshore energy islands/hubs are at the cutting edge of pioneering and complex infrastructures and require a multi-faceted approach to connect the details, understand the bigger picture, and navigate through the many interrelated assets, systems and operations.
+
+--------------------------------------------------------------------------------
+
+84. ID: 7305
+   Year: 2023
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: I think there has been a lot of talk since the Esbjerg declaration, but what we really need now are concrete actions. We are in need of all the electricity that those wind turbines can produce. Therefore, I am pleased that specific agreements have been made in the Danish Parliament, allowing us to tender the projects and move forward.
+
+--------------------------------------------------------------------------------
+
+85. ID: 7293
+   Year: 2023
+   Cluster: Costly delays
+   Actor: Jesper Frost Rasmussen
+   Statement: I think it’s fundamentally unfortunate that the start of the tender process for the energy island has been delayed once again, as this is already a long-term project. However, the most important aspect is the offshore wind farms, for which an agreement was reached just a few weeks ago.
+
+The Danish Energy Agency estimates that the state costs for the current project exceed 50 billion kroner, meaning the project is far from being profitable—a clear requirement outlined in the political agreements. While this delay is disappointing, it doesn’t send shockwaves through Esbjerg, where there is potential for increased activity on multiple fronts if the energy island moves from idea to reality.
+
+--------------------------------------------------------------------------------
+
+86. ID: 7279
+   Year: 2023
+   Cluster: (None)
+   Actor: Member of Parliament
+   Statement: I believe that despite the three-year delay facing Denmark's ambitious energy island project in the North Sea, there is a promising opportunity for a new German collaboration. This partnership could potentially create thousands of new jobs at the Esbjerg Harbor, benefiting both the region and the broader economy.
+
+--------------------------------------------------------------------------------
+
+87. ID: 962
+   Year: 2023
+   Cluster: (None)
+   Actor: Ministry of Energy, Utilities and Climate, Ministry for Economic Afairs and Climate Action
+   Statement: We acknowledge the critical importance of energy security and combating climate change for the future of the European Union. We recognize that recent geopolitical events have highlighted the urgent need to replace fossil fuels, especially Russian oil, coal, and gas, with European renewable energy from the North Sea, including offshore wind electricity and green hydrogen, to support both EU climate neutrality and energy security. 
+
+We further acknowledge the cooperation established between Denmark, Germany, Belgium, and the Netherlands in the “Esbjerg Declaration” of May 18th, 2022, which envisions the North Sea as a Green Power Plant of Europe. In our view, offshore renewable energy hubs and a meshed offshore grid are essential for generating, connecting, converting, and transporting offshore wind energy in the North Sea. 
+
+We note Germany’s plans to establish offshore renewable energy clusters with a 10 GW capacity in the North Sea by the mid-2030s and Denmark’s plans to create a Danish Energy Island with up to 10 GW capacity by 2040. Additionally, we recall the EU Marine Strategy Directive and our joint commitment to achieving good environmental status for all European seas, including the North Sea.
+
+We have agreed on the necessity of this Joint Declaration of Intent (JDoI) to focus on cooperation for connecting Germany’s planned offshore renewable energy hubs with Denmark’s Energy Island. Our primary objective is to facilitate mutual benefits by improving energy security, increasing socio-economic welfare, diversifying energy sources, meeting EU and national renewable energy targets, and integrating wind power with hydrogen and Power-to-X technologies.
+
+To achieve this, we propose the establishment of a Joint Working Group led by energy ministries, supported by energy authorities and Transmission System Operators (TSOs). This group will develop a pre-feasibility study analyzing technical, environmental, and economic aspects and deliver a joint recommendation by the first half of 2024. This recommendation will guide the next steps toward realizing the project, aiming for implementation by the mid-2030s.
+
+We emphasize that this JDoI creates no binding obligations under international law and imposes no financial commitments unless mutually agreed. Cooperation costs are borne by the respective Participant. Any amendments to this JDoI require joint written consent, and any misunderstandings will be resolved collaboratively in good faith and mutual trust. 
+
+This JDoI takes effect upon signature and may be terminated with three months' written notice. Termination does not affect ongoing activities unless otherwise decided.
+
+Signed on April 24th, 2023, in Ostende.
+
+--------------------------------------------------------------------------------
+
+88. ID: 920
+   Year: 2023
+   Cluster: (None)
+   Actor: Jesper Frost Rasmussen
+   Statement: The broad scope of the energy island concept makes it uncertain for now. If it only becomes a transformer station sending electricity to the mainland, it is less relevant for Esbjerg. However, if it includes a harbor, Power-to-X facilities, and more, it will be far more significant, especially with the jobs created during construction. Given the distant timeline, the postponement of the tender is not a concern for now.
+
+--------------------------------------------------------------------------------
+
+89. ID: 4310
+   Year: 2023
+   Cluster: (None)
+   Actor: Center for Regional and Tourism Research
+   Statement: We believe that local business development on Bornholm has been achieved through the strategic integration of test and development activities. Bornholm also holds the potential to develop a systematic approach to involving local businesses in contrasts with Esbjerg and Skive, where there has not been a strategic, systematic involvement of local businesses.
+
+--------------------------------------------------------------------------------
+
+90. ID: 4819
+   Year: 2023
+   Cluster: Job creation and innovation
+   Actor: Baltic Energy Island
+   Statement: What does Energy Island Bornholm mean for local development, how can Energy Island Bornholm serve as a launchpad for energy islands as a new Danish strength, and how do I handle security? These were three key questions when Minister of Defense and Venstre Chairman Troels Lund Poulsen, together with Peter Juel Jensen and Lea Wermelin, visited Baltic Energy Island, where my chairman Claus M. Andersen, mayor and board member Jacob Trøst, and director Søren Møller Christensen welcomed them.
+
+Regarding local development, Jacob Trøst emphasized that Bornholm sees the energy island as an opportunity for local growth and, in the long term, local economic sustainability. However, for this to succeed, there is a need for financial resources to invest in future business development.
+
+Energy islands are not just a good idea. They are also a necessity to achieve the goal of installing the many GW of offshore wind set as political targets in the Esbjerg and Marienborg Declarations. Most of these GW are located so far offshore that the electricity must be collected at sea and sent to land from there. Energy island technology is, therefore, essential, and if I do not use Denmark’s head start with Energy Island Bornholm to turn it into a Danish strength, other countries will simply take the lead.
+
+Security is on everyone’s mind. How do I ensure that the new large facilities and the connections I will depend on in the future are protected from terrorism and hybrid warfare? During the meeting, these topics were discussed, and I explained that at my upcoming Baltic Energy Island Summit, I would focus on the issue.
+
+A big thank you for the visit!
+
+--------------------------------------------------------------------------------
+
+91. ID: 6546
+   Year: 2023
+   Cluster: (None)
+   Actor: Tjæreborg Enge WF
+   Statement: The Tjæreborg Enge wind farm has a significant locational advantage due to its position in Esbjerg. Its proximity to the port ensures low transportation costs for the hydrogen produced. This hydrogen could be utilized by future hydrogen-powered ships or connected to pipelines planned for the energy islands.
+
+--------------------------------------------------------------------------------
+
+92. ID: 2488
+   Year: 2023
+   Cluster: (None)
+   Actor: Jacob Trøst
+   Statement: Overall, we’ve gathered a lot of inspiration from both Esbjerg and Skive regarding what can be achieved with the businesses that come with wind energy and how to attract green companies. The previous government expressed a desire to create four climate vocational schools in Denmark. Specifically, we’ve discussed with Esbjerg the possibility of collaborating on a climate vocational school where some modules could be based on Bornholm. They started with one area, and now they are already expanding it because demand is so high. Many businesses see the benefits of this approach. We’re gaining inspiration: What’s possible? Both within legal boundaries and practically—what can we achieve, and what’s needed to make it successful?
+
+--------------------------------------------------------------------------------
+
+93. ID: 5521
+   Year: 2023
+   Cluster: (None)
+   Actor: Hanne Storm Edlefsen
+   Statement: Yes, there is still a need for a well-connected grid in the North Sea. The focus must be on the most important elements: wind power and seabed connections, specifically in the form of electrical cables and hydrogen pipelines. At Energiens Folkemøde in Esbjerg, I had the opportunity to discuss these topics with industry colleagues. 
+
+Energinet is actively exploring an alternative solution to the original artificial island concept for Energy Island North Sea. This new approach is less risky while still enabling the capture of significant offshore wind energy. 
+
+As global electrification accelerates, a substantial increase in electricity production is essential. International connections, cross-border collaboration, and the integration of electricity and hydrogen are crucial for this transition. Achieving climate goals requires a systemic transformation of our society through electrification and innovative technologies. This is the core purpose of the Energy Island projects, including Energy Island North Sea.
+
+--------------------------------------------------------------------------------
+
+94. ID: 1982
+   Year: 2023
+   Cluster: Energy hubs towards P2X
+   Actor: Danish Ministry of Climate, Energy and Utilities
+   Statement: The new artificial island project in the North Sea represents Denmark's largest construction project in history, with an estimated cost of 210 billion Danish kroner - equivalent to about five Great Belt Bridges or four Fehmarn Belt connections. The island will be located 80 kilometers offshore and will generate electricity for three million Danish households. The Port of Esbjerg is positioned to become a crucial hub for this project and welcomes this development. A broad majority in the Danish Parliament has now reached an agreement to establish this energy island, marking a significant step forward after several years of studies and political negotiations, as announced by the Ministry of Climate, Energy and Utilities.
+
+--------------------------------------------------------------------------------
+
+95. ID: 3087
+   Year: 2023
+   Cluster: (None)
+   Actor: Tinne Van der Straeten
+   Statement: Building on the good cooperation between the Participants established in the Memorandum
+of Understanding (MoU) on Cooperation on Offshore Energy Infrastructure between the Participants of February 4th 2021, the Memorandum of Agreement on the Realization of a Hybrid
+Interconnector between Belgium and a Danish Energy Island of November 23th 2021, and the
+Agreement on Statis-tical transfer of Energy from renewable sources for the years 2021-2025
+and, on renewable energy shares generated by the Danish Energy Island post 2030 between
+the Participants of September 9th 2022;
+Acknowledging that energy security and the fight against climate change are crucial to the
+fu-ture of the European Union;
+Further acknowledging that recent geopolitical events have strengthened the need to increas-ingly replace fossil fuels, including Russian oil, coal and gas, with European renewable
+energy from the North Sea, including offshore wind and green hydrogen, contributing to both
+EU climate neu-trality and energy security;
+Acknowledging the cooperation on joint and hybrid offshore projects and wish to realise the
+vision of the North Sea as a Green Power Plant of Europe established between Denmark, Germany, Belgium and the Netherlands in the "Esbjerg Declaration" on May 18th 2022;
+Recognising that offshore renewable energy hubs/islands and an increasingly meshed off-shore grid are crucial to generate, connect, convert and transport offshore wind energy in the
+North Sea;
+
+--------------------------------------------------------------------------------
+
+96. ID: 4152
+   Year: 2023
+   Cluster: (None)
+   Actor: Erhvervsfremmebestyrelsen
+   Statement: We state that the Energy Island project has largely followed its planned trajectory, with most activities being completed as scheduled. The project successfully achieved its targets, including the number of businesses obtaining ISO certifications. Although the project experienced a slow start during the first half of the implementation period, the financial support allocated for construction investments in businesses was eventually distributed. 
+
+In the latter part of the project period, the demand for construction investment support exceeded initial expectations. Consequently, the project expanded the financial support framework by reallocating unspent funds from the project’s salary budget. Additionally, funds were allocated for study trips to locations such as Esbjerg, where meetings and inspirational presentations from offshore industry stakeholders took place.
+
+Both the ISO certifications and the construction investment support have equipped businesses to compete for tasks related to the establishment of the Energy Island. According to the businesses, these initiatives have also enhanced their overall ability to bid on new opportunities in a broader context.
+
+--------------------------------------------------------------------------------
+
+97. ID: 3314
+   Year: 2023
+   Cluster: German collaboration
+   Actor: Stefan Kapferer
+   Statement: The offshore wind industry in Europe requires rapid expansion. The ports and shipyards along Germany's North and Baltic Sea coasts need increased production capacity to avoid supply bottlenecks. The electricity market must provide clear investment signals by eliminating revenue ceilings. Along with industry partners Amprion GmbH, Elia, Energinet, Gasunie and TenneT, we at 50Hertz have proposed solutions in the Esbjerg Cooperation paper to achieve more efficient use of offshore wind generation capacity. These solutions include cross-border hybrid interconnectors combined with hydrogen technology to maximize economic benefits.
+
+--------------------------------------------------------------------------------
+
+98. ID: 130
+   Year: 2024
+   Cluster: (None)
+   Actor: Torben Westh Jensen
+   Statement: Jeg mener, at det største problem for energiø projektet er de mange og lange kabler der skal lægges i Østersøen fra havvindmøllerne og til Bornholm og derefter fra Bornholm til Danmark og sidst men ikke mindst fra Bornholm til Tyskland. Måske skal der også et kabel til Polen men det gør vist ikke sagen bedre.
+
+En ting er de enorme udgifter til de mange kabler men en anden ting er det store strømtab der bliver når strømmen skal transporteres først til Bornholm og derefter over store afstande til aftager lande. I dette kæmpe projekt hænger tingene sammen og når vi siger A bliver vi nødt til at sige B og C osv. Indtil Bornholm er totalt ødelagt af tung industri.
+
+Hvis den gigantiske transformatorstation bygges på Bornholm, er der risiko for at der også skal bygges en gigantisk erhvervspark ved siden af til Brint og Ammoniak fabrikker og anden tung industri der kan bruge en masse strøm. (når det blæser altså). 
+
+Der er så store logistiske udfordringer forbundet med energiø Bornholm at jeg håber vores kære politikere snart vågner op og tager nogle fornuftige beslutninger der har hold i virkeligheden og kan realiseres.
+
+Jeg mener at havvindmølleparkerne energiø Bornholm skal flyttes til Nordsøen og at Danmark skal bygge de store havvindmølleparker i Nordsøen og lave brint produktion i Esbjerg, hvor Brinten kantransporteres i den allerede projekterede rørledning til Tyskland.
+Med andre ord så skal Danmark samle kræfterne og bygge de store havvindmølleparker i Nordsøen.
+
+I Nordsøen kan vindmøllerne komme længere fra land så de ikke generer befolkningen og der er mange andre fordele ved at bygge havvind i Nordsøen.
+
+--------------------------------------------------------------------------------
+
+99. ID: 7306
+   Year: 2024
+   Cluster: (None)
+   Actor: Søren Gade
+   Statement: I think the future for Esbjerg is incredibly promising. During my recent visit to ten different companies at the port, I found that every single one was ready to invest and innovate—something that is quite unusual. In Esbjerg, we have a history of adapting to change, and I believe that this readiness for transformation remains strong today. 
+
+It is also crucial to focus on recruiting the necessary skilled workforce. With the new European strategy as a foundation, I am optimistic that in ten years, there will be an energy island in the North Sea with maintenance operations based in Esbjerg and other ports along the Jutland west coast. On top of that, the focus on wind energy will keep us very busy. Looking ahead, the outlook is very positive.
+
+--------------------------------------------------------------------------------
+
+100. ID: 6524
+   Year: 2024
+   Cluster: (None)
+   Actor: Dennis Jul Pedersen
+   Statement: The European power grid, particularly in Germany, is significantly underdimensioned, creating challenges in effectively distributing electricity. Addressing this issue will take considerable time. One solution to mitigate this problem is to connect Danish wind farms directly to the German power grid further south of the border. As director of the Port of Esbjerg with extensive knowledge of the offshore wind industry, I emphasize the importance of interconnectors—large, thick electrical cables directly linking Danish wind farms to major German cities. These interconnectors are essential to enable the sale of electricity on the market.
+
+--------------------------------------------------------------------------------
+
+101. ID: 5025
+   Year: 2024
+   Cluster: (None)
+   Actor: Lars Aagaard
+   Statement: In our view, it is sensible to adopt a common European approach. This concerns our shared green transition and future competitiveness. I remain optimistic about successfully launching this massive project, which was unveiled at the Esbjerg harbor in 2022 with the participation of prominent heads of state, government leaders, and the President of the European Commission, Ursula von der Leyen.
+
+--------------------------------------------------------------------------------
+
+102. ID: 2209
+   Year: 2024
+   Cluster: Job creation and innovation
+   Actor: Jacob Trøst
+   Statement: Energy Island Bornholm presents an opportunity for local growth and long-term economic sustainability on Bornholm, but achieving this requires financial investment in future business development. Energy islands are not just an innovative concept; they are essential for meeting the political goals outlined in the Esbjerg and Marienborg Declarations to install significant offshore wind capacity. Since much of this capacity is located far offshore, energy island technology is necessary to collect electricity at sea and transmit it to land. Denmark must leverage its head start with Energy Island Bornholm to establish energy islands as a Danish strategic strength; otherwise, other countries will seize the opportunity.  
+
+Security is a critical concern. Protecting large new facilities and the infrastructure we will rely on in the future from terrorism and hybrid warfare is paramount. At the Baltic Energy Island Summit, we will address this issue in detail.
+
+--------------------------------------------------------------------------------
+
+103. ID: 2198
+   Year: 2024
+   Cluster: (None)
+   Actor: Hanne Storm Edlefsen
+   Statement: Yes, there is still a need for a finely branched network in the North Sea. We must focus on the essentials: wind energy and seabed connections in the form of electric cables and hydrogen pipes. Last Friday, I had the pleasure of discussing this topic with esteemed colleagues at the Energy People's Meeting summit in Esbjerg.
+
+At Energinet, we are exploring an alternative solution that is less risky than the original artificial island concept for the North Sea Energy Island. However, it remains a solution that enables us to harness large amounts of offshore wind energy in the North Sea.
+
+We need significantly more electricity in the future. We are looking at a comprehensive electrification of the entire globe, requiring ample electricity, and this was a consensus among all of us in the panel debate. We discussed the importance of international connections, cross-border cooperation, and the interplay between electricity and hydrogen.
+
+We will not achieve climate goals unless we consider how to transition our society systemically—through electrification and new technologies. This is what energy islands are about. This is what the North Sea Energy Island is about.
+
+--------------------------------------------------------------------------------
+
+104. ID: 1698
+   Year: 2024
+   Cluster: (None)
+   Actor: Lars Aagaard
+   Statement: I am optimistic about getting help to cover the cost of establishing at least 300 gigawatts of offshore wind power in the North Sea by 2050. 
+
+In my view, it makes sense to have a common European approach. This is about all of us, our green transition, and our future competitiveness. 
+
+I am confident we can get this enormous project off the ground, which we launched at the port of Esbjerg in 2022 with prominent heads of state, government leaders, and EU Commission President Ursula von der Leyen. 
+
+The challenges are clear: offshore wind has become more expensive to produce, causing private investors to withdraw, which has delayed or canceled several large-scale projects. 
+
+On Thursday, the eight countries involved in the project agreed on some recommendations to find a way to realize the goal of 300 gigawatts of offshore wind. 
+
+I believe the North Sea has everything needed to become Europe’s green energy hub. 
+
+This will make Europe independent of Russian gas, strengthen our competitiveness, create jobs, and drive the green transition. 
+
+The massive amount of energy we aim to produce can benefit all of Europe through lower energy prices and increased energy security. 
+
+For the countries that could potentially benefit, I think it’s only fair to figure out how we can collectively increase investments to mitigate the risks of these projects. 
+
+According to the industry organization Wind Europe, it’s unrealistic for the expansion to be as large as we envision. But I believe it’s important to set ambitious goals as a guiding star. 
+
+Do I think the EU is doing enough? No, that is the shortest and most accurate answer. I am more impatient, but it doesn’t help to act like a teenager, jumping up and down and holding my breath until I get my way. 
+
+A significant part of this project depends on a much more extensive hydrogen infrastructure, but unfortunately, it’s not progressing as quickly as we hoped. 
+
+It’s also challenging to get individual countries to agree on funding. We learned that in Denmark when our agreement with Belgium on billion-dollar power cables fell through this summer. That delay has pushed back our energy island by at least three years. 
+
+However, I do find the European Commission cooperative, and that gives me hope.
+
+--------------------------------------------------------------------------------
+
+105. ID: 7313
+   Year: 2024
+   Cluster: Green growth in Esbjerg
+   Actor: Anders Kronborg
+   Statement: I think Esbjerg Harbor is Europe's most important hub for offshore wind and Denmark’s energy metropolis. There are great visions for the upcoming energy island in the North Sea. Thousands of jobs have been created within the green transition, and I have many praises for Esbjerg Harbor, its leadership, employees, and the companies I have visited countless times.
+
+--------------------------------------------------------------------------------
+
+106. ID: 7417
+   Year: 2025
+   Cluster: (None)
+   Actor: Lars Aagaard
+   Statement: The government will ease the conditions for the hydrogen pipeline to Germany and provide billion-dollar support so that construction can be accelerated by one year.
+
+The initial focus will be on the part of the hydrogen pipeline running from Esbjerg to the German border. This delays the original plan to build a 360-kilometer long pipeline.
+
+The condition is that we can connect Danish production to German demand, and that requires a hydrogen pipeline, which the government is ready to support.
+
+--------------------------------------------------------------------------------
+
+107. ID: 143
+   Year: 2025
+   Cluster: (None)
+   Actor: Torben Westh Jensen
+   Statement: I believe that the biggest problem with the Energy Island project is the many long cables that need to be laid in the Baltic Sea from the offshore wind turbines to Bornholm, then from Bornholm to Denmark, and finally from Bornholm to Germany. Perhaps there will also need to be a cable to Poland, but that certainly won’t improve the situation.
+
+One issue is the enormous costs of these many cables, but another is the significant power loss when electricity has to be transported first to Bornholm and then over great distances to the receiving countries. In this massive project, everything is interconnected, and when we say A, we have to say B and C, and so on until Bornholm is completely ruined by heavy industry.
+
+If the gigantic transformer station is built on Bornholm, there’s a risk that a massive industrial park will also need to be constructed alongside it, including hydrogen and ammonia factories and other heavy industries that can use large amounts of electricity (when it’s windy, that is).
+
+How will this hydrogen or ammonia, which are dangerous substances, be transported from Bornholm to, for instance, Germany? The only sensible way to transport such large quantities of hydrogen, for example, is via a pipeline, but when will this pipeline be completed?
+
+The logistical challenges associated with Energy Island Bornholm are so significant that I hope our dear politicians will soon wake up and make sensible decisions grounded in reality and feasibility.
+
+I believe the Energy Island Bornholm offshore wind farms should be relocated to the North Sea, and Denmark should build large offshore wind farms there, producing hydrogen in Esbjerg, where the hydrogen can be transported through the already planned pipeline to Germany.
+
+In other words, Denmark should consolidate its efforts and build the large offshore wind farms in the North Sea. In the North Sea, the wind turbines can be placed further from land, so they won’t disturb the population, and there are many other advantages to building offshore wind in the North Sea.
+
+--------------------------------------------------------------------------------
+
+108. ID: 7349
+   Year: 2025
+   Cluster: (None)
+   Actor: Hans Østergaard
+   Statement: I, Hans Østergaard, mayor of Ringkøbing-Skjern, have not given up on the hope that a hydrogen pipeline will be extended northward to reach our municipality. Although the current state support only covers the pipeline from Esbjerg to Germany, we are still counting on the hydrogen line eventually continuing in our direction. It is very, very important for us that the hydrogen pipeline reaches Ringkøbing-Skjern.
+
+--------------------------------------------------------------------------------
+
+109. ID: 7352
+   Year: 2025
+   Cluster: (None)
+   Actor: Tejs Laustsen Jensen
+   Statement: I want to commend the Danish government for demonstrating responsiveness to the structural problems in the previous hydrogen pipeline plan. The support for the hydrogen pipeline from Esbjerg to the German border is a positive development for the hydrogen industry.
+
+--------------------------------------------------------------------------------
+
+110. ID: 7360
+   Year: 2025
+   Cluster: (None)
+   Actor: Lars Aagaard
+   Statement: I confirm that the government is providing support for an important hydrogen pipeline in Jutland, starting with the section known as the '7-shape', which runs from the German border to Esbjerg. We are keeping the door open for extending the rest of the pipeline. The state budget will contribute financial support, and although the exact amount is not yet specified, it involves billions. Germany is ready to receive Danish hydrogen starting in 2023, so we are working to ensure that the pipeline will be operational by 2030.
+
+--------------------------------------------------------------------------------
+
+111. ID: 7424
+   Year: 2025
+   Cluster: Job creation and innovation
+   Actor: Lea Wermelin
+   Statement: Historic EU support for Energy Island Bornholm – but we must wait for the next step
+
+I have just come out of a meeting at the Ministry of Health, where we are working to make the health reform a reality. However, I had to take a break to speak with TV2 Bornholm about the latest news on offshore wind energy:
+
+Energy Island Bornholm has received 4.8 billion DKK in EU support! This is the largest EU grant ever for a Danish project. 💚
+
+As a Bornholm native and former climate spokesperson, I am incredibly proud. This shows that Bornholm plays a key role in Europe’s green transition.
+
+However, we are also facing a dilemma. The necessary framework in Germany is not yet in place, so we must wait for the new German government to make decisions before we can move forward.
+
+In the meantime, we are continuing to strengthen Denmark’s green leadership:
+✅ More offshore wind – the government will re-auction 2-3 GW with better terms and the possibility of state support.
+✅ Hydrogen infrastructure – the state will invest in a new pipeline from Esbjerg.
+✅ Green electricity for Europe – Denmark is ready to deliver.
+
+Bornholm has the potential to become a green powerhouse for all of Europe. Now, we just need to ensure that the next steps are taken.
+
+Have a great Friday 🩷
+
+--------------------------------------------------------------------------------
+

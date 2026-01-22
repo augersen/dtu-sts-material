@@ -15,7 +15,7 @@ Edit the configuration variables below and run the script.
 
 # Starting query to find related formulations for
 # Can be a single string or a list of strings
-start_query = ["Compensation"]
+start_query = ["Esbjerg"]
 # start_query = "hydrogen"  # Or single query
 
 # Maximum iterations to search for new formulations
